@@ -1,5 +1,874 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-21T11:56:33Z",
-  "waterPoints": []
+  "updatedAt": "2026-02-21T17:40:11Z",
+  "waterPoints": [
+    {
+      "id": "AIGUEBLETTE",
+      "name": "Aigueblette",
+      "countryCode": "FR",
+      "lat": 45.55,
+      "lon": 5.8
+    },
+    {
+      "id": "AJACCIO",
+      "name": "Ajaccio",
+      "countryCode": "FR",
+      "lat": 41.916667,
+      "lon": 8.75
+    },
+    {
+      "id": "ANDANCE",
+      "name": "Andance",
+      "countryCode": "FR",
+      "lat": 45.216667,
+      "lon": 4.8
+    },
+    {
+      "id": "ANNECY",
+      "name": "Annecy",
+      "countryCode": "FR",
+      "lat": 45.85,
+      "lon": 6.166667
+    },
+    {
+      "id": "BAGES",
+      "name": "Bages",
+      "countryCode": "FR",
+      "lat": 43.1,
+      "lon": 3.0
+    },
+    {
+      "id": "BASSE_SEINE",
+      "name": "Basse Seine",
+      "countryCode": "FR",
+      "lat": 49.433333,
+      "lon": 0.6
+    },
+    {
+      "id": "BASTIA",
+      "name": "Bastia",
+      "countryCode": "FR",
+      "lat": 42.516667,
+      "lon": 9.55
+    },
+    {
+      "id": "BEAULIEU_MENTON",
+      "name": "Beaulieu-Menton",
+      "countryCode": "FR",
+      "lat": 43.7,
+      "lon": 7.333333
+    },
+    {
+      "id": "BEAUTIRAN",
+      "name": "Beautiran",
+      "countryCode": "FR",
+      "lat": 44.716667,
+      "lon": -0.45
+    },
+    {
+      "id": "BEC_D_AMBES",
+      "name": "Bec D’Ambes",
+      "countryCode": "FR",
+      "lat": 45.016667,
+      "lon": -0.583333
+    },
+    {
+      "id": "BERRE",
+      "name": "Berre",
+      "countryCode": "FR",
+      "lat": 43.483333,
+      "lon": 5.1
+    },
+    {
+      "id": "BISCAROSSE",
+      "name": "Biscarosse",
+      "countryCode": "FR",
+      "lat": 44.35,
+      "lon": -1.183333
+    },
+    {
+      "id": "BORT_LES_ORGUES",
+      "name": "Bort Les Orgues",
+      "countryCode": "FR",
+      "lat": 45.45,
+      "lon": 2.5
+    },
+    {
+      "id": "BOULOGNE_SUR_GESSE",
+      "name": "Boulogne Sur Gesse",
+      "countryCode": "FR",
+      "lat": 43.333333,
+      "lon": 0.666667
+    },
+    {
+      "id": "BREST",
+      "name": "Brest",
+      "countryCode": "FR",
+      "lat": 48.3,
+      "lon": -4.433333
+    },
+    {
+      "id": "CALVI",
+      "name": "Calvi",
+      "countryCode": "FR",
+      "lat": 42.566667,
+      "lon": 8.783333
+    },
+    {
+      "id": "CANNES_NICE",
+      "name": "Cannes-Nice",
+      "countryCode": "FR",
+      "lat": 43.533333,
+      "lon": 7.083333
+    },
+    {
+      "id": "CARRO",
+      "name": "Carro",
+      "countryCode": "FR",
+      "lat": 43.35,
+      "lon": 5.016667
+    },
+    {
+      "id": "CASTELLANE",
+      "name": "Castellane",
+      "countryCode": "FR",
+      "lat": 43.9,
+      "lon": 6.533333
+    },
+    {
+      "id": "CAZAUBON",
+      "name": "Cazaubon",
+      "countryCode": "FR",
+      "lat": 43.933333,
+      "lon": -0.05
+    },
+    {
+      "id": "CAZAUX",
+      "name": "Cazaux",
+      "countryCode": "FR",
+      "lat": 44.5,
+      "lon": -1.15
+    },
+    {
+      "id": "CHARMES",
+      "name": "Charmes",
+      "countryCode": "FR",
+      "lat": 44.866667,
+      "lon": 4.85
+    },
+    {
+      "id": "CHATEAUNEUF_DU_PAPE",
+      "name": "Chateauneuf Du Pape",
+      "countryCode": "FR",
+      "lat": 44.033333,
+      "lon": 4.816667
+    },
+    {
+      "id": "CHAUMARD",
+      "name": "Chaumard",
+      "countryCode": "FR",
+      "lat": 47.15,
+      "lon": 3.9
+    },
+    {
+      "id": "DER",
+      "name": "Der",
+      "countryCode": "FR",
+      "lat": 48.583333,
+      "lon": 4.75
+    },
+    {
+      "id": "DONGE",
+      "name": "Donge",
+      "countryCode": "FR",
+      "lat": 47.3,
+      "lon": -2.1
+    },
+    {
+      "id": "DONZERE",
+      "name": "Donzere",
+      "countryCode": "FR",
+      "lat": 44.45,
+      "lon": 4.7
+    },
+    {
+      "id": "DUC",
+      "name": "Duc",
+      "countryCode": "FR",
+      "lat": 47.95,
+      "lon": -2.416667
+    },
+    {
+      "id": "EGUZON",
+      "name": "Eguzon",
+      "countryCode": "FR",
+      "lat": 46.4,
+      "lon": 1.616667
+    },
+    {
+      "id": "FIGARI",
+      "name": "Figari",
+      "countryCode": "FR",
+      "lat": 41.466667,
+      "lon": 9.066667
+    },
+    {
+      "id": "FORET_D_ORIENT",
+      "name": "Foret D’Orient",
+      "countryCode": "FR",
+      "lat": 48.266667,
+      "lon": 4.316667
+    },
+    {
+      "id": "FOS",
+      "name": "Fos",
+      "countryCode": "FR",
+      "lat": 43.4,
+      "lon": 4.933333
+    },
+    {
+      "id": "GABAS",
+      "name": "Gabas",
+      "countryCode": "FR",
+      "lat": 43.283333,
+      "lon": -0.133333
+    },
+    {
+      "id": "GOLFE_DU_MOBIHAN",
+      "name": "Golfe Du Mobihan",
+      "countryCode": "FR",
+      "lat": 47.566667,
+      "lon": -2.833333
+    },
+    {
+      "id": "GRAU_DU_ROI",
+      "name": "Grau Du Roi",
+      "countryCode": "FR",
+      "lat": 43.533333,
+      "lon": 4.116667
+    },
+    {
+      "id": "GUERLEDAN",
+      "name": "Guerledan",
+      "countryCode": "FR",
+      "lat": 48.2,
+      "lon": -3.05
+    },
+    {
+      "id": "HOURTIN",
+      "name": "Hourtin",
+      "countryCode": "FR",
+      "lat": 45.133333,
+      "lon": -1.116667
+    },
+    {
+      "id": "HYERES",
+      "name": "Hyeres",
+      "countryCode": "FR",
+      "lat": 43.066667,
+      "lon": 6.116667
+    },
+    {
+      "id": "ILE_ROUSSE",
+      "name": "Ile Rousse",
+      "countryCode": "FR",
+      "lat": 42.633333,
+      "lon": 8.95
+    },
+    {
+      "id": "L_ESCOUROU",
+      "name": "L’Escourou",
+      "countryCode": "FR",
+      "lat": 44.666667,
+      "lon": 0.35
+    },
+    {
+      "id": "L_ESTRADE",
+      "name": "L’Estrade",
+      "countryCode": "FR",
+      "lat": 43.333333,
+      "lon": 1.8
+    },
+    {
+      "id": "LA_CIOTAT",
+      "name": "La Ciotat",
+      "countryCode": "FR",
+      "lat": 43.166667,
+      "lon": 5.633333
+    },
+    {
+      "id": "LA_HONCE",
+      "name": "La Honce",
+      "countryCode": "FR",
+      "lat": 43.5,
+      "lon": -1.383333
+    },
+    {
+      "id": "LA_LIEZ",
+      "name": "La Liez",
+      "countryCode": "FR",
+      "lat": 47.866667,
+      "lon": 5.4
+    },
+    {
+      "id": "LA_MADINE",
+      "name": "La Madine",
+      "countryCode": "FR",
+      "lat": 48.916667,
+      "lon": 5.733333
+    },
+    {
+      "id": "LA_PIERRE_PERCEE",
+      "name": "La Pierre Percee",
+      "countryCode": "FR",
+      "lat": 48.466667,
+      "lon": 6.916667
+    },
+    {
+      "id": "LA_ROCHE_DE_GLUN",
+      "name": "La Roche De Glun",
+      "countryCode": "FR",
+      "lat": 45.0,
+      "lon": 4.85
+    },
+    {
+      "id": "LA_SALVETAT",
+      "name": "La Salvetat",
+      "countryCode": "FR",
+      "lat": 43.6,
+      "lon": 2.616667
+    },
+    {
+      "id": "LAC_LEMAN",
+      "name": "Lac Leman",
+      "countryCode": "FR",
+      "lat": 46.416667,
+      "lon": 6.5
+    },
+    {
+      "id": "LACANAU",
+      "name": "Lacanau",
+      "countryCode": "FR",
+      "lat": 44.966667,
+      "lon": -1.116667
+    },
+    {
+      "id": "LAFFREY",
+      "name": "Laffrey",
+      "countryCode": "FR",
+      "lat": 45.016667,
+      "lon": 5.783333
+    },
+    {
+      "id": "LAVAUD",
+      "name": "Lavaud",
+      "countryCode": "FR",
+      "lat": 45.816667,
+      "lon": 0.666667
+    },
+    {
+      "id": "LE_BOURGET",
+      "name": "Le Bourget",
+      "countryCode": "FR",
+      "lat": 45.733333,
+      "lon": 5.866667
+    },
+    {
+      "id": "LE_BRUSC",
+      "name": "Le Brusc",
+      "countryCode": "FR",
+      "lat": 43.1,
+      "lon": 5.8
+    },
+    {
+      "id": "LE_LANVANDOU",
+      "name": "Le Lanvandou",
+      "countryCode": "FR",
+      "lat": 43.133333,
+      "lon": 6.383333
+    },
+    {
+      "id": "LE_STOCK",
+      "name": "Le Stock",
+      "countryCode": "FR",
+      "lat": 48.766667,
+      "lon": 6.933333
+    },
+    {
+      "id": "LE_VERDON",
+      "name": "Le Verdon",
+      "countryCode": "FR",
+      "lat": 47.016667,
+      "lon": -0.816667
+    },
+    {
+      "id": "LEON",
+      "name": "Leon",
+      "countryCode": "FR",
+      "lat": 43.9,
+      "lon": -1.316667
+    },
+    {
+      "id": "LES_MUREAUX",
+      "name": "Les Mureaux",
+      "countryCode": "FR",
+      "lat": 49.0,
+      "lon": 1.933333
+    },
+    {
+      "id": "LESIGNAC",
+      "name": "Lesignac",
+      "countryCode": "FR",
+      "lat": 43.8,
+      "lon": 0.65
+    },
+    {
+      "id": "LIBOURNE",
+      "name": "Libourne",
+      "countryCode": "FR",
+      "lat": 44.916667,
+      "lon": -0.316667
+    },
+    {
+      "id": "LISSAC",
+      "name": "Lissac",
+      "countryCode": "FR",
+      "lat": 45.1,
+      "lon": 1.45
+    },
+    {
+      "id": "LORIENT",
+      "name": "Lorient",
+      "countryCode": "FR",
+      "lat": 47.733333,
+      "lon": -3.35
+    },
+    {
+      "id": "MACON",
+      "name": "Macon",
+      "countryCode": "FR",
+      "lat": 46.216667,
+      "lon": 4.8
+    },
+    {
+      "id": "MARCKOLSHEIM",
+      "name": "Marckolsheim",
+      "countryCode": "FR",
+      "lat": 48.183333,
+      "lon": 7.633333
+    },
+    {
+      "id": "MAS_THIBERT",
+      "name": "Mas Thibert",
+      "countryCode": "FR",
+      "lat": 43.566667,
+      "lon": 4.7
+    },
+    {
+      "id": "MATEMALE",
+      "name": "Matemale",
+      "countryCode": "FR",
+      "lat": 42.566667,
+      "lon": 2.1
+    },
+    {
+      "id": "MELUN",
+      "name": "Melun",
+      "countryCode": "FR",
+      "lat": 48.483333,
+      "lon": 2.683333
+    },
+    {
+      "id": "MIMIZAN",
+      "name": "Mimizan",
+      "countryCode": "FR",
+      "lat": 44.233333,
+      "lon": -1.216667
+    },
+    {
+      "id": "MOISSAC",
+      "name": "Moissac",
+      "countryCode": "FR",
+      "lat": 44.083333,
+      "lon": 1.0
+    },
+    {
+      "id": "MONTBEL",
+      "name": "Montbel",
+      "countryCode": "FR",
+      "lat": 42.966667,
+      "lon": 1.95
+    },
+    {
+      "id": "MONTELIMAR",
+      "name": "Montelimar",
+      "countryCode": "FR",
+      "lat": 44.6,
+      "lon": 4.733333
+    },
+    {
+      "id": "MONTEYNARD",
+      "name": "Monteynard",
+      "countryCode": "FR",
+      "lat": 44.9,
+      "lon": 5.683333
+    },
+    {
+      "id": "MORCENX",
+      "name": "Morcenx",
+      "countryCode": "FR",
+      "lat": 44.033333,
+      "lon": -0.85
+    },
+    {
+      "id": "MORLAIX",
+      "name": "Morlaix",
+      "countryCode": "FR",
+      "lat": 48.65,
+      "lon": -3.866667
+    },
+    {
+      "id": "NAUSSAC",
+      "name": "Naussac",
+      "countryCode": "FR",
+      "lat": 44.75,
+      "lon": 3.8
+    },
+    {
+      "id": "PINARELO_CIPRIANO",
+      "name": "Pinarelo-Cipriano",
+      "countryCode": "FR",
+      "lat": 41.666667,
+      "lon": 9.383333
+    },
+    {
+      "id": "PALADRU",
+      "name": "Paladru",
+      "countryCode": "FR",
+      "lat": 45.45,
+      "lon": 5.533333
+    },
+    {
+      "id": "PARELOUP",
+      "name": "Pareloup",
+      "countryCode": "FR",
+      "lat": 44.216667,
+      "lon": 2.766667
+    },
+    {
+      "id": "PAUILLAC",
+      "name": "Pauillac",
+      "countryCode": "FR",
+      "lat": 45.166667,
+      "lon": -0.716667
+    },
+    {
+      "id": "PINCEMAILLE",
+      "name": "Pincemaille",
+      "countryCode": "FR",
+      "lat": 47.466667,
+      "lon": 0.2
+    },
+    {
+      "id": "PLOBSHEIM",
+      "name": "Plobsheim",
+      "countryCode": "FR",
+      "lat": 48.433333,
+      "lon": 7.75
+    },
+    {
+      "id": "POINTE_ROUGE",
+      "name": "Pointe Rouge",
+      "countryCode": "FR",
+      "lat": 43.266667,
+      "lon": 5.333333
+    },
+    {
+      "id": "PORT_DE_MARSEILLE",
+      "name": "Port De Marseille",
+      "countryCode": "FR",
+      "lat": 43.333333,
+      "lon": 5.333333
+    },
+    {
+      "id": "PORT_VENDRES",
+      "name": "Port Vendres",
+      "countryCode": "FR",
+      "lat": 42.55,
+      "lon": 3.066667
+    },
+    {
+      "id": "PORTO",
+      "name": "Porto",
+      "countryCode": "FR",
+      "lat": 42.283333,
+      "lon": 8.666667
+    },
+    {
+      "id": "PORTO_VECCHIO",
+      "name": "Porto Vecchio",
+      "countryCode": "FR",
+      "lat": 41.6,
+      "lon": 9.3
+    },
+    {
+      "id": "PROPRIANO",
+      "name": "Propriano",
+      "countryCode": "FR",
+      "lat": 41.683333,
+      "lon": 8.9
+    },
+    {
+      "id": "RHINAU",
+      "name": "Rhinau",
+      "countryCode": "FR",
+      "lat": 48.35,
+      "lon": 7.75
+    },
+    {
+      "id": "ROUCARIE",
+      "name": "Roucarie",
+      "countryCode": "FR",
+      "lat": 44.083333,
+      "lon": 2.15
+    },
+    {
+      "id": "SAGONE",
+      "name": "Sagone",
+      "countryCode": "FR",
+      "lat": 42.1,
+      "lon": 8.7
+    },
+    {
+      "id": "SALAGOU",
+      "name": "Salagou",
+      "countryCode": "FR",
+      "lat": 43.65,
+      "lon": 3.383333
+    },
+    {
+      "id": "SALSES",
+      "name": "Salses",
+      "countryCode": "FR",
+      "lat": 42.816667,
+      "lon": 3.383333
+    },
+    {
+      "id": "SANTA_MANZA",
+      "name": "Santa Manza",
+      "countryCode": "FR",
+      "lat": 41.416667,
+      "lon": 9.233333
+    },
+    {
+      "id": "SARRANS",
+      "name": "Sarrans",
+      "countryCode": "FR",
+      "lat": 44.85,
+      "lon": 2.75
+    },
+    {
+      "id": "SERRE_PONCON",
+      "name": "Serre Poncon",
+      "countryCode": "FR",
+      "lat": 44.483333,
+      "lon": 6.3
+    },
+    {
+      "id": "SOUSTON",
+      "name": "Souston",
+      "countryCode": "FR",
+      "lat": 43.783333,
+      "lon": -1.316667
+    },
+    {
+      "id": "SAINT_CASSIEN",
+      "name": "Saint Cassien",
+      "countryCode": "FR",
+      "lat": 43.6,
+      "lon": 6.816667
+    },
+    {
+      "id": "SAINT_CHRISTOLY",
+      "name": "Saint Christoly",
+      "countryCode": "FR",
+      "lat": 45.366667,
+      "lon": -0.816667
+    },
+    {
+      "id": "SAINT_ETIENNE_DE_CANTALES",
+      "name": "Saint Etienne De Cantales",
+      "countryCode": "FR",
+      "lat": 44.933333,
+      "lon": 2.233333
+    },
+    {
+      "id": "SAINT_ETIENNE_DES_SORTS",
+      "name": "Saint Etienne Des Sorts",
+      "countryCode": "FR",
+      "lat": 44.183333,
+      "lon": 4.716667
+    },
+    {
+      "id": "SAINT_FLORENT",
+      "name": "Saint Florent",
+      "countryCode": "FR",
+      "lat": 42.7,
+      "lon": 9.3
+    },
+    {
+      "id": "SAINT_MANDRIER",
+      "name": "Saint Mandrier",
+      "countryCode": "FR",
+      "lat": 43.1,
+      "lon": 5.933333
+    },
+    {
+      "id": "SAINT_MICHEL",
+      "name": "Saint Michel",
+      "countryCode": "FR",
+      "lat": 48.35,
+      "lon": -3.9
+    },
+    {
+      "id": "SAINT_POINT",
+      "name": "Saint Point",
+      "countryCode": "FR",
+      "lat": 46.816667,
+      "lon": 6.316667
+    },
+    {
+      "id": "SAINT_RAPHAEL",
+      "name": "Saint Raphael",
+      "countryCode": "FR",
+      "lat": 43.416667,
+      "lon": 6.616667
+    },
+    {
+      "id": "SAINT_TROPEZ",
+      "name": "Saint Tropez",
+      "countryCode": "FR",
+      "lat": 43.283333,
+      "lon": 6.616667
+    },
+    {
+      "id": "SAINTE_CROIX",
+      "name": "Sainte Croix",
+      "countryCode": "FR",
+      "lat": 43.75,
+      "lon": 6.166667
+    },
+    {
+      "id": "THAU",
+      "name": "Thau",
+      "countryCode": "FR",
+      "lat": 43.383333,
+      "lon": 3.616667
+    },
+    {
+      "id": "URBINO",
+      "name": "Urbino",
+      "countryCode": "FR",
+      "lat": 42.05,
+      "lon": 9.466667
+    },
+    {
+      "id": "URT",
+      "name": "Urt",
+      "countryCode": "FR",
+      "lat": 43.5,
+      "lon": -1.283333
+    },
+    {
+      "id": "VALLABREGUES",
+      "name": "Vallabregues",
+      "countryCode": "FR",
+      "lat": 43.866667,
+      "lon": 4.633333
+    },
+    {
+      "id": "VALRAS",
+      "name": "Valras",
+      "countryCode": "FR",
+      "lat": 43.233333,
+      "lon": 3.283333
+    },
+    {
+      "id": "VASSIVIERE",
+      "name": "Vassiviere",
+      "countryCode": "FR",
+      "lat": 45.8,
+      "lon": 1.883333
+    },
+    {
+      "id": "VICHY",
+      "name": "Vichy",
+      "countryCode": "FR",
+      "lat": 46.133333,
+      "lon": 3.416667
+    },
+    {
+      "id": "VIELLES_FORGES",
+      "name": "Vielles Forges",
+      "countryCode": "FR",
+      "lat": 49.866667,
+      "lon": 4.616667
+    },
+    {
+      "id": "VILLEFRANCHE_DE_PANAT",
+      "name": "Villefranche De Panat",
+      "countryCode": "FR",
+      "lat": 44.1,
+      "lon": 2.7
+    },
+    {
+      "id": "VILLEFRANCHE_SUR_SAONE",
+      "name": "Villefranche Sur Saone",
+      "countryCode": "FR",
+      "lat": 46.033333,
+      "lon": 4.75
+    },
+    {
+      "id": "VILLENEUVE_DE_LA_RAHO",
+      "name": "Villeneuve De La Raho",
+      "countryCode": "FR",
+      "lat": 42.633333,
+      "lon": 2.9
+    },
+    {
+      "id": "VINCA",
+      "name": "Vinca",
+      "countryCode": "FR",
+      "lat": 42.65,
+      "lon": 2.533333
+    },
+    {
+      "id": "VOLGELSHEIM",
+      "name": "Volgelsheim",
+      "countryCode": "FR",
+      "lat": 48.066667,
+      "lon": 7.566667
+    },
+    {
+      "id": "VOUGLANS",
+      "name": "Vouglans",
+      "countryCode": "FR",
+      "lat": 46.433333,
+      "lon": 5.7
+    },
+    {
+      "id": "WANTZENAU",
+      "name": "Wantzenau",
+      "countryCode": "FR",
+      "lat": 48.633333,
+      "lon": 7.833333
+    },
+    {
+      "id": "ZI_PORTUAIRE_FOS",
+      "name": "Zi Portuaire Fos",
+      "countryCode": "FR",
+      "lat": 43.416667,
+      "lon": 4.85
+    }
+  ]
 }

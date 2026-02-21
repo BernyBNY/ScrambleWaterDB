@@ -1,151 +1,101 @@
 import csv
 import json
+import re
 from pathlib import Path
 from datetime import datetime, timezone
-import re
-import unicodedata
 
 BASE = Path(__file__).resolve().parent.parent
 SRC = BASE / "source" / "waterpoints.csv"
-OUT = BASE / "waterpoints.json"
+OUT = BASE / "dist" / "waterpoints.json"
 
-def clean_text(s: str) -> str:
-    s = (s or "").strip()
-    # normalise les apostrophes typographiques (’ → ')
-    s = s.replace("’", "'").replace("′", "'").replace("“", '"').replace("”", '"').replace("″", '"')
-    return s
-
-def dms_to_decimal(deg: float, minute: float = 0, sec: float = 0, hemi: str = "N") -> float:
-    val = abs(deg) + (minute / 60.0) + (sec / 3600.0)
-    if hemi in ("S", "W"):
-        val = -val
-    return val
-
-def parse_single_dms(part: str):
+def parse_coord(coord: str):
     """
-    part ex:
-      "N 45°33'"
-      "E 005°48'"
-      "W 000°27'"
-      "N 43°29'12\""
-    Retourne (hemi, deg, min, sec) ou None
+    Exemples:
+      "N 45°33’/ E 005°48’"
+      "N 44°43’/ W 000°27’"
+    Retour: (lat, lon) en décimal
     """
-    part = clean_text(part).upper()
-    part = part.replace("O", "W")  # parfois Ouest = O
+    if not coord:
+        return None
 
-    # Extrait: HEMI + deg + min + (sec optionnel)
-    # accepte ° ou espace, minutes ' ou rien, secondes " optionnel
-    m = re.search(r"\b([NSEW])\s*([0-9]{1,3})\s*(?:°|\s)\s*([0-9]{1,2})?\s*'?[\s]*([0-9]{1,2})?\s*\"?", part)
+    s = coord.strip().upper()
+    # Normaliser apostrophes / séparateurs
+    s = s.replace("’", "'").replace("′", "'").replace("’", "'")
+    s = s.replace(" / ", "/").replace(" /", "/").replace("/ ", "/")
+    s = s.replace("° ", "°")
+
+    # Regex: H  dd°mm'  /  H  ddd°mm'
+    m = re.search(
+        r"\b([NS])\s*(\d{1,2})\s*°\s*(\d{1,2})\s*['’]?\s*/\s*([EW])\s*(\d{1,3})\s*°\s*(\d{1,2})\s*['’]?\b",
+        s
+    )
     if not m:
         return None
 
-    hemi = m.group(1)
-    deg = float(m.group(2))
-    minute = float(m.group(3) or 0)
-    sec = float(m.group(4) or 0)
-    return hemi, deg, minute, sec
+    lat_hemi, lat_deg, lat_min, lon_hemi, lon_deg, lon_min = m.groups()
 
-def parse_coord(raw: str):
-    """
-    Gère:
-      "N 45°33' / E 005°48'"
-      "N 45°33' E 005°48'"
-      "45.123, 5.456" (au cas où)
-    Retourne (lat, lon) en décimal.
-    """
-    s = clean_text(raw).upper()
-    if not s:
-        return None
+    lat = int(lat_deg) + int(lat_min) / 60.0
+    lon = int(lon_deg) + int(lon_min) / 60.0
 
-    # cas decimal "lat,lon"
-    m = re.match(r"^\s*([+-]?\d+(\.\d+)?)\s*[,;]\s*([+-]?\d+(\.\d+)?)\s*$", s)
-    if m:
-        return float(m.group(1)), float(m.group(3))
+    if lat_hemi == "S":
+        lat = -lat
+    if lon_hemi == "W":
+        lon = -lon
 
-    # split en 2 morceaux autour de "/" si présent
-    parts = [p.strip() for p in re.split(r"/", s) if p.strip()]
-    if len(parts) == 1:
-        # parfois: "N ... E ..."
-        parts = [s]
+    return (round(lat, 6), round(lon, 6))
 
-    # cherche N/S et E/W dans la chaîne
-    lat_part = None
-    lon_part = None
-
-    # si on a 2 morceaux, souvent 1 = lat, 2 = lon
-    if len(parts) >= 2:
-        lat_part = parts[0]
-        lon_part = parts[1]
-    else:
-        # sinon on essaye de découper par présence de E/W
-        # ex: "N 45°33' E 005°48'"
-        m2 = re.search(r"\b([EW])\b", s.replace("O", "W"))
-        if m2:
-            idx = m2.start()
-            lat_part = s[:idx]
-            lon_part = s[idx:]
-        else:
-            return None
-
-    lat_dms = parse_single_dms(lat_part)
-    lon_dms = parse_single_dms(lon_part)
-    if not lat_dms or not lon_dms:
-        return None
-
-    h1, d1, m1, s1 = lat_dms
-    h2, d2, m2, s2 = lon_dms
-
-    lat = dms_to_decimal(d1, m1, s1, h1)
-    lon = dms_to_decimal(d2, m2, s2, h2)
-    return lat, lon
-
-def make_id(name: str):
+def slug_id(name: str) -> str:
     s = (name or "").strip().upper()
-    s = re.sub(r"[^A-Z0-9]+", "_", s)
+    s = re.sub(r"[^\w]+", "_", s, flags=re.UNICODE)
     s = re.sub(r"_+", "_", s).strip("_")
-    return s[:48] if s else "WATER"
+    return s[:48] if s else "WATERPOINT"
 
-items = []
-errors = []
+waterpoints = []
+seen_ids = set()
 
-with SRC.open(newline="", encoding="utf-8") as f:
-    r = csv.DictReader(f)
-    for i, row in enumerate(r, start=2):
-        name = (row.get("NOM") or row.get("name") or "").strip()
-        coords = (row.get("COORDONNEES") or row.get("coords") or "").strip()
+with SRC.open("r", encoding="utf-8", newline="") as f:
+    r = csv.DictReader(f, delimiter=";")
+    # Nettoyage des noms de colonnes (au cas où)
+    r.fieldnames = [fn.strip() if fn else "" for fn in (r.fieldnames or [])]
 
-        if not name or not coords:
-            errors.append(f"Ligne {i}: NOM/COORDONNEES manquant")
+    # Tes colonnes s'appellent bien "NOM" et "COORDONNEES"
+    for row in r:
+        name = (row.get("NOM") or "").strip()
+        coord_raw = (row.get("COORDONNEES") or "").strip()
+
+        if not name or not coord_raw:
             continue
 
-        parsed = parse_coord(coords)
+        parsed = parse_coord(coord_raw)
         if not parsed:
-            errors.append(f"Ligne {i}: coords invalide -> {coords}")
             continue
 
         lat, lon = parsed
-        items.append({
-            "id": make_id(name),
-            "name": name,
-            "countryCode": "FR",   # tu peux laisser vide si tu préfères
-            "lat": round(lat, 6),
-            "lon": round(lon, 6),
-        })
+        wid = slug_id(name)
+        # Garantir unicité
+        base_id = wid
+        k = 2
+        while wid in seen_ids:
+            wid = f"{base_id}_{k}"
+            k += 1
+        seen_ids.add(wid)
 
-items.sort(key=lambda x: x["name"].lower())
+        waterpoints.append({
+            "id": wid,
+            "name": name.title() if name.isupper() else name,
+            "countryCode": "FR",  # si tu veux gérer plusieurs pays plus tard, on fera un mapping
+            "lat": lat,
+            "lon": lon
+        })
 
 db = {
     "version": 1,
-    "updatedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-    "waterPoints": items
+    "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "waterPoints": waterpoints
 }
 
-OUT.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
+OUT.parent.mkdir(parents=True, exist_ok=True)
+with OUT.open("w", encoding="utf-8") as f:
+    json.dump(db, f, ensure_ascii=False, indent=2)
 
-print(f"OK: {len(items)} plans d’eau -> {OUT}")
-if errors:
-    print("\nErreurs (à corriger dans Numbers/CSV) :")
-    for e in errors[:50]:
-        print(" -", e)
-    if len(errors) > 50:
-        print(f" ... +{len(errors)-50} autres")
+print(f"OK: {len(waterpoints)} waterpoints -> {OUT}")
