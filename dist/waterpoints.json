@@ -651,7 +651,7 @@
       "name": "Salses",
       "countryCode": "FR",
       "lat": 42.816667,
-      "lon": 3.383333
+      "lon": 2.983333
     },
     {
       "id": "SANTA_MANZA",
@@ -741,8 +741,8 @@
       "id": "SAINT_RAPHAEL",
       "name": "Saint Raphael",
       "countryCode": "FR",
-      "lat": 43.416667,
-      "lon": 6.616667
+      "lat": 43.423100,
+      "lon": 6.769300
     },
     {
       "id": "SAINT_TROPEZ",
