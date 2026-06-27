@@ -325,6 +325,13 @@
       "lon": 6.916667
     },
     {
+      "id": "LA_RANCE",
+      "name": "La Rance",
+      "countryCode": "FR",
+      "lat": 48.43,
+      "lon": -2,02
+    },
+    {
       "id": "LA_ROCHE_DE_GLUN",
       "name": "La Roche De Glun",
       "countryCode": "FR",
@@ -414,13 +421,6 @@
       "countryCode": "FR",
       "lat": 49.0,
       "lon": 1.933333
-    },
-    {
-      "id": "LESIGNAC",
-      "name": "Lesignac",
-      "countryCode": "FR",
-      "lat": 43.8,
-      "lon": 0.65
     },
     {
       "id": "LIBOURNE",
@@ -659,13 +659,6 @@
       "countryCode": "FR",
       "lat": 41.416667,
       "lon": 9.233333
-    },
-    {
-      "id": "SARRANS",
-      "name": "Sarrans",
-      "countryCode": "FR",
-      "lat": 44.85,
-      "lon": 2.75
     },
     {
       "id": "SERRE_PONCON",
