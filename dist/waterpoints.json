@@ -395,6 +395,13 @@
       "lon": 6.383333
     },
     {
+      "id": "LESIGNAC",
+      "name": "Lesignac",
+      "countryCode": "FR",
+      "lat": 45.806550,
+      "lon": 0.647640
+    },
+    {
       "id": "LE_STOCK",
       "name": "Le Stock",
       "countryCode": "FR",
