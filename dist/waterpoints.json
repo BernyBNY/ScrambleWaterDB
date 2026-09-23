@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T13:02:31Z",
+  "updatedAt": "2026-09-23T13:08:21Z",
   "waterPoints": [
     {
       "id": "AIGUEBLETTE",
@@ -5482,6 +5482,790 @@
       "countryCode": "ES",
       "lat": 40.516667,
       "lon": -6.483333
+    },
+    {
+      "id": "ABR_1",
+      "name": "Abr-1",
+      "countryCode": "IT",
+      "lat": 41.76,
+      "lon": 13.97
+    },
+    {
+      "id": "ABR_2",
+      "name": "Abr-2",
+      "countryCode": "IT",
+      "lat": 41.98,
+      "lon": 14.37
+    },
+    {
+      "id": "ABR_3",
+      "name": "Abr-3",
+      "countryCode": "IT",
+      "lat": 42.53,
+      "lon": 13.38
+    },
+    {
+      "id": "BAS_1",
+      "name": "Bas-1",
+      "countryCode": "IT",
+      "lat": 40.53,
+      "lon": 16.0
+    },
+    {
+      "id": "BAS_2",
+      "name": "Bas-2",
+      "countryCode": "IT",
+      "lat": 40.28,
+      "lon": 15.92
+    },
+    {
+      "id": "BAS_3",
+      "name": "Bas-3",
+      "countryCode": "IT",
+      "lat": 40.6,
+      "lon": 16.5
+    },
+    {
+      "id": "BAS_4",
+      "name": "Bas-4",
+      "countryCode": "IT",
+      "lat": 40.17,
+      "lon": 16.35
+    },
+    {
+      "id": "BAS_5",
+      "name": "Bas-5",
+      "countryCode": "IT",
+      "lat": 40.85,
+      "lon": 16.23
+    },
+    {
+      "id": "CALA_1",
+      "name": "Cala-1",
+      "countryCode": "IT",
+      "lat": 39.2,
+      "lon": 16.61
+    },
+    {
+      "id": "CALA_2",
+      "name": "Cala-2",
+      "countryCode": "IT",
+      "lat": 38.73,
+      "lon": 16.23
+    },
+    {
+      "id": "CALA_3",
+      "name": "Cala-3",
+      "countryCode": "IT",
+      "lat": 39.23,
+      "lon": 16.5
+    },
+    {
+      "id": "CALA_4",
+      "name": "Cala-4",
+      "countryCode": "IT",
+      "lat": 39.36,
+      "lon": 16.52
+    },
+    {
+      "id": "CAM_1",
+      "name": "Cam-1",
+      "countryCode": "IT",
+      "lat": 40.93,
+      "lon": 14.03
+    },
+    {
+      "id": "EMI_1",
+      "name": "Emi-1",
+      "countryCode": "IT",
+      "lat": 44.13,
+      "lon": 11.03
+    },
+    {
+      "id": "FRI_1",
+      "name": "Fri-1",
+      "countryCode": "IT",
+      "lat": 46.33,
+      "lon": 13.06
+    },
+    {
+      "id": "LAZ_1",
+      "name": "Laz-1",
+      "countryCode": "IT",
+      "lat": 41.75,
+      "lon": 12.65
+    },
+    {
+      "id": "LAZ_10",
+      "name": "Laz-10",
+      "countryCode": "IT",
+      "lat": 42.21,
+      "lon": 12.95
+    },
+    {
+      "id": "LAZ_11",
+      "name": "Laz-11",
+      "countryCode": "IT",
+      "lat": 42.32,
+      "lon": 12.18
+    },
+    {
+      "id": "LAZ_2",
+      "name": "Laz-2",
+      "countryCode": "IT",
+      "lat": 42.58,
+      "lon": 11.93
+    },
+    {
+      "id": "LAZ_3",
+      "name": "Laz-3",
+      "countryCode": "IT",
+      "lat": 42.13,
+      "lon": 12.2
+    },
+    {
+      "id": "LAZ_4",
+      "name": "Laz-4",
+      "countryCode": "IT",
+      "lat": 41.35,
+      "lon": 12.97
+    },
+    {
+      "id": "LAZ_5",
+      "name": "Laz-5",
+      "countryCode": "IT",
+      "lat": 41.4,
+      "lon": 12.88
+    },
+    {
+      "id": "LAZ_6",
+      "name": "Laz-6",
+      "countryCode": "IT",
+      "lat": 41.33,
+      "lon": 13.32
+    },
+    {
+      "id": "LAZ_7",
+      "name": "Laz-7",
+      "countryCode": "IT",
+      "lat": 41.27,
+      "lon": 13.4
+    },
+    {
+      "id": "LAZ_8",
+      "name": "Laz-8",
+      "countryCode": "IT",
+      "lat": 41.27,
+      "lon": 13.03
+    },
+    {
+      "id": "LAZ_9",
+      "name": "Laz-9",
+      "countryCode": "IT",
+      "lat": 42.25,
+      "lon": 13.07
+    },
+    {
+      "id": "LIG_1",
+      "name": "Lig 1",
+      "countryCode": "IT",
+      "lat": 44.53,
+      "lon": 9.18
+    },
+    {
+      "id": "LOM_1",
+      "name": "Lom-1",
+      "countryCode": "IT",
+      "lat": 45.8,
+      "lon": 9.35
+    },
+    {
+      "id": "LOM_11",
+      "name": "Lom-11",
+      "countryCode": "IT",
+      "lat": 45.77,
+      "lon": 10.07
+    },
+    {
+      "id": "LOM_12",
+      "name": "Lom-12",
+      "countryCode": "IT",
+      "lat": 46.02,
+      "lon": 9.07
+    },
+    {
+      "id": "LOM_13",
+      "name": "Lom-13",
+      "countryCode": "IT",
+      "lat": 46.2,
+      "lon": 9.43
+    },
+    {
+      "id": "LOM_14",
+      "name": "Lom-14",
+      "countryCode": "IT",
+      "lat": 45.8,
+      "lon": 8.67
+    },
+    {
+      "id": "LOM_16",
+      "name": "Lom-16",
+      "countryCode": "IT",
+      "lat": 45.8,
+      "lon": 9.27
+    },
+    {
+      "id": "LOM_17",
+      "name": "Lom-17",
+      "countryCode": "IT",
+      "lat": 45.82,
+      "lon": 8.73
+    },
+    {
+      "id": "LOM_2",
+      "name": "Lom-2",
+      "countryCode": "IT",
+      "lat": 46.53,
+      "lon": 10.27
+    },
+    {
+      "id": "LOM_3",
+      "name": "Lom-3",
+      "countryCode": "IT",
+      "lat": 45.77,
+      "lon": 8.68
+    },
+    {
+      "id": "LOM_4",
+      "name": "Lom-4",
+      "countryCode": "IT",
+      "lat": 45.87,
+      "lon": 9.15
+    },
+    {
+      "id": "LOM_5",
+      "name": "Lom-5",
+      "countryCode": "IT",
+      "lat": 46.43,
+      "lon": 9.43
+    },
+    {
+      "id": "LOM_6",
+      "name": "Lom-6",
+      "countryCode": "IT",
+      "lat": 45.78,
+      "lon": 9.93
+    },
+    {
+      "id": "LOM_7",
+      "name": "Lom-7",
+      "countryCode": "IT",
+      "lat": 45.58,
+      "lon": 10.17
+    },
+    {
+      "id": "LOM_8",
+      "name": "Lom-8",
+      "countryCode": "IT",
+      "lat": 45.82,
+      "lon": 9.38
+    },
+    {
+      "id": "LOM_9",
+      "name": "Lom-9",
+      "countryCode": "IT",
+      "lat": 45.77,
+      "lon": 10.52
+    },
+    {
+      "id": "MAR_1",
+      "name": "Mar-1",
+      "countryCode": "IT",
+      "lat": 43.37,
+      "lon": 13.15
+    },
+    {
+      "id": "MAR_2",
+      "name": "Mar-2",
+      "countryCode": "IT",
+      "lat": 42.9,
+      "lon": 13.38
+    },
+    {
+      "id": "MOL_1",
+      "name": "Mol-1",
+      "countryCode": "IT",
+      "lat": 41.82,
+      "lon": 14.83
+    },
+    {
+      "id": "PIE_1",
+      "name": "Pie-1",
+      "countryCode": "IT",
+      "lat": 45.33,
+      "lon": 7.92
+    },
+    {
+      "id": "PIE_2",
+      "name": "Pie-2",
+      "countryCode": "IT",
+      "lat": 45.43,
+      "lon": 7.22
+    },
+    {
+      "id": "PIE_3",
+      "name": "Pie-3",
+      "countryCode": "IT",
+      "lat": 45.82,
+      "lon": 8.38
+    },
+    {
+      "id": "PIE_4",
+      "name": "Pie-4",
+      "countryCode": "IT",
+      "lat": 45.9,
+      "lon": 8.57
+    },
+    {
+      "id": "PIE_5",
+      "name": "Pie-5",
+      "countryCode": "IT",
+      "lat": 45.95,
+      "lon": 8.47
+    },
+    {
+      "id": "PIE_6",
+      "name": "Pie-6",
+      "countryCode": "IT",
+      "lat": 45.42,
+      "lon": 8.03
+    },
+    {
+      "id": "PUG_1",
+      "name": "Pug-1",
+      "countryCode": "IT",
+      "lat": 40.2,
+      "lon": 18.43
+    },
+    {
+      "id": "PUG_2",
+      "name": "Pug-2",
+      "countryCode": "IT",
+      "lat": 41.17,
+      "lon": 15.78
+    },
+    {
+      "id": "PUG_3",
+      "name": "Pug-3",
+      "countryCode": "IT",
+      "lat": 41.88,
+      "lon": 15.41
+    },
+    {
+      "id": "PUG_4",
+      "name": "Pug-4",
+      "countryCode": "IT",
+      "lat": 40.48,
+      "lon": 17.3
+    },
+    {
+      "id": "PUG_5",
+      "name": "Pug-5",
+      "countryCode": "IT",
+      "lat": 41.55,
+      "lon": 14.95
+    },
+    {
+      "id": "PUG_6",
+      "name": "Pug-6",
+      "countryCode": "IT",
+      "lat": 40.85,
+      "lon": 16.23
+    },
+    {
+      "id": "PUG_7",
+      "name": "Pug-7",
+      "countryCode": "IT",
+      "lat": 41.88,
+      "lon": 15.73
+    },
+    {
+      "id": "PUG_8",
+      "name": "Pug-8",
+      "countryCode": "IT",
+      "lat": 41.08,
+      "lon": 16.0
+    },
+    {
+      "id": "PUG_9",
+      "name": "Pug-9",
+      "countryCode": "IT",
+      "lat": 41.42,
+      "lon": 15.42
+    },
+    {
+      "id": "SAR_1",
+      "name": "Sar-1",
+      "countryCode": "IT",
+      "lat": 39.93,
+      "lon": 9.45
+    },
+    {
+      "id": "SAR_10",
+      "name": "Sar-10",
+      "countryCode": "IT",
+      "lat": 40.13,
+      "lon": 8.92
+    },
+    {
+      "id": "SAR_11",
+      "name": "Sar-11",
+      "countryCode": "IT",
+      "lat": 40.58,
+      "lon": 9.17
+    },
+    {
+      "id": "SAR_12",
+      "name": "Sar-12",
+      "countryCode": "IT",
+      "lat": 40.63,
+      "lon": 9.58
+    },
+    {
+      "id": "SAR_13",
+      "name": "Sar-13",
+      "countryCode": "IT",
+      "lat": 39.95,
+      "lon": 8.48
+    },
+    {
+      "id": "SAR_14",
+      "name": "Sar-14",
+      "countryCode": "IT",
+      "lat": 40.85,
+      "lon": 8.28
+    },
+    {
+      "id": "SAR_15",
+      "name": "Sar-15",
+      "countryCode": "IT",
+      "lat": 39.87,
+      "lon": 8.58
+    },
+    {
+      "id": "SAR_16",
+      "name": "Sar-16",
+      "countryCode": "IT",
+      "lat": 39.93,
+      "lon": 9.67
+    },
+    {
+      "id": "SAR_2",
+      "name": "Sar-2",
+      "countryCode": "IT",
+      "lat": 40.92,
+      "lon": 8.22
+    },
+    {
+      "id": "SAR_3",
+      "name": "Sar-3",
+      "countryCode": "IT",
+      "lat": 40.75,
+      "lon": 9.05
+    },
+    {
+      "id": "SAR_4",
+      "name": "Sar-4",
+      "countryCode": "IT",
+      "lat": 40.13,
+      "lon": 9.2
+    },
+    {
+      "id": "SAR_5",
+      "name": "Sar-5",
+      "countryCode": "IT",
+      "lat": 41.0,
+      "lon": 9.28
+    },
+    {
+      "id": "SAR_6",
+      "name": "Sar-6",
+      "countryCode": "IT",
+      "lat": 39.42,
+      "lon": 8.72
+    },
+    {
+      "id": "SAR_7",
+      "name": "Sar-7",
+      "countryCode": "IT",
+      "lat": 39.08,
+      "lon": 8.62
+    },
+    {
+      "id": "SAR_8",
+      "name": "Sar-8",
+      "countryCode": "IT",
+      "lat": 40.48,
+      "lon": 8.55
+    },
+    {
+      "id": "SAR_9",
+      "name": "Sar-9",
+      "countryCode": "IT",
+      "lat": 39.62,
+      "lon": 9.23
+    },
+    {
+      "id": "SIC_1",
+      "name": "Sic-1",
+      "countryCode": "IT",
+      "lat": 37.83,
+      "lon": 14.55
+    },
+    {
+      "id": "SIC_10",
+      "name": "Sic-10",
+      "countryCode": "IT",
+      "lat": 37.88,
+      "lon": 12.72
+    },
+    {
+      "id": "SIC_11",
+      "name": "Sic-11",
+      "countryCode": "IT",
+      "lat": 37.7,
+      "lon": 12.75
+    },
+    {
+      "id": "SIC_12",
+      "name": "Sic-12",
+      "countryCode": "IT",
+      "lat": 37.43,
+      "lon": 14.57
+    },
+    {
+      "id": "SIC_13",
+      "name": "Sic-13",
+      "countryCode": "IT",
+      "lat": 37.33,
+      "lon": 14.95
+    },
+    {
+      "id": "SIC_2",
+      "name": "Sic-2",
+      "countryCode": "IT",
+      "lat": 37.63,
+      "lon": 13.07
+    },
+    {
+      "id": "SIC_3",
+      "name": "Sic-3",
+      "countryCode": "IT",
+      "lat": 37.13,
+      "lon": 14.7
+    },
+    {
+      "id": "SIC_4",
+      "name": "Sic-4",
+      "countryCode": "IT",
+      "lat": 37.78,
+      "lon": 13.1
+    },
+    {
+      "id": "SIC_5",
+      "name": "Sic-5",
+      "countryCode": "IT",
+      "lat": 37.98,
+      "lon": 13.3
+    },
+    {
+      "id": "SIC_6",
+      "name": "Sic-6",
+      "countryCode": "IT",
+      "lat": 37.98,
+      "lon": 13.1
+    },
+    {
+      "id": "SIC_7",
+      "name": "Sic-7",
+      "countryCode": "IT",
+      "lat": 37.67,
+      "lon": 14.58
+    },
+    {
+      "id": "SIC_8",
+      "name": "Sic-8",
+      "countryCode": "IT",
+      "lat": 37.3,
+      "lon": 13.77
+    },
+    {
+      "id": "SIC_9",
+      "name": "Sic-9",
+      "countryCode": "IT",
+      "lat": 37.92,
+      "lon": 13.62
+    },
+    {
+      "id": "TOS_1",
+      "name": "Tos-1",
+      "countryCode": "IT",
+      "lat": 43.98,
+      "lon": 11.28
+    },
+    {
+      "id": "TOS_2",
+      "name": "Tos-2",
+      "countryCode": "IT",
+      "lat": 42.4,
+      "lon": 11.38
+    },
+    {
+      "id": "TOS_3_4",
+      "name": "Tos-3-4",
+      "countryCode": "IT",
+      "lat": 42.43,
+      "lon": 11.22
+    },
+    {
+      "id": "TOS_5",
+      "name": "Tos-5",
+      "countryCode": "IT",
+      "lat": 43.83,
+      "lon": 10.33
+    },
+    {
+      "id": "TOS_6",
+      "name": "Tos-6",
+      "countryCode": "IT",
+      "lat": 43.6,
+      "lon": 12.07
+    },
+    {
+      "id": "TOS_7",
+      "name": "Tos-7",
+      "countryCode": "IT",
+      "lat": 43.72,
+      "lon": 10.83
+    },
+    {
+      "id": "TRE_1",
+      "name": "Tre-1",
+      "countryCode": "IT",
+      "lat": 46.02,
+      "lon": 11.25
+    },
+    {
+      "id": "TRE_2",
+      "name": "Tre-2",
+      "countryCode": "IT",
+      "lat": 45.87,
+      "lon": 10.75
+    },
+    {
+      "id": "TRE_3",
+      "name": "Tre-3",
+      "countryCode": "IT",
+      "lat": 46.02,
+      "lon": 11.28
+    },
+    {
+      "id": "TRE_4",
+      "name": "Tre-4",
+      "countryCode": "IT",
+      "lat": 46.13,
+      "lon": 10.97
+    },
+    {
+      "id": "TRE_5",
+      "name": "Tre-5",
+      "countryCode": "IT",
+      "lat": 46.8,
+      "lon": 10.53
+    },
+    {
+      "id": "TRE_6",
+      "name": "Tre-6",
+      "countryCode": "IT",
+      "lat": 46.37,
+      "lon": 11.05
+    },
+    {
+      "id": "TRE_7",
+      "name": "Tre-7",
+      "countryCode": "IT",
+      "lat": 46.53,
+      "lon": 10.98
+    },
+    {
+      "id": "UMB_1",
+      "name": "Umb-1",
+      "countryCode": "IT",
+      "lat": 42.72,
+      "lon": 12.23
+    },
+    {
+      "id": "UMB_2",
+      "name": "Umb-2",
+      "countryCode": "IT",
+      "lat": 42.53,
+      "lon": 12.75
+    },
+    {
+      "id": "UMB_3",
+      "name": "Umb-3",
+      "countryCode": "IT",
+      "lat": 43.13,
+      "lon": 12.1
+    },
+    {
+      "id": "VAL_1",
+      "name": "Val-1",
+      "countryCode": "IT",
+      "lat": 45.9,
+      "lon": 7.5
+    },
+    {
+      "id": "VEN_2",
+      "name": "Ven-2",
+      "countryCode": "IT",
+      "lat": 45.77,
+      "lon": 10.78
+    },
+    {
+      "id": "VEN_3",
+      "name": "Ven-3",
+      "countryCode": "IT",
+      "lat": 46.17,
+      "lon": 12.07
+    },
+    {
+      "id": "VEN_4",
+      "name": "Ven-4",
+      "countryCode": "IT",
+      "lat": 46.43,
+      "lon": 12.38
+    },
+    {
+      "id": "VEN_5",
+      "name": "Ven-5",
+      "countryCode": "IT",
+      "lat": 46.12,
+      "lon": 12.33
+    },
+    {
+      "id": "VEN_6_7_11",
+      "name": "Ven-6-7-11",
+      "countryCode": "IT",
+      "lat": 45.32,
+      "lon": 12.3
+    },
+    {
+      "id": "VEN_8_9_10",
+      "name": "Ven-8-9-10",
+      "countryCode": "IT",
+      "lat": 45.48,
+      "lon": 12.47
     }
   ]
 }
