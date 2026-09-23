@@ -1,12 +1,14 @@
 import csv
 import json
 import re
+import unicodedata
 from pathlib import Path
 from datetime import datetime, timezone
 
 BASE = Path(__file__).resolve().parent.parent
 SRC = BASE / "source" / "waterpoints.csv"
 OUT = BASE / "dist" / "waterpoints.json"
+DEFAULT_COUNTRY_CODE = "FR"
 
 def parse_coord(coord: str):
     """
@@ -45,10 +47,35 @@ def parse_coord(coord: str):
     return (round(lat, 6), round(lon, 6))
 
 def slug_id(name: str) -> str:
-    s = (name or "").strip().upper()
+    s = (name or "").strip()
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    s = s.upper()
     s = re.sub(r"[^\w]+", "_", s, flags=re.UNICODE)
     s = re.sub(r"_+", "_", s).strip("_")
     return s[:48] if s else "WATERPOINT"
+
+def parse_decimal(value: str):
+    if value is None:
+        return None
+
+    s = str(value).strip().replace(",", ".")
+    if not s:
+        return None
+
+    try:
+        return round(float(s), 6)
+    except ValueError:
+        return None
+
+def parse_row_coordinates(row):
+    lat = parse_decimal(row.get("LAT") or row.get("lat") or row.get("Latitude"))
+    lon = parse_decimal(row.get("LON") or row.get("LONG") or row.get("lon") or row.get("Longitude"))
+    if lat is not None and lon is not None:
+        return lat, lon
+
+    coord_raw = (row.get("COORDONNEES") or "").strip()
+    return parse_coord(coord_raw)
 
 waterpoints = []
 seen_ids = set()
@@ -58,19 +85,18 @@ with SRC.open("r", encoding="utf-8", newline="") as f:
     # Nettoyage des noms de colonnes (au cas où)
     r.fieldnames = [fn.strip() if fn else "" for fn in (r.fieldnames or [])]
 
-    # Tes colonnes s'appellent bien "NOM" et "COORDONNEES"
+    # Legacy rows can use COORDONNEES; newer rows can use decimal LAT/LON.
     for row in r:
         name = (row.get("NOM") or "").strip()
-        coord_raw = (row.get("COORDONNEES") or "").strip()
-
-        if not name or not coord_raw:
+        if not name:
             continue
 
-        parsed = parse_coord(coord_raw)
+        parsed = parse_row_coordinates(row)
         if not parsed:
             continue
 
         lat, lon = parsed
+        country_code = (row.get("COUNTRY_CODE") or row.get("countryCode") or DEFAULT_COUNTRY_CODE).strip().upper()
         wid = slug_id(name)
         # Garantir unicité
         base_id = wid
@@ -83,7 +109,7 @@ with SRC.open("r", encoding="utf-8", newline="") as f:
         waterpoints.append({
             "id": wid,
             "name": name.title() if name.isupper() else name,
-            "countryCode": "FR",  # si tu veux gérer plusieurs pays plus tard, on fera un mapping
+            "countryCode": country_code,
             "lat": lat,
             "lon": lon
         })

@@ -1,126 +1,786 @@
-;NOM;COORDONNEES;;;;
-;AIGUEBLETTE;N 45°33’/ E 005°48’;;;;
-;AJACCIO;N 41°55’/ E 008°45’;;;;
-;ANDANCE;N 45°13’/ E 004°48’;;;;
-;ANNECY;N 45°51’/ E 006°10’;;;;
-;BAGES;N 43°06’/ E 003°00’;;;;
-;BASSE SEINE;N 49°26’/ E 000°36’;;;;
-;BASTIA;N 42°31’/ E 009°33’;;;;
-;BEAULIEU-MENTON;N 43°42’/ E 007°20’;;;;
-;BEAUTIRAN;N 44°43’/ W 000°27’ ;;;;
-;BEC D’AMBES;N 45°01’/ W 000°35’ ;;;;
-;BERRE;N 43°29’/ E 005°06’;;;;
-;BISCAROSSE;N 44°21’/ W 001°11’;;;;
-;BORT LES ORGUES;N 45°27’/ E 002°30’;;;;
-;BOULOGNE SUR GESSE;N 43°20’/ E 000°40’ ;;;;
-;BREST;N 48°18’/ W 004°26’;;;;
-;CALVI;N 42°34’/ E 008°47’;;;;
-;CANNES-NICE;N 43°32’/ E 007°05’;;;;
-;CARRO;N 43°21’/ E 005°01’;;;;
-;CASTELLANE;N 43°54’ / E 006°32’ ;;;;
-;CAZAUBON;N 43°56’/ W 000°03’;;;;
-;CAZAUX;N 44°30’/ W 001°09’;;;;
-;CHARMES;N 44°52’/ E 004°51’;;;;
-;CHATEAUNEUF DU PAPE;N 44°02’/ E 004°49’;;;;
-;CHAUMARD;N 47°09’/ E 003°54’;;;;
-;DER;N 48°35’/ E 004°45’;;;;
-;DONGE;N 47°18’/ W 002°06’;;;;
-;DONZERE;N 44°27’/ E 004°42’;;;;
-;DUC;N 47°57’/ W 002°25’;;;;
-;EGUZON;N 46°24’/ E 001°37’;;;;
-;FIGARI;N 41°28’/ E 009°04’;;;;
-;FORET D’ORIENT;N 48°16’/ E 004°19’ ;;;;
-;FOS;N 43°24’ / E 004°56’;;;;
-;GABAS;N 43°17’/ W 000°08’;;;;
-;GOLFE DU MOBIHAN;N 47°34’/ W 002°50’ ;;;;
-;GRAU DU ROI;N 43° 32’ / E 004° 07’;;;;
-;GUERLEDAN;N 48°12’/ W 003°03’;;;;
-;HOURTIN;N 45°08’/ W 001°07’ ;;;;
-;HYERES;N 43°04’/ E 006°07’;;;;
-;ILE ROUSSE;N 42°38’/ E 008°57’;;;;
-;L’ESCOUROU;N 44°40’/ E 000°21’;;;;
-;L’ESTRADE;N 43°20’/ E 001°48’;;;;
-;LA CIOTAT;N 43°10’/ E 005°38’;;;;
-;LA HONCE;N 43°30’/ W 001°23’;;;;
-;LA LIEZ;N 47°52’/ E 005°24’;;;;
-;LA MADINE;N 48°55’/ E 005°44’;;;;
-;LA PIERRE PERCEE;N 48°28’/ E 006°55’;;;;
-;LA RANCE;;;;;
-;LA ROCHE DE GLUN;N 45°00’/ E 004°51’;;;;
-;LA SALVETAT;N 43°36’/ E 002°37’;;;;
-;LAC LEMAN;N 46°25’/ E 006°30‘;;;;
-;LACANAU;N 44°58’/ W 001°07’;;;;
-;LAFFREY;N 45°01’/ E 005°47’;;;;
-;LAVAUD;N 45°49’/ E 000°40’;;;;
-;LE BOURGET;N 45°44’/ E 005°52’;;;;
-;LE BRUSC;N 43°06’/ E 005°48’ ;;;;
-;LE LANVANDOU;N 43°08’/ E 006°23’;;;;
-;LE STOCK;N 48°46’/ E 006°56’;;;;
-;LE VERDON;N 47°01’ / W 000°49’;;;;
-;LEON;N 43°54’/ W 001°19’;;;;
-;LES MUREAUX;N 49°00’/ E 001°56’;;;;
-;LESIGNAC;N 43°48’/ E 000°39’;;;;
-;LIBOURNE;N 44°55’/ W 000°19’;;;;
-;LISSAC;N 45°06’/ E 001°27’ ;;;;
-;LORIENT;N 47°44’/ W 003°21’;;;;
-;MACON;N 46°13’/ E 004°48’;;;;
-;MARCKOLSHEIM;N 48°11’/ E 007°38’;;;;
-;MAS THIBERT;N 43°34’/ E 004°42’ ;;;;
-;MATEMALE;N 42°34’/ E 002°06’;;;;
-;MELUN;N 48°29’/ E 002°41’;;;;
-;MIMIZAN;N 44°14’/ W 001°13’ ;;;;
-;MOISSAC;N 44°05’/ E 001°00’;;;;
-;MONTBEL;N 42°58’/ E 001°57’ ;;;;
-;MONTELIMAR;N 44°36’/ E 004°44’;;;;
-;MONTEYNARD;N 44°54’/ E 005°41’;;;;
-;MORCENX;N 44°02’/ W 000°51’;;;;
-;MORLAIX;N 48°39’/ W 003°52’;;;;
-;NAUSSAC;N 44°45’/ E 003°48’ ;;;;
-;PINARELO-CIPRIANO;N 41°40’/ E 009°23’;;;;
-;PALADRU;N 45°27’/ E 005°32’;;;;
-;PARELOUP;N 44°13’/ E 002°46’;;;;
-;PAUILLAC;N 45°10’/ W 000°43’;;;;
-;PINCEMAILLE;N 47°28’/ E 000°12’;;;;
-;PLOBSHEIM;N 48°26’/ E 007°45’;;;;
-;POINTE ROUGE;N 43°16’/ E 005°20’;;;;
-;PORT DE MARSEILLE;N 43°20’/ E 005°20’;;;;
-;PORT VENDRES;N 42°33’ / E 003°04’;;;;
-;PORTO;N 42°17’/ E 008°40’;;;;
-;PORTO VECCHIO;N 41°36’/ E 009°18’;;;;
-;PROPRIANO;N 41°41’/ E 008°54’;;;;
-;RHINAU;N 48°21’/ E 007°45’;;;;
-;ROUCARIE;N 44°05’/ E 002°09’ ;;;;
-;SAGONE;N 42°06’/ E 008°42’;;;;
-;SALAGOU;N 43°39’/ E 003°23’;;;;
-;SALSES;N 42°49’/ E 003°23’;;;;
-;SANTA MANZA;N 41°25’/ E 009°14’;;;;
-;SARRANS;N 44°51’/ E 002°45’;;;;
-;SERRE PONCON;N 44°29’/ E 006°18’;;;;
-;SOUSTON;N 43°47’/ W 001°19’;;;;
-;SAINT CASSIEN;N 43°36’ / E 006°49’;;;;
-;SAINT CHRISTOLY;N 45°22’/ W 000°49’;;;;
-;SAINT ETIENNE DE CANTALES;N 44°56’/ E 002°14’;;;;
-;SAINT ETIENNE DES SORTS;N 44°11’/ E 004°43’;;;;
-;SAINT FLORENT;N 42°42’/ E 009°18’;;;;
-;SAINT MANDRIER;N 43°06’/ E 005°56’;;;;
-;SAINT MICHEL;N 48°21’/ W 003°54’;;;;
-;SAINT POINT;N 46°49’/ E 006°19’;;;;
-;SAINT RAPHAEL;N 43°25’/ E 006°37’;;;;
-;SAINT TROPEZ;N 43°17’/ E 006°37’;;;;
-;SAINTE CROIX;N 43°45’ / E 006°10’;;;;
-;THAU;N 43°23’/ E 003°37’;;;;
-;URBINO;N 42°03’/ E 009°28’ ;;;;
-;URT;N 43°30’/ W 001°17’ ;;;;
-;VALLABREGUES;N 43°52’/ E 004°38’;;;;
-;VALRAS;N 43° 14’ / E 003° 17’;;;;
-;VASSIVIERE;N 45°48’/ E 001°53’;;;;
-;VICHY;N 46°08’/ E 003°25’;;;;
-;VIELLES FORGES;N 49°52’/ E 004°37’;;;;
-;VILLEFRANCHE DE PANAT;N 44°06’/ E 002°42’;;;;
-;VILLEFRANCHE SUR SAONE;N 46°02’/ E 004°45’;;;;
-;VILLENEUVE DE LA RAHO;N 42°38’/ E 002°54’ ;;;;
-;VINCA;N 42°39’/ E 002°32’;;;;
-;VOLGELSHEIM;N 48°04’/ E 007°34’;;;;
-;VOUGLANS;N 46°26’/ E 005°42’;;;;
-;WANTZENAU;N 48°38’/ E 007°50’;;;;
-;ZI PORTUAIRE FOS;N 43°25’ / E 004°51’;;;;
+NOM;COORDONNEES;LAT;LON;COUNTRY_CODE
+AIGUEBLETTE;N 45°33’/ E 005°48’;;;FR
+AJACCIO;N 41°55’/ E 008°45’;;;FR
+ANDANCE;N 45°13’/ E 004°48’;;;FR
+ANNECY;N 45°51’/ E 006°10’;;;FR
+BAGES;N 43°06’/ E 003°00’;;;FR
+BASSE SEINE;N 49°26’/ E 000°36’;;;FR
+BASTIA;N 42°31’/ E 009°33’;;;FR
+BEAULIEU-MENTON;N 43°42’/ E 007°20’;;;FR
+BEAUTIRAN;N 44°43’/ W 000°27’;;;FR
+BEC D’AMBES;N 45°01’/ W 000°35’;;;FR
+BERRE;N 43°29’/ E 005°06’;;;FR
+BISCAROSSE;N 44°21’/ W 001°11’;;;FR
+BORT LES ORGUES;N 45°27’/ E 002°30’;;;FR
+BOULOGNE SUR GESSE;N 43°20’/ E 000°40’;;;FR
+BREST;N 48°18’/ W 004°26’;;;FR
+CALVI;N 42°34’/ E 008°47’;;;FR
+CANNES-NICE;N 43°32’/ E 007°05’;;;FR
+CARRO;N 43°21’/ E 005°01’;;;FR
+CASTELLANE;N 43°54’ / E 006°32’;;;FR
+CAZAUBON;N 43°56’/ W 000°03’;;;FR
+CAZAUX;N 44°30’/ W 001°09’;;;FR
+CHARMES;N 44°52’/ E 004°51’;;;FR
+CHATEAUNEUF DU PAPE;N 44°02’/ E 004°49’;;;FR
+CHAUMARD;N 47°09’/ E 003°54’;;;FR
+DER;N 48°35’/ E 004°45’;;;FR
+DONGE;N 47°18’/ W 002°06’;;;FR
+DONZERE;N 44°27’/ E 004°42’;;;FR
+DUC;N 47°57’/ W 002°25’;;;FR
+EGUZON;N 46°24’/ E 001°37’;;;FR
+FIGARI;N 41°28’/ E 009°04’;;;FR
+FORET D’ORIENT;N 48°16’/ E 004°19’;;;FR
+FOS;N 43°24’ / E 004°56’;;;FR
+GABAS;N 43°17’/ W 000°08’;;;FR
+GOLFE DU MOBIHAN;N 47°34’/ W 002°50’;;;FR
+GRAU DU ROI;N 43° 32’ / E 004° 07’;;;FR
+GUERLEDAN;N 48°12’/ W 003°03’;;;FR
+HOURTIN;N 45°08’/ W 001°07’;;;FR
+HYERES;N 43°04’/ E 006°07’;;;FR
+ILE ROUSSE;N 42°38’/ E 008°57’;;;FR
+L’ESCOUROU;N 44°40’/ E 000°21’;;;FR
+L’ESTRADE;N 43°20’/ E 001°48’;;;FR
+LA CIOTAT;N 43°10’/ E 005°38’;;;FR
+LA HONCE;N 43°30’/ W 001°23’;;;FR
+LA LIEZ;N 47°52’/ E 005°24’;;;FR
+LA MADINE;N 48°55’/ E 005°44’;;;FR
+LA PIERRE PERCEE;N 48°28’/ E 006°55’;;;FR
+LA RANCE;;;;FR
+LA ROCHE DE GLUN;N 45°00’/ E 004°51’;;;FR
+LA SALVETAT;N 43°36’/ E 002°37’;;;FR
+LAC LEMAN;N 46°25’/ E 006°30‘;;;FR
+LACANAU;N 44°58’/ W 001°07’;;;FR
+LAFFREY;N 45°01’/ E 005°47’;;;FR
+LAVAUD;N 45°49’/ E 000°40’;;;FR
+LE BOURGET;N 45°44’/ E 005°52’;;;FR
+LE BRUSC;N 43°06’/ E 005°48’;;;FR
+LE LANVANDOU;N 43°08’/ E 006°23’;;;FR
+LE STOCK;N 48°46’/ E 006°56’;;;FR
+LE VERDON;N 47°01’ / W 000°49’;;;FR
+LEON;N 43°54’/ W 001°19’;;;FR
+LES MUREAUX;N 49°00’/ E 001°56’;;;FR
+LESIGNAC;N 43°48’/ E 000°39’;;;FR
+LIBOURNE;N 44°55’/ W 000°19’;;;FR
+LISSAC;N 45°06’/ E 001°27’;;;FR
+LORIENT;N 47°44’/ W 003°21’;;;FR
+MACON;N 46°13’/ E 004°48’;;;FR
+MARCKOLSHEIM;N 48°11’/ E 007°38’;;;FR
+MAS THIBERT;N 43°34’/ E 004°42’;;;FR
+MATEMALE;N 42°34’/ E 002°06’;;;FR
+MELUN;N 48°29’/ E 002°41’;;;FR
+MIMIZAN;N 44°14’/ W 001°13’;;;FR
+MOISSAC;N 44°05’/ E 001°00’;;;FR
+MONTBEL;N 42°58’/ E 001°57’;;;FR
+MONTELIMAR;N 44°36’/ E 004°44’;;;FR
+MONTEYNARD;N 44°54’/ E 005°41’;;;FR
+MORCENX;N 44°02’/ W 000°51’;;;FR
+MORLAIX;N 48°39’/ W 003°52’;;;FR
+NAUSSAC;N 44°45’/ E 003°48’;;;FR
+PINARELO-CIPRIANO;N 41°40’/ E 009°23’;;;FR
+PALADRU;N 45°27’/ E 005°32’;;;FR
+PARELOUP;N 44°13’/ E 002°46’;;;FR
+PAUILLAC;N 45°10’/ W 000°43’;;;FR
+PINCEMAILLE;N 47°28’/ E 000°12’;;;FR
+PLOBSHEIM;N 48°26’/ E 007°45’;;;FR
+POINTE ROUGE;N 43°16’/ E 005°20’;;;FR
+PORT DE MARSEILLE;N 43°20’/ E 005°20’;;;FR
+PORT VENDRES;N 42°33’ / E 003°04’;;;FR
+PORTO;N 42°17’/ E 008°40’;;;FR
+PORTO VECCHIO;N 41°36’/ E 009°18’;;;FR
+PROPRIANO;N 41°41’/ E 008°54’;;;FR
+RHINAU;N 48°21’/ E 007°45’;;;FR
+ROUCARIE;N 44°05’/ E 002°09’;;;FR
+SAGONE;N 42°06’/ E 008°42’;;;FR
+SALAGOU;N 43°39’/ E 003°23’;;;FR
+SALSES;N 42°49’/ E 003°23’;;;FR
+SANTA MANZA;N 41°25’/ E 009°14’;;;FR
+SARRANS;N 44°51’/ E 002°45’;;;FR
+SERRE PONCON;N 44°29’/ E 006°18’;;;FR
+SOUSTON;N 43°47’/ W 001°19’;;;FR
+SAINT CASSIEN;N 43°36’ / E 006°49’;;;FR
+SAINT CHRISTOLY;N 45°22’/ W 000°49’;;;FR
+SAINT ETIENNE DE CANTALES;N 44°56’/ E 002°14’;;;FR
+SAINT ETIENNE DES SORTS;N 44°11’/ E 004°43’;;;FR
+SAINT FLORENT;N 42°42’/ E 009°18’;;;FR
+SAINT MANDRIER;N 43°06’/ E 005°56’;;;FR
+SAINT MICHEL;N 48°21’/ W 003°54’;;;FR
+SAINT POINT;N 46°49’/ E 006°19’;;;FR
+SAINT RAPHAEL;N 43°25’/ E 006°37’;;;FR
+SAINT TROPEZ;N 43°17’/ E 006°37’;;;FR
+SAINTE CROIX;N 43°45’ / E 006°10’;;;FR
+THAU;N 43°23’/ E 003°37’;;;FR
+URBINO;N 42°03’/ E 009°28’;;;FR
+URT;N 43°30’/ W 001°17’;;;FR
+VALLABREGUES;N 43°52’/ E 004°38’;;;FR
+VALRAS;N 43° 14’ / E 003° 17’;;;FR
+VASSIVIERE;N 45°48’/ E 001°53’;;;FR
+VICHY;N 46°08’/ E 003°25’;;;FR
+VIELLES FORGES;N 49°52’/ E 004°37’;;;FR
+VILLEFRANCHE DE PANAT;N 44°06’/ E 002°42’;;;FR
+VILLEFRANCHE SUR SAONE;N 46°02’/ E 004°45’;;;FR
+VILLENEUVE DE LA RAHO;N 42°38’/ E 002°54’;;;FR
+VINCA;N 42°39’/ E 002°32’;;;FR
+VOLGELSHEIM;N 48°04’/ E 007°34’;;;FR
+VOUGLANS;N 46°26’/ E 005°42’;;;FR
+WANTZENAU;N 48°38’/ E 007°50’;;;FR
+ZI PORTUAIRE FOS;N 43°25’ / E 004°51’;;;FR
+Acantilado De Los Gigantes;;28.25;-16.85;ES
+Aguilar De Campo;;42.816667;-4.316667;ES
+Ahigal;;40.216667;-6.2;ES
+Alange;;38.75;-6.25;ES
+Alarcon Norte;;39.7;-2.266667;ES
+Alarcon Sur;;39.633333;-2.2;ES
+Albages;;41.45;0.766667;ES
+Albala;;38.8;-7.133333;ES
+Albarellos;;42.4;-8.2;ES
+Alcala Del Rio;;37.516667;-5.95;ES
+Alcanar;;40.566667;0.566667;ES
+Alcollarin;;39.25;-5.75;ES
+Alcorlo;;41.016667;-3.033333;ES
+Alcuescar;;39.233333;-6.233333;ES
+Alcantara Centro;;39.766667;-6.65;ES
+Alcantara Este;;39.716667;-6.466667;ES
+Alcantara Norte;;39.866667;-6.8;ES
+Alcantara Oeste;;39.766667;-6.8;ES
+Aldeadavila;;41.216667;-6.683333;ES
+Aldea Del Cano;;39.266667;-6.3;ES
+Aldover;;40.866667;0.5;ES
+Alfonso Xiii;;38.216667;-1.6;ES
+Algeciras;;37.9;-1.4;ES
+Alloz;;42.716667;-1.95;ES
+Almendra;;41.25;-6.283333;ES
+Almudevar;;42.033333;-0.516667;ES
+Altea;;38.6;-0.033333;ES
+Alto Lindoso;;41.883333;-8.15;ES
+Plan Eau Espagne Sans Nom 001;;38.533333;-0.266667;ES
+Amposta;;40.716667;0.6;ES
+Andevalo;;37.616667;-7.383333;ES
+Aracena;;37.916667;-6.45;ES
+Arcos;;36.766667;-5.783333;ES
+Arenal Den Castell;;40.033333;4.183333;ES
+Arenoso;;38.033333;-4.433333;ES
+Arenos;;40.1;-0.566667;ES
+Argos;;38.166667;-1.75;ES
+Arlanzon;;42.25;-3.333333;ES
+Arquillo De San Blas;;40.366667;-1.233333;ES
+Arrocampo;;39.816667;-5.7;ES
+Ayuela;;39.216667;-6.283333;ES
+Azutan Norte;;39.85;-4.95;ES
+Azutan Sur;;39.8;-4.983333;ES
+Anarbe;;43.216667;-1.883333;ES
+Bahia Codols;;38.866667;1.333333;ES
+Bahia Del Julan;;27.683333;-18.05;ES
+Bahia De Alcudia;;39.8;3.166667;ES
+Bahia De Algeciras;;36.166667;-5.416667;ES
+Bahia De Alicante;;38.35;-0.466667;ES
+Bahia De Almeria;;36.833333;-2.366667;ES
+Bahia De Arinaga;;27.833333;-15.416667;ES
+Bahia De Cadiz Norte;;36.55;-6.25;ES
+Bahia De Cadiz Sur;;36.5;-6.233333;ES
+Bahia De Gando;;27.933333;-15.366667;ES
+Bahia De Ortigueira;;43.733333;-7.833333;ES
+Bahia De Pollensa;;39.883333;3.1;ES
+Bahia De Santander;;43.45;-3.783333;ES
+Bahia De Santa Eulalia;;38.983333;1.55;ES
+Bahia De Santa Águeda;;27.75;-15.666667;ES
+Barasona;;42.15;0.333333;ES
+Barbate;;36.383333;-5.716667;ES
+Barrios De Luna;;42.866667;-5.866667;ES
+Baserca;;42.583333;0.766667;ES
+Banos;;40.283333;-5.9;ES
+Beas;;37.466667;-6.766667;ES
+Belesar;;42.666667;-7.733333;ES
+Belena;;40.95;-3.2;ES
+Bellus;;38.933333;-0.466667;ES
+Belsue;;42.3;-0.35;ES
+Bembezar;;37.916667;-5.233333;ES
+Bemposta;;41.3;-6.45;ES
+Benageber;;39.733333;-1.1;ES
+Beniarres;;38.8;-0.366667;ES
+Benidorm;;38.533333;-0.133333;ES
+Beninar;;36.883333;-3.016667;ES
+Blanes;;41.666667;2.8;ES
+Boadella;;42.35;2.833333;ES
+Boiro;;42.616667;-8.916667;ES
+Bolarque;;40.366667;-2.816667;ES
+Boqueron;;39.15;-6.416667;ES
+Borbollon;;40.133333;-6.566667;ES
+Bornos;;36.816667;-5.716667;ES
+Brenes;;37.566667;-5.883333;ES
+Brovales;;38.35;-6.7;ES
+Buenas Hierbas;;38.35;-4.416667;ES
+Buendia;;40.4;-2.766667;ES
+Burguillos Del Cerro;;38.4;-6.6;ES
+Buseo;;39.6;-0.933333;ES
+Barcena;;42.6;-6.55;ES
+Beznar;;36.916667;-3.55;ES
+Bubal;;42.7;-0.316667;ES
+Burdalo;;39.2;-5.966667;ES
+Cabo Caballeria;;40.066667;4.066667;ES
+Cabo Cope;;37.433333;-1.516667;ES
+Cabo Favaritx;;39.983333;4.266667;ES
+Cabo Tinoso;;37.55;-1.116667;ES
+Cadaques;;42.283333;3.283333;ES
+Cala;;37.716667;-6.1;ES
+Calanda;;40.916667;-0.216667;ES
+Cala Agulla;;39.733333;3.466667;ES
+Cala Algaiarens;;40.05;3.916667;ES
+Cala Boix;;39.016667;1.6;ES
+Cala Bona;;39.616667;3.4;ES
+Cala Boquer;;39.933333;3.1;ES
+Cala Camp De Mar;;39.533333;2.416667;ES
+Cala Den Serra;;39.1;1.55;ES
+Cala De Albarca;;39.066667;1.366667;ES
+Cala De Gran Tarajal;;28.2;-14.016667;ES
+Cala De Santanyi;;39.333333;3.15;ES
+Cala De Sa Coma;;39.566667;3.383333;ES
+Cala Dor;;39.366667;3.233333;ES
+Cala Es Cubells;;38.866667;1.283333;ES
+Cala Figuera;;39.966667;3.183333;ES
+Cala Foradada;;39.75;2.616667;ES
+Cala Fornells;;40.05;4.133333;ES
+Cala Garvet;;42.4;3.15;ES
+Cala Joncols;;42.25;3.266667;ES
+Cala Llamp;;39.533333;2.383333;ES
+Cala Mesquida;;39.75;3.45;ES
+Cala Mondragon;;39.35;3.183333;ES
+Cala Montjoi;;42.25;3.233333;ES
+Cala Peguera;;39.516667;2.45;ES
+Cala Portitxol;;39.083333;1.416667;ES
+Cala Rajada;;39.7;3.466667;ES
+Cala San Miguel;;39.083333;1.45;ES
+Cala San Vicente Ibiza;;39.066667;1.6;ES
+Cala San Vicente Mallorca;;39.916667;3.066667;ES
+Cala Saona;;38.7;1.383333;ES
+Cala Sol Den Serra;;38.933333;1.516667;ES
+Cala Tarida;;38.933333;1.216667;ES
+Cala Tavallera;;42.333333;3.25;ES
+Cala Tirant;;40.05;4.1;ES
+Cala Xarraca;;39.1;1.5;ES
+Caleta De Corralejo;;28.733333;-13.866667;ES
+Caleta De Fuste;;28.4;-13.85;ES
+Calpe;;38.633333;0.05;ES
+Camarasa;;41.933333;0.866667;ES
+Camarillas;;38.366667;-1.633333;ES
+Campedro;;40.75;0.55;ES
+Camporredondo;;42.9;-4.733333;ES
+Canales;;37.15;-3.466667;ES
+Cancho Del Fresno;;39.4;-5.383333;ES
+Canelles;;41.983333;0.616667;ES
+Cantillana;;37.6;-5.8;ES
+Carnota;;42.833333;-9.116667;ES
+Casares De Arbas;;42.933333;-5.766667;ES
+Casar De Caceres;;39.583333;-6.45;ES
+Casasola;;36.816667;-4.5;ES
+Caspe;;41.25;-0.05;ES
+Casteldefels;;41.266667;2;ES
+Castilseras;;38.75;-4.8;ES
+Castrejon;;39.85;-4.283333;ES
+Castrelo;;42.316667;-8.066667;ES
+Castrovido;;42.033333;-3.25;ES
+Castro De Las Cogotas;;40.716667;-4.7;ES
+Cazalegas;;40.016667;-4.7;ES
+Cecebre;;43.283333;-8.283333;ES
+Cedeira;;43.65;-8.066667;ES
+Cedillo Centro;;39.666667;-7.266667;ES
+Cedillo Este;;39.65;-7.183333;ES
+Cedillo Oeste;;39.65;-7.366667;ES
+Cedillo Presa;;39.666667;-7.516667;ES
+Celemin;;36.3;-5.75;ES
+Cenza;;42.2;-7.25;ES
+Cernadilla;;42.016667;-6.483333;ES
+Cervera;;42.866667;-4.533333;ES
+Chandreja;;42.25;-7.4;ES
+Chanza;;37.6;-7.483333;ES
+Charco Redondo;;36.25;-5.55;ES
+Chiprana Este;;41.266667;-0.116667;ES
+Chiprana Oeste;;41.283333;-0.166667;ES
+Ciurana;;41.25;0.916667;ES
+Civan;;41.133333;-0.016667;ES
+Colomera;;37.4;-3.716667;ES
+Compuerto;;42.883333;-4.783333;ES
+Conde De Guadalhorce;;36.916667;-4.816667;ES
+Contreras;;39.583333;-1.516667;ES
+Cordobilla;;37.35;-4.733333;ES
+Cornalvo;;39;-6.183333;ES
+Corrubedo;;42.566667;-9.05;ES
+Cortes;;39.25;-0.983333;ES
+Corumbel Bajo;;37.433333;-6.566667;ES
+Costa Adeje;;28.066667;-16.733333;ES
+Crevillente;;38.25;-0.8;ES
+Cubilar;;39.25;-5.466667;ES
+Cubillas;;37.283333;-3.666667;ES
+Cuevas Del Almanzora;;37.333333;-1.9;ES
+Cueva Foradada;;40.966667;-0.7;ES
+Cullera;;39.166667;-0.233333;ES
+Cijara Norte;;39.333333;-4.9;ES
+Cijara Sur;;39.233333;-4.783333;ES
+Deltebre;;40.716667;0.733333;ES
+Doiras;;43.366667;-6.833333;ES
+Don Melendo;;36.95;-6.05;ES
+Dona Aldonza;;37.933333;-3.316667;ES
+Ebro;;43;-4;ES
+Edrada;;42.333333;-7.533333;ES
+Eiras;;42.35;-8.483333;ES
+El Aguijon;;38.483333;-6.916667;ES
+El Atance;;41.083333;-2.766667;ES
+El Atazar;;40.9;-3.533333;ES
+El Bao;;42.216667;-7.133333;ES
+El Burguillo;;40.416667;-4.566667;ES
+El Carpio;;37.983333;-4.5;ES
+El Cenajo;;38.366667;-1.816667;ES
+El Entredicho;;38.733333;-4.666667;ES
+El Fangal;;40.8;0.716667;ES
+El Ferial;;42.283333;-1.583333;ES
+El Gergal;;37.566667;-6.05;ES
+El Grado;;42.216667;0.233333;ES
+El Grau;;39.95;4.283333;ES
+El Molinar;;39.216667;-1.25;ES
+El Naranjero;;39.266667;-0.866667;ES
+El Pardo;;40.55;-3.783333;ES
+El Pintado;;38;-5.95;ES
+El Portillo;;37.816667;-2.783333;ES
+El Regajo;;39.9;-0.533333;ES
+El Rompido;;37.216667;-7.116667;ES
+El Rosal;;38.433333;-5.6;ES
+El Rio;;29.216667;-13.5;ES
+El Sancho;;37.466667;-7;ES
+El Talave;;38.5;-1.883333;ES
+El Tobar;;40.6;-4.183333;ES
+El Torcon;;39.616667;-4.366667;ES
+El Vado;;41.016667;-3.3;ES
+El Val;;41.883333;-1.8;ES
+El Vellon;;40.766667;-3.65;ES
+El Vicario;;39.066667;-3.95;ES
+El Villar;;40.966667;-3.566667;ES
+Embarcaderos;;39.25;-1.05;ES
+Encinarejo;;38.166667;-4;ES
+Ensenada De San Simon;;42.3;-8.633333;ES
+Entrepenas;;40.55;-2.716667;ES
+Escales;;42.333333;0.75;ES
+Escalona;;39.133333;-0.7;ES
+Escatron;;41.283333;-0.266667;ES
+Estanca De Alcaniz;;41.066667;-0.2;ES
+Estartit;;42.05;3.216667;ES
+Estuario Del Guadalquivir;;36.866667;-6.35;ES
+Estuario Del Guadiana;;37.216667;-7.416667;ES
+Estuario Del Jucar;;39.15;-0.233333;ES
+Eugi;;42.983333;-1.516667;ES
+Eume;;43.4;-8;ES
+Finisterre;;39.65;-3.65;ES
+Flix;;41.233333;0.533333;ES
+Foix;;41.266667;1.633333;ES
+Forata;;39.35;-0.866667;ES
+Forcadas;;43.6;-8.083333;ES
+Francisco Abellan;;37.3;-3.266667;ES
+Fuenlabrada;;39.083333;-4.916667;ES
+Fuensanta;;38.366667;-2.25;ES
+Fuenterrabia;;43.366667;-1.783333;ES
+Fuerteventura;;28.45;-13.866667;ES
+Gabriel Y Galan;;40.25;-6.133333;ES
+Gaia;;41.2;1.333333;ES
+Gallipuen;;40.866667;-0.416667;ES
+Gando - Ume;;27.933333;-15.383333;ES
+Garcia De Sola Centro;;39.233333;-5.116667;ES
+Garcia De Sola Norte;;39.266667;-5.05;ES
+Garcia De Sola Sur;;39.2;-5.166667;ES
+Gargaligas;;39.2;-5.35;ES
+Garguera;;39.983333;-5.9;ES
+Gasset;;39.133333;-3.95;ES
+Gelsa;;41.4;-0.466667;ES
+Giribaile;;38.1;-3.483333;ES
+Golfo De Las Puntas;;27.816667;-18;ES
+Golfo De Rosas;;42.25;3.166667;ES
+Gonzalez Lacasa;;42.183333;-2.683333;ES
+Guadalcacin;;36.666667;-5.733333;ES
+Guadalest;;38.683333;-0.2;ES
+Guadalete;;36.583333;-6.233333;ES
+Guadalhorce;;36.966667;-4.783333;ES
+Guadalmellato;;38.066667;-4.683333;ES
+Guadalmena;;38.383333;-2.9;ES
+Guadalquivir Centro;;37.133333;-6.1;ES
+Guadalquivir Norte;;37.233333;-6.066667;ES
+Guadalquivir Sur;;36.966667;-6.183333;ES
+Guadalteba;;36.95;-4.833333;ES
+Guadalen;;38.183333;-3.466667;ES
+Guadarranque;;36.316667;-5.466667;ES
+Guadiana Centro;;37.383333;-7.45;ES
+Guadiana Norte;;37.5;-7.483333;ES
+Guadiana Sur;;37.283333;-7.433333;ES
+Guadiloba;;39.483333;-6.283333;ES
+Guajaraz;;39.783333;-4.083333;ES
+Guara;;42.233333;-0.216667;ES
+Guiamets;;41.1;0.75;ES
+Gevalo;;39.716667;-4.85;ES
+Gorliz;;43.416667;-2.95;ES
+Hierro;;27.816667;-17.883333;ES
+Horno Tejero;;39.166667;-6.433333;ES
+Huesna;;37.783333;-5.683333;ES
+Ibai Eder;;43.116667;-2.233333;ES
+Ibiur;;43.083333;-2.116667;ES
+Irabia;;42.983333;-1.15;ES
+Iruena;;40.433333;-6.583333;ES
+Islas Addaya;;40.016667;4.216667;ES
+Isla Conejera;;38.983333;1.233333;ES
+Isla Cristina;;37.2;-7.333333;ES
+Isla Del Aire;;39.8;4.283333;ES
+Isla De Cabrera;;39.15;2.933333;ES
+Isla Dragonera;;39.583333;2.333333;ES
+Isla Espalmador;;38.766667;1.416667;ES
+Isla Formentera;;38.683333;1.45;ES
+Itoiz;;42.816667;-1.366667;ES
+Iznajar;;37.283333;-4.35;ES
+Jarandilla;;40.066667;-5.6;ES
+Jarrama;;37.666667;-6.5;ES
+Jerte;;40.083333;-6;ES
+Jose Toran;;37.766667;-5.466667;ES
+Jandula;;38.266667;-3.933333;ES
+Javea;;38.783333;0.2;ES
+Lago De Banolas;;42.116667;2.75;ES
+Lago De Encrobas;;43.2;-8.433333;ES
+Lago De Sanabria;;42.116667;-6.716667;ES
+Laguna De El Hondo;;38.183333;-0.766667;ES
+Laguna De Fuente De Piedra;;37.116667;-4.766667;ES
+Laguna De Gallocanta;;40.966667;-1.5;ES
+Laguna De Guallar;;41.416667;-0.183333;ES
+Laguna De Santiago;;28.033333;-17.183333;ES
+Laguna De Sarinena;;41.8;-0.183333;ES
+Laguna De Zonar;;37.483333;-4.7;ES
+Laguna Larga;;39.6;-3.316667;ES
+Laguna Pudent;;38.733333;1.433333;ES
+Laja;;28.05;-15.416667;ES
+Lanuza;;42.75;-0.316667;ES
+Lanzarote;;28.95;-13.6;ES
+Lastanosa;;41.85;-0.066667;ES
+Las Conchas;;41.966667;-7.983333;ES
+Las Fitas;;41.8;-0.066667;ES
+Las Portas;;42.1;-7.233333;ES
+Las Rozas;;42.916667;-6.333333;ES
+Las Torcas;;41.283333;-1.1;ES
+Las Viboras;;37.633333;-4;ES
+Laverne;;42.083333;-1.083333;ES
+La Acena;;40.616667;-4.233333;ES
+La Albufera;;39.333333;-0.333333;ES
+La Baells;;42.15;1.866667;ES
+La Bolera;;37.766667;-2.9;ES
+La Brena;;37.833333;-5.05;ES
+La Bujeda;;40.25;-2.833333;ES
+La Cabezuela;;38.7;-3.266667;ES
+La Campanana;;42.5;-6.766667;ES
+La Cierva;;38.066667;-1.5;ES
+La Cohilla;;43.133333;-4.4;ES
+La Colada;;38.533333;-5;ES
+La Concepcion;;36.55;-4.966667;ES
+La Cuerda Del Pozo;;41.85;-2.75;ES
+La Ermita;;40.616667;-2.7;ES
+La Fernandina;;38.2;-3.566667;ES
+La Fervenza;;43;-9;ES
+La Fresneda;;38.533333;-3.616667;ES
+La Gitana;;37.6;-5.55;ES
+La Gomera;;28.033333;-17.216667;ES
+La Jarosa;;40.666667;-4.116667;ES
+La Lanzada;;42.45;-8.883333;ES
+La Losa Del Caballo;;42.116667;1.6;ES
+La Loteta;;41.816667;-1.333333;ES
+La Mata;;38.033333;-0.683333;ES
+La Minilla;;37.683333;-6.2;ES
+La Muela;;39.233333;-0.933333;ES
+La Palma;;28.633333;-17.75;ES
+La Pedrera;;38.016667;-0.866667;ES
+La Pena;;42.383333;-0.716667;ES
+La Portina;;40;-4.85;ES
+La Puebla De Cazalla;;37.133333;-5.233333;ES
+La Ribeira;;43.466667;-7.816667;ES
+La Savina;;38.733333;1.4;ES
+La Serena Centro;;38.933333;-5.25;ES
+La Serena Este;;38.866667;-5.15;ES
+La Serena Norte;;38.966667;-5.2;ES
+La Serena Oeste;;38.933333;-5.316667;ES
+La Serena Sur;;38.816667;-5.05;ES
+La Sotonera;;42.116667;-0.666667;ES
+La Tajera;;40.85;-2.616667;ES
+La Toba;;40.216667;-1.916667;ES
+La Tranquera;;41.25;-1.8;ES
+La Vega Del Jabalon;;38.766667;-3.783333;ES
+La Vinuela;;36.866667;-4.166667;ES
+Lechago;;40.966667;-1.3;ES
+Leon - Ume;;42.6;-5.65;ES
+Linares Del Arroyo;;41.516667;-3.533333;ES
+Llerena;;38.3;-5.9;ES
+Loriguilla;;39.666667;-0.916667;ES
+Los Bermejales;;36.983333;-3.883333;ES
+Los Canchales;;38.983333;-6.516667;ES
+Los Hurones;;36.683333;-5.533333;ES
+Los Machos;;37.316667;-7.216667;ES
+Los Melonares;;37.75;-5.883333;ES
+Los Molinos;;38.516667;-6.116667;ES
+Los Vados;;41.983333;-3.166667;ES
+Maidevera;;41.583333;-1.766667;ES
+Malpartida;;40.016667;-6;ES
+Malpasillo;;37.3;-4.683333;ES
+Malvecino;;42.2;-1.4;ES
+Mansilla;;42.15;-2.933333;ES
+Martin Gonzalo;;38.1;-4.333333;ES
+Mar Menor;;37.733333;-0.8;ES
+Maria Cristina;;40.033333;-0.166667;ES
+Matalavilla;;42.833333;-6.433333;ES
+Mazagon;;37.15;-6.883333;ES
+Mazarron;;37.566667;-1.233333;ES
+Mediano;;42.333333;0.2;ES
+Melilla;;35.283333;-2.933333;ES
+Mequinenza Occidental;;41.266667;0;ES
+Mequinenza Oriental;;41.4;0.216667;ES
+Mequinenza Presa;;41.35;0.333333;ES
+Minas De Cala;;37.966667;-6.366667;ES
+Moneva;;41.166667;-0.833333;ES
+Monteagudo;;41.383333;-2.183333;ES
+Montearagon;;42.183333;-0.366667;ES
+Montijo;;38.933333;-6.416667;ES
+Montoro;;38.55;-4.116667;ES
+Moraira;;38.683333;0.133333;ES
+Moron - Ume;;37.166667;-5.616667;ES
+Mularroya;;41.466667;-1.433333;ES
+Navacerrada;;40.716667;-4;ES
+Navalcan;;40.033333;-5.116667;ES
+Navalespino;;38.416667;-5.566667;ES
+Navanuno;;40.35;-5.783333;ES
+Negratin;;37.566667;-2.916667;ES
+Nogales;;38.55;-6.733333;ES
+Agavanzal;;41.983333;-6.166667;ES
+Oliana;;42.1;1.3;ES
+Olivargas;;37.716667;-6.8;ES
+Ordunte;;43.15;-3.3;ES
+Orellana Central;;39.05;-5.366667;ES
+Orellana Este;;39.1;-5.283333;ES
+Orellana Oeste;;39;-5.466667;ES
+Pajares;;42.083333;-2.6;ES
+Palamos;;41.85;3.116667;ES
+Peares;;42.5;-7.716667;ES
+Pedro Marin;;37.9;-3.4;ES
+Pena;;40.816667;0.133333;ES
+Penarroya;;39.033333;-2.966667;ES
+Penarrubia;;42.466667;-6.816667;ES
+Picadas;;40.333333;-4.25;ES
+Piedras;;37.383333;-7.266667;ES
+Piedra Aguda;;38.666667;-7.033333;ES
+Pignatelli;;42.033333;-1.55;ES
+Pinilla;;40.933333;-3.8;ES
+Playa De Bolonia;;36.083333;-5.783333;ES
+Playa De El Arenal;;39.516667;2.733333;ES
+Playa De Es Trenc;;39.35;2.966667;ES
+Playa De Las Canteras;;28.15;-15.45;ES
+Playa De Las Salinas;;38.833333;1.383333;ES
+Playa De La Concha;;43.316667;-2;ES
+Playa De Palmanova;;39.516667;2.55;ES
+Playa De Son Bou;;39.9;4.066667;ES
+Ponton Alto;;40.916667;-4.033333;ES
+Porma;;42.933333;-5.283333;ES
+Portaje;;39.883333;-6.533333;ES
+Portodemouros;;42.833333;-8.133333;ES
+Portomarin;;42.8;-7.616667;ES
+Portopetro;;39.35;3.216667;ES
+Poris De Abona;;28.15;-16.433333;ES
+Prada;;42.283333;-7.033333;ES
+Proserpina;;38.966667;-6.366667;ES
+Puentes;;37.75;-1.833333;ES
+Puentes De Garcia Rodriguez;;43.466667;-7.9;ES
+Puentes Viejas;;41;-3.583333;ES
+Puente Navarro;;39.15;-3.7;ES
+Puente Nuevo;;38.116667;-4.966667;ES
+Puente Porto;;42.116667;-6.833333;ES
+Puerto Del Rosario;;28.5;-13.85;ES
+Puerto De Alicante;;38.333333;-0.483333;ES
+Puerto De Almeria;;36.833333;-2.466667;ES
+Puerto De Andratx;;39.533333;2.383333;ES
+Puerto De Arrecife;;28.966667;-13.533333;ES
+Puerto De Aviles;;43.583333;-5.916667;ES
+Puerto De Barcelona;;41.333333;2.166667;ES
+Puerto De Bilbao;;43.366667;-3.05;ES
+Puerto De Carboneras;;36.966667;-1.9;ES
+Puerto De Cartagena;;37.583333;-0.983333;ES
+Puerto De Castellon;;39.966667;0.016667;ES
+Puerto De Ceuta;;35.9;-5.316667;ES
+Puerto De Cee;;42.95;-9.183333;ES
+Puerto De Ciudadela;;40;3.833333;ES
+Puerto De Denia;;38.85;0.116667;ES
+Puerto De Escombreras;;37.566667;-0.966667;ES
+Puerto De Gandia;;39;-0.15;ES
+Puerto De Garrucha;;37.183333;-1.816667;ES
+Puerto De Gijon;;43.566667;-5.683333;ES
+Puerto De Granadilla;;28.066667;-16.5;ES
+Puerto De Huelva;;37.233333;-6.966667;ES
+Puerto De Ibiza;;38.9;1.45;ES
+Puerto De Langosteira;;43.35;-8.516667;ES
+Puerto De Las Palmas;;28.133333;-15.416667;ES
+Puerto De La Coruna;;43.366667;-8.383333;ES
+Puerto De La Estaca;;27.783333;-17.9;ES
+Puerto De La Selva;;42.333333;3.2;ES
+Puerto De Los Cristianos;;28.05;-16.716667;ES
+Puerto De Mahon;;39.883333;4.283333;ES
+Puerto De Morro Jable;;28.05;-14.366667;ES
+Puerto De Motril;;36.716667;-3.516667;ES
+Puerto De Malaga;;36.7;-4.416667;ES
+Puerto De Palma;;39.55;2.633333;ES
+Puerto De Pasajes;;43.316667;-1.916667;ES
+Puerto De Portocolom;;39.416667;3.266667;ES
+Puerto De Rota;;36.616667;-6.333333;ES
+Puerto De Sagunto;;39.65;-0.216667;ES
+Puerto De San Antonio;;38.983333;1.3;ES
+Puerto De San Ciprian;;43.716667;-7.466667;ES
+Puerto De San Sebastian;;28.083333;-17.1;ES
+Puerto De Soller;;39.783333;2.7;ES
+Puerto De Tarragona;;41.1;1.233333;ES
+Puerto De Tazacorte;;28.65;-17.95;ES
+Puerto De Valencia;;39.433333;-0.316667;ES
+Puerto De Vallehermoso;;38.866667;-3.166667;ES
+Puerto De Villajoyosa;;38.5;-0.216667;ES
+Puerto De Vueltas;;28.083333;-17.333333;ES
+Punta Umbria;;37.183333;-6.966667;ES
+Palmaces;;41.05;-2.916667;ES
+Pias;;42.116667;-7;ES
+Quiebrajano;;37.633333;-3.716667;ES
+Quentar;;37.216667;-3.433333;ES
+Requejada;;42.916667;-4.5;ES
+Retortillo;;37.85;-5.366667;ES
+Rialb;;41.966667;1.233333;ES
+Riano;;42.966667;-5;ES
+Ribadavia;;42.266667;-8.15;ES
+Ribadeo;;43.533333;-7.033333;ES
+Ribadesella;;43.466667;-5.066667;ES
+Ribarroja Norte;;41.3;0.35;ES
+Ribarroja Sur;;41.266667;0.35;ES
+Ricobayo Centro;;41.666667;-5.866667;ES
+Ricobayo Norte;;41.75;-5.816667;ES
+Ricobayo Sur;;41.6;-5.966667;ES
+Riolobos;;41;-5.3;ES
+Riosequillo;;40.983333;-3.65;ES
+Riudecanyes;;41.133333;0.95;ES
+Rivera De Gata;;40.15;-6.633333;ES
+Rosarito;;40.1;-5.316667;ES
+Ruecas;;39.283333;-5.483333;ES
+Rules;;36.866667;-3.483333;ES
+Ria Del Barquero;;43.733333;-7.683333;ES
+Ria De Aldan;;42.3;-8.833333;ES
+Ria De Ares;;43.416667;-8.2;ES
+Ria De Arosa;;42.633333;-8.8;ES
+Ria De Bayona;;42.133333;-8.833333;ES
+Ria De Betanzos;;43.366667;-8.233333;ES
+Ría De Camarinas;;43.116667;-9.183333;ES
+Ria De Corcubion;;42.9;-9.2;ES
+Ria De Corme Y Lage;;43.233333;-8.95;ES
+Ria De El Ferrol;;43.466667;-8.216667;ES
+Ria De Foz;;43.566667;-7.25;ES
+Ria De La Coruna;;43.35;-8.366667;ES
+Ria De Muros Y Noya;;42.75;-9;ES
+Ria De Navia;;43.55;-6.733333;ES
+Ria De Ortigueira;;43.7;-7.883333;ES
+Ria De Pontevedra;;42.416667;-8.7;ES
+Ria De Pravia;;43.55;-6.083333;ES
+Ria De Santona;;43.416667;-3.466667;ES
+Ria De Vigo;;42.266667;-8.7;ES
+Ria De Vivero;;43.683333;-7.6;ES
+Rio Almonte;;39.666667;-6.45;ES
+Rio Tinto;;37.233333;-6.916667;ES
+Rio Ulla;;42.716667;-8.7;ES
+Rumblar;;38.183333;-3.8;ES
+Salas;;41.916667;-7.933333;ES
+Salime;;43.2;-6.866667;ES
+Salobrena;;36.733333;-3.633333;ES
+Santa Ana;;41.9;0.6;ES
+Santa Cruz De La Palma;;28.683333;-17.766667;ES
+Santa Cruz De Tenerife;;28.483333;-16.233333;ES
+Santa Eugenia;;42.916667;-9.1;ES
+Santa Pola;;38.183333;-0.566667;ES
+Santa Teresa;;40.6;-5.566667;ES
+Santillana;;40.733333;-3.833333;ES
+Santolea;;40.75;-0.333333;ES
+Santomera;;38.1;-1.1;ES
+San Bartolome;;42.216667;-1.15;ES
+San Carlos De La Rapita;;40.616667;0.666667;ES
+San Clemente;;37.866667;-2.65;ES
+San Esteban;;42.383333;-7.533333;ES
+San Jose;;41.4;-5.25;ES
+San Juan Este;;40.383333;-4.333333;ES
+San Juan Oeste;;40.4;-4.4;ES
+San Lorenzo;;41.866667;0.833333;ES
+San Poncio;;41.966667;1.6;ES
+San Rafael De Navallana;;37.966667;-4.616667;ES
+San Salvador;;41.766667;0.183333;ES
+San Sebastian;;42.15;-6.933333;ES
+San Vicente De La Barquera;;43.383333;-4.4;ES
+Sardina;;28.15;-15.7;ES
+Sau;;41.983333;2.383333;ES
+Saucelle;;41.083333;-6.766667;ES
+Sequeiros;;42.45;-7.233333;ES
+Serones;;40.683333;-4.45;ES
+Sierra Boyera;;38.266667;-5.233333;ES
+Sierra Brava;;39.233333;-5.633333;ES
+Siles;;38.4;-2.6;ES
+Sitges;;41.233333;1.816667;ES
+Sobron;;42.75;-3.116667;ES
+Suances;;43.433333;-4.033333;ES
+Susqueda;;41.983333;2.516667;ES
+Salor;;39.35;-6.3;ES
+Sichar;;40.016667;-0.233333;ES
+Taibilla;;38.183333;-2.25;ES
+Tajo Centro;;39.766667;-6.216667;ES
+Tajo Este;;39.816667;-6.066667;ES
+Tajo Oeste;;39.75;-6.3;ES
+Talarn-Tremp;;42.2;0.95;ES
+Tenerife Norte - Ume;;28.483333;-16.333333;ES
+Tenerife Sur - Ume;;28.05;-16.566667;ES
+Tentudia;;38.1;-6.316667;ES
+Terradets;;42.066667;0.883333;ES
+Tietar;;39.85;-5.966667;ES
+Torina;;43.083333;-4;ES
+Torrejon - Ume;;40.483333;-3.45;ES
+Torrejon Centro;;39.783333;-5.85;ES
+Torrejon Este;;39.766667;-5.783333;ES
+Torrejon Oeste;;39.8;-5.916667;ES
+Torrevieja;;37.966667;-0.683333;ES
+Torre Del Mar;;36.733333;-4.083333;ES
+Torre Del Aguila;;37.05;-5.733333;ES
+Torre De Abraham;;39.383333;-4.25;ES
+Torrollon;;41.916667;-0.266667;ES
+Tous;;39.15;-0.666667;ES
+Tranco De Beas;;38.133333;-2.766667;ES
+Tudela;;42.1;-1.6;ES
+Ulldecona;;40.666667;0.233333;ES
+Ullibarri;;42.933333;-2.583333;ES
+Urkulu;;43.016667;-2.466667;ES
+Urrunaga;;42.966667;-2.666667;ES
+Utchesa;;41.5;0.533333;ES
+Uzquiza;;42.3;-3.35;ES
+Vadiello;;42.25;-0.283333;ES
+Vadomojon;;37.633333;-4.216667;ES
+Valdabra;;42.083333;-0.45;ES
+Valdecaballeros;;39.283333;-5.166667;ES
+Valdecanas Este;;39.816667;-5.416667;ES
+Valdecanas Oeste;;39.816667;-5.55;ES
+Valdeinfierno;;37.8;-1.966667;ES
+Valdeobispo;;40.1;-6.25;ES
+Valdevaqueros;;36.066667;-5.7;ES
+Valmayor;;40.533333;-4.05;ES
+Valparaiso;;41.983333;-6.3;ES
+Valuengo;;38.3;-6.666667;ES
+Velilla De Ebro;;41.366667;-0.45;ES
+Velle;;42.366667;-7.85;ES
+Vilasouto;;42.666667;-7.416667;ES
+Villagonzalo;;40.866667;-5.5;ES
+Villagudin;;43.1;-8.5;ES
+Villalba De Los Barros;;38.566667;-6.5;ES
+Villalcampo;;41.483333;-6.066667;ES
+Villameca;;42.65;-6.066667;ES
+Villanueva Y Geltru;;41.216667;1.75;ES
+Villaralbo;;41.516667;-5.666667;ES
+Villarreal;;38.75;-7.216667;ES
+Villar Del Rey;;39.2;-6.866667;ES
+Villaviciosa;;43.516667;-5.383333;ES
+Yeguas;;38.066667;-4.25;ES
+Yesa;;42.6;-1.133333;ES
+Zafra;;38.416667;-6.466667;ES
+Zahara;;36.833333;-5.366667;ES
+Zaragoza - Ume;;41.666667;-1.05;ES
+Zufre;;37.8;-6.3;ES
+Zujar;;38.933333;-5.45;ES
+Agueda;;40.516667;-6.483333;ES

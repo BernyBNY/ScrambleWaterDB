@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-21T17:40:11Z",
+  "updatedAt": "2026-09-23T12:47:45Z",
   "waterPoints": [
     {
       "id": "AIGUEBLETTE",
@@ -869,6 +869,4626 @@
       "countryCode": "FR",
       "lat": 43.416667,
       "lon": 4.85
+    },
+    {
+      "id": "ACANTILADO_DE_LOS_GIGANTES",
+      "name": "Acantilado De Los Gigantes",
+      "countryCode": "ES",
+      "lat": 28.25,
+      "lon": -16.85
+    },
+    {
+      "id": "AGUILAR_DE_CAMPO",
+      "name": "Aguilar De Campo",
+      "countryCode": "ES",
+      "lat": 42.816667,
+      "lon": -4.316667
+    },
+    {
+      "id": "AHIGAL",
+      "name": "Ahigal",
+      "countryCode": "ES",
+      "lat": 40.216667,
+      "lon": -6.2
+    },
+    {
+      "id": "ALANGE",
+      "name": "Alange",
+      "countryCode": "ES",
+      "lat": 38.75,
+      "lon": -6.25
+    },
+    {
+      "id": "ALARCON_NORTE",
+      "name": "Alarcon Norte",
+      "countryCode": "ES",
+      "lat": 39.7,
+      "lon": -2.266667
+    },
+    {
+      "id": "ALARCON_SUR",
+      "name": "Alarcon Sur",
+      "countryCode": "ES",
+      "lat": 39.633333,
+      "lon": -2.2
+    },
+    {
+      "id": "ALBAGES",
+      "name": "Albages",
+      "countryCode": "ES",
+      "lat": 41.45,
+      "lon": 0.766667
+    },
+    {
+      "id": "ALBALA",
+      "name": "Albala",
+      "countryCode": "ES",
+      "lat": 38.8,
+      "lon": -7.133333
+    },
+    {
+      "id": "ALBARELLOS",
+      "name": "Albarellos",
+      "countryCode": "ES",
+      "lat": 42.4,
+      "lon": -8.2
+    },
+    {
+      "id": "ALCALA_DEL_RIO",
+      "name": "Alcala Del Rio",
+      "countryCode": "ES",
+      "lat": 37.516667,
+      "lon": -5.95
+    },
+    {
+      "id": "ALCANAR",
+      "name": "Alcanar",
+      "countryCode": "ES",
+      "lat": 40.566667,
+      "lon": 0.566667
+    },
+    {
+      "id": "ALCOLLARIN",
+      "name": "Alcollarin",
+      "countryCode": "ES",
+      "lat": 39.25,
+      "lon": -5.75
+    },
+    {
+      "id": "ALCORLO",
+      "name": "Alcorlo",
+      "countryCode": "ES",
+      "lat": 41.016667,
+      "lon": -3.033333
+    },
+    {
+      "id": "ALCUESCAR",
+      "name": "Alcuescar",
+      "countryCode": "ES",
+      "lat": 39.233333,
+      "lon": -6.233333
+    },
+    {
+      "id": "ALCANTARA_CENTRO",
+      "name": "Alcantara Centro",
+      "countryCode": "ES",
+      "lat": 39.766667,
+      "lon": -6.65
+    },
+    {
+      "id": "ALCANTARA_ESTE",
+      "name": "Alcantara Este",
+      "countryCode": "ES",
+      "lat": 39.716667,
+      "lon": -6.466667
+    },
+    {
+      "id": "ALCANTARA_NORTE",
+      "name": "Alcantara Norte",
+      "countryCode": "ES",
+      "lat": 39.866667,
+      "lon": -6.8
+    },
+    {
+      "id": "ALCANTARA_OESTE",
+      "name": "Alcantara Oeste",
+      "countryCode": "ES",
+      "lat": 39.766667,
+      "lon": -6.8
+    },
+    {
+      "id": "ALDEADAVILA",
+      "name": "Aldeadavila",
+      "countryCode": "ES",
+      "lat": 41.216667,
+      "lon": -6.683333
+    },
+    {
+      "id": "ALDEA_DEL_CANO",
+      "name": "Aldea Del Cano",
+      "countryCode": "ES",
+      "lat": 39.266667,
+      "lon": -6.3
+    },
+    {
+      "id": "ALDOVER",
+      "name": "Aldover",
+      "countryCode": "ES",
+      "lat": 40.866667,
+      "lon": 0.5
+    },
+    {
+      "id": "ALFONSO_XIII",
+      "name": "Alfonso Xiii",
+      "countryCode": "ES",
+      "lat": 38.216667,
+      "lon": -1.6
+    },
+    {
+      "id": "ALGECIRAS",
+      "name": "Algeciras",
+      "countryCode": "ES",
+      "lat": 37.9,
+      "lon": -1.4
+    },
+    {
+      "id": "ALLOZ",
+      "name": "Alloz",
+      "countryCode": "ES",
+      "lat": 42.716667,
+      "lon": -1.95
+    },
+    {
+      "id": "ALMENDRA",
+      "name": "Almendra",
+      "countryCode": "ES",
+      "lat": 41.25,
+      "lon": -6.283333
+    },
+    {
+      "id": "ALMUDEVAR",
+      "name": "Almudevar",
+      "countryCode": "ES",
+      "lat": 42.033333,
+      "lon": -0.516667
+    },
+    {
+      "id": "ALTEA",
+      "name": "Altea",
+      "countryCode": "ES",
+      "lat": 38.6,
+      "lon": -0.033333
+    },
+    {
+      "id": "ALTO_LINDOSO",
+      "name": "Alto Lindoso",
+      "countryCode": "ES",
+      "lat": 41.883333,
+      "lon": -8.15
+    },
+    {
+      "id": "PLAN_EAU_ESPAGNE_SANS_NOM_001",
+      "name": "Plan Eau Espagne Sans Nom 001",
+      "countryCode": "ES",
+      "lat": 38.533333,
+      "lon": -0.266667
+    },
+    {
+      "id": "AMPOSTA",
+      "name": "Amposta",
+      "countryCode": "ES",
+      "lat": 40.716667,
+      "lon": 0.6
+    },
+    {
+      "id": "ANDEVALO",
+      "name": "Andevalo",
+      "countryCode": "ES",
+      "lat": 37.616667,
+      "lon": -7.383333
+    },
+    {
+      "id": "ARACENA",
+      "name": "Aracena",
+      "countryCode": "ES",
+      "lat": 37.916667,
+      "lon": -6.45
+    },
+    {
+      "id": "ARCOS",
+      "name": "Arcos",
+      "countryCode": "ES",
+      "lat": 36.766667,
+      "lon": -5.783333
+    },
+    {
+      "id": "ARENAL_DEN_CASTELL",
+      "name": "Arenal Den Castell",
+      "countryCode": "ES",
+      "lat": 40.033333,
+      "lon": 4.183333
+    },
+    {
+      "id": "ARENOSO",
+      "name": "Arenoso",
+      "countryCode": "ES",
+      "lat": 38.033333,
+      "lon": -4.433333
+    },
+    {
+      "id": "ARENOS",
+      "name": "Arenos",
+      "countryCode": "ES",
+      "lat": 40.1,
+      "lon": -0.566667
+    },
+    {
+      "id": "ARGOS",
+      "name": "Argos",
+      "countryCode": "ES",
+      "lat": 38.166667,
+      "lon": -1.75
+    },
+    {
+      "id": "ARLANZON",
+      "name": "Arlanzon",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": -3.333333
+    },
+    {
+      "id": "ARQUILLO_DE_SAN_BLAS",
+      "name": "Arquillo De San Blas",
+      "countryCode": "ES",
+      "lat": 40.366667,
+      "lon": -1.233333
+    },
+    {
+      "id": "ARROCAMPO",
+      "name": "Arrocampo",
+      "countryCode": "ES",
+      "lat": 39.816667,
+      "lon": -5.7
+    },
+    {
+      "id": "AYUELA",
+      "name": "Ayuela",
+      "countryCode": "ES",
+      "lat": 39.216667,
+      "lon": -6.283333
+    },
+    {
+      "id": "AZUTAN_NORTE",
+      "name": "Azutan Norte",
+      "countryCode": "ES",
+      "lat": 39.85,
+      "lon": -4.95
+    },
+    {
+      "id": "AZUTAN_SUR",
+      "name": "Azutan Sur",
+      "countryCode": "ES",
+      "lat": 39.8,
+      "lon": -4.983333
+    },
+    {
+      "id": "ANARBE",
+      "name": "Anarbe",
+      "countryCode": "ES",
+      "lat": 43.216667,
+      "lon": -1.883333
+    },
+    {
+      "id": "BAHIA_CODOLS",
+      "name": "Bahia Codols",
+      "countryCode": "ES",
+      "lat": 38.866667,
+      "lon": 1.333333
+    },
+    {
+      "id": "BAHIA_DEL_JULAN",
+      "name": "Bahia Del Julan",
+      "countryCode": "ES",
+      "lat": 27.683333,
+      "lon": -18.05
+    },
+    {
+      "id": "BAHIA_DE_ALCUDIA",
+      "name": "Bahia De Alcudia",
+      "countryCode": "ES",
+      "lat": 39.8,
+      "lon": 3.166667
+    },
+    {
+      "id": "BAHIA_DE_ALGECIRAS",
+      "name": "Bahia De Algeciras",
+      "countryCode": "ES",
+      "lat": 36.166667,
+      "lon": -5.416667
+    },
+    {
+      "id": "BAHIA_DE_ALICANTE",
+      "name": "Bahia De Alicante",
+      "countryCode": "ES",
+      "lat": 38.35,
+      "lon": -0.466667
+    },
+    {
+      "id": "BAHIA_DE_ALMERIA",
+      "name": "Bahia De Almeria",
+      "countryCode": "ES",
+      "lat": 36.833333,
+      "lon": -2.366667
+    },
+    {
+      "id": "BAHIA_DE_ARINAGA",
+      "name": "Bahia De Arinaga",
+      "countryCode": "ES",
+      "lat": 27.833333,
+      "lon": -15.416667
+    },
+    {
+      "id": "BAHIA_DE_CADIZ_NORTE",
+      "name": "Bahia De Cadiz Norte",
+      "countryCode": "ES",
+      "lat": 36.55,
+      "lon": -6.25
+    },
+    {
+      "id": "BAHIA_DE_CADIZ_SUR",
+      "name": "Bahia De Cadiz Sur",
+      "countryCode": "ES",
+      "lat": 36.5,
+      "lon": -6.233333
+    },
+    {
+      "id": "BAHIA_DE_GANDO",
+      "name": "Bahia De Gando",
+      "countryCode": "ES",
+      "lat": 27.933333,
+      "lon": -15.366667
+    },
+    {
+      "id": "BAHIA_DE_ORTIGUEIRA",
+      "name": "Bahia De Ortigueira",
+      "countryCode": "ES",
+      "lat": 43.733333,
+      "lon": -7.833333
+    },
+    {
+      "id": "BAHIA_DE_POLLENSA",
+      "name": "Bahia De Pollensa",
+      "countryCode": "ES",
+      "lat": 39.883333,
+      "lon": 3.1
+    },
+    {
+      "id": "BAHIA_DE_SANTANDER",
+      "name": "Bahia De Santander",
+      "countryCode": "ES",
+      "lat": 43.45,
+      "lon": -3.783333
+    },
+    {
+      "id": "BAHIA_DE_SANTA_EULALIA",
+      "name": "Bahia De Santa Eulalia",
+      "countryCode": "ES",
+      "lat": 38.983333,
+      "lon": 1.55
+    },
+    {
+      "id": "BAHIA_DE_SANTA_AGUEDA",
+      "name": "Bahia De Santa Águeda",
+      "countryCode": "ES",
+      "lat": 27.75,
+      "lon": -15.666667
+    },
+    {
+      "id": "BARASONA",
+      "name": "Barasona",
+      "countryCode": "ES",
+      "lat": 42.15,
+      "lon": 0.333333
+    },
+    {
+      "id": "BARBATE",
+      "name": "Barbate",
+      "countryCode": "ES",
+      "lat": 36.383333,
+      "lon": -5.716667
+    },
+    {
+      "id": "BARRIOS_DE_LUNA",
+      "name": "Barrios De Luna",
+      "countryCode": "ES",
+      "lat": 42.866667,
+      "lon": -5.866667
+    },
+    {
+      "id": "BASERCA",
+      "name": "Baserca",
+      "countryCode": "ES",
+      "lat": 42.583333,
+      "lon": 0.766667
+    },
+    {
+      "id": "BANOS",
+      "name": "Banos",
+      "countryCode": "ES",
+      "lat": 40.283333,
+      "lon": -5.9
+    },
+    {
+      "id": "BEAS",
+      "name": "Beas",
+      "countryCode": "ES",
+      "lat": 37.466667,
+      "lon": -6.766667
+    },
+    {
+      "id": "BELESAR",
+      "name": "Belesar",
+      "countryCode": "ES",
+      "lat": 42.666667,
+      "lon": -7.733333
+    },
+    {
+      "id": "BELENA",
+      "name": "Belena",
+      "countryCode": "ES",
+      "lat": 40.95,
+      "lon": -3.2
+    },
+    {
+      "id": "BELLUS",
+      "name": "Bellus",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": -0.466667
+    },
+    {
+      "id": "BELSUE",
+      "name": "Belsue",
+      "countryCode": "ES",
+      "lat": 42.3,
+      "lon": -0.35
+    },
+    {
+      "id": "BEMBEZAR",
+      "name": "Bembezar",
+      "countryCode": "ES",
+      "lat": 37.916667,
+      "lon": -5.233333
+    },
+    {
+      "id": "BEMPOSTA",
+      "name": "Bemposta",
+      "countryCode": "ES",
+      "lat": 41.3,
+      "lon": -6.45
+    },
+    {
+      "id": "BENAGEBER",
+      "name": "Benageber",
+      "countryCode": "ES",
+      "lat": 39.733333,
+      "lon": -1.1
+    },
+    {
+      "id": "BENIARRES",
+      "name": "Beniarres",
+      "countryCode": "ES",
+      "lat": 38.8,
+      "lon": -0.366667
+    },
+    {
+      "id": "BENIDORM",
+      "name": "Benidorm",
+      "countryCode": "ES",
+      "lat": 38.533333,
+      "lon": -0.133333
+    },
+    {
+      "id": "BENINAR",
+      "name": "Beninar",
+      "countryCode": "ES",
+      "lat": 36.883333,
+      "lon": -3.016667
+    },
+    {
+      "id": "BLANES",
+      "name": "Blanes",
+      "countryCode": "ES",
+      "lat": 41.666667,
+      "lon": 2.8
+    },
+    {
+      "id": "BOADELLA",
+      "name": "Boadella",
+      "countryCode": "ES",
+      "lat": 42.35,
+      "lon": 2.833333
+    },
+    {
+      "id": "BOIRO",
+      "name": "Boiro",
+      "countryCode": "ES",
+      "lat": 42.616667,
+      "lon": -8.916667
+    },
+    {
+      "id": "BOLARQUE",
+      "name": "Bolarque",
+      "countryCode": "ES",
+      "lat": 40.366667,
+      "lon": -2.816667
+    },
+    {
+      "id": "BOQUERON",
+      "name": "Boqueron",
+      "countryCode": "ES",
+      "lat": 39.15,
+      "lon": -6.416667
+    },
+    {
+      "id": "BORBOLLON",
+      "name": "Borbollon",
+      "countryCode": "ES",
+      "lat": 40.133333,
+      "lon": -6.566667
+    },
+    {
+      "id": "BORNOS",
+      "name": "Bornos",
+      "countryCode": "ES",
+      "lat": 36.816667,
+      "lon": -5.716667
+    },
+    {
+      "id": "BRENES",
+      "name": "Brenes",
+      "countryCode": "ES",
+      "lat": 37.566667,
+      "lon": -5.883333
+    },
+    {
+      "id": "BROVALES",
+      "name": "Brovales",
+      "countryCode": "ES",
+      "lat": 38.35,
+      "lon": -6.7
+    },
+    {
+      "id": "BUENAS_HIERBAS",
+      "name": "Buenas Hierbas",
+      "countryCode": "ES",
+      "lat": 38.35,
+      "lon": -4.416667
+    },
+    {
+      "id": "BUENDIA",
+      "name": "Buendia",
+      "countryCode": "ES",
+      "lat": 40.4,
+      "lon": -2.766667
+    },
+    {
+      "id": "BURGUILLOS_DEL_CERRO",
+      "name": "Burguillos Del Cerro",
+      "countryCode": "ES",
+      "lat": 38.4,
+      "lon": -6.6
+    },
+    {
+      "id": "BUSEO",
+      "name": "Buseo",
+      "countryCode": "ES",
+      "lat": 39.6,
+      "lon": -0.933333
+    },
+    {
+      "id": "BARCENA",
+      "name": "Barcena",
+      "countryCode": "ES",
+      "lat": 42.6,
+      "lon": -6.55
+    },
+    {
+      "id": "BEZNAR",
+      "name": "Beznar",
+      "countryCode": "ES",
+      "lat": 36.916667,
+      "lon": -3.55
+    },
+    {
+      "id": "BUBAL",
+      "name": "Bubal",
+      "countryCode": "ES",
+      "lat": 42.7,
+      "lon": -0.316667
+    },
+    {
+      "id": "BURDALO",
+      "name": "Burdalo",
+      "countryCode": "ES",
+      "lat": 39.2,
+      "lon": -5.966667
+    },
+    {
+      "id": "CABO_CABALLERIA",
+      "name": "Cabo Caballeria",
+      "countryCode": "ES",
+      "lat": 40.066667,
+      "lon": 4.066667
+    },
+    {
+      "id": "CABO_COPE",
+      "name": "Cabo Cope",
+      "countryCode": "ES",
+      "lat": 37.433333,
+      "lon": -1.516667
+    },
+    {
+      "id": "CABO_FAVARITX",
+      "name": "Cabo Favaritx",
+      "countryCode": "ES",
+      "lat": 39.983333,
+      "lon": 4.266667
+    },
+    {
+      "id": "CABO_TINOSO",
+      "name": "Cabo Tinoso",
+      "countryCode": "ES",
+      "lat": 37.55,
+      "lon": -1.116667
+    },
+    {
+      "id": "CADAQUES",
+      "name": "Cadaques",
+      "countryCode": "ES",
+      "lat": 42.283333,
+      "lon": 3.283333
+    },
+    {
+      "id": "CALA",
+      "name": "Cala",
+      "countryCode": "ES",
+      "lat": 37.716667,
+      "lon": -6.1
+    },
+    {
+      "id": "CALANDA",
+      "name": "Calanda",
+      "countryCode": "ES",
+      "lat": 40.916667,
+      "lon": -0.216667
+    },
+    {
+      "id": "CALA_AGULLA",
+      "name": "Cala Agulla",
+      "countryCode": "ES",
+      "lat": 39.733333,
+      "lon": 3.466667
+    },
+    {
+      "id": "CALA_ALGAIARENS",
+      "name": "Cala Algaiarens",
+      "countryCode": "ES",
+      "lat": 40.05,
+      "lon": 3.916667
+    },
+    {
+      "id": "CALA_BOIX",
+      "name": "Cala Boix",
+      "countryCode": "ES",
+      "lat": 39.016667,
+      "lon": 1.6
+    },
+    {
+      "id": "CALA_BONA",
+      "name": "Cala Bona",
+      "countryCode": "ES",
+      "lat": 39.616667,
+      "lon": 3.4
+    },
+    {
+      "id": "CALA_BOQUER",
+      "name": "Cala Boquer",
+      "countryCode": "ES",
+      "lat": 39.933333,
+      "lon": 3.1
+    },
+    {
+      "id": "CALA_CAMP_DE_MAR",
+      "name": "Cala Camp De Mar",
+      "countryCode": "ES",
+      "lat": 39.533333,
+      "lon": 2.416667
+    },
+    {
+      "id": "CALA_DEN_SERRA",
+      "name": "Cala Den Serra",
+      "countryCode": "ES",
+      "lat": 39.1,
+      "lon": 1.55
+    },
+    {
+      "id": "CALA_DE_ALBARCA",
+      "name": "Cala De Albarca",
+      "countryCode": "ES",
+      "lat": 39.066667,
+      "lon": 1.366667
+    },
+    {
+      "id": "CALA_DE_GRAN_TARAJAL",
+      "name": "Cala De Gran Tarajal",
+      "countryCode": "ES",
+      "lat": 28.2,
+      "lon": -14.016667
+    },
+    {
+      "id": "CALA_DE_SANTANYI",
+      "name": "Cala De Santanyi",
+      "countryCode": "ES",
+      "lat": 39.333333,
+      "lon": 3.15
+    },
+    {
+      "id": "CALA_DE_SA_COMA",
+      "name": "Cala De Sa Coma",
+      "countryCode": "ES",
+      "lat": 39.566667,
+      "lon": 3.383333
+    },
+    {
+      "id": "CALA_DOR",
+      "name": "Cala Dor",
+      "countryCode": "ES",
+      "lat": 39.366667,
+      "lon": 3.233333
+    },
+    {
+      "id": "CALA_ES_CUBELLS",
+      "name": "Cala Es Cubells",
+      "countryCode": "ES",
+      "lat": 38.866667,
+      "lon": 1.283333
+    },
+    {
+      "id": "CALA_FIGUERA",
+      "name": "Cala Figuera",
+      "countryCode": "ES",
+      "lat": 39.966667,
+      "lon": 3.183333
+    },
+    {
+      "id": "CALA_FORADADA",
+      "name": "Cala Foradada",
+      "countryCode": "ES",
+      "lat": 39.75,
+      "lon": 2.616667
+    },
+    {
+      "id": "CALA_FORNELLS",
+      "name": "Cala Fornells",
+      "countryCode": "ES",
+      "lat": 40.05,
+      "lon": 4.133333
+    },
+    {
+      "id": "CALA_GARVET",
+      "name": "Cala Garvet",
+      "countryCode": "ES",
+      "lat": 42.4,
+      "lon": 3.15
+    },
+    {
+      "id": "CALA_JONCOLS",
+      "name": "Cala Joncols",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": 3.266667
+    },
+    {
+      "id": "CALA_LLAMP",
+      "name": "Cala Llamp",
+      "countryCode": "ES",
+      "lat": 39.533333,
+      "lon": 2.383333
+    },
+    {
+      "id": "CALA_MESQUIDA",
+      "name": "Cala Mesquida",
+      "countryCode": "ES",
+      "lat": 39.75,
+      "lon": 3.45
+    },
+    {
+      "id": "CALA_MONDRAGON",
+      "name": "Cala Mondragon",
+      "countryCode": "ES",
+      "lat": 39.35,
+      "lon": 3.183333
+    },
+    {
+      "id": "CALA_MONTJOI",
+      "name": "Cala Montjoi",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": 3.233333
+    },
+    {
+      "id": "CALA_PEGUERA",
+      "name": "Cala Peguera",
+      "countryCode": "ES",
+      "lat": 39.516667,
+      "lon": 2.45
+    },
+    {
+      "id": "CALA_PORTITXOL",
+      "name": "Cala Portitxol",
+      "countryCode": "ES",
+      "lat": 39.083333,
+      "lon": 1.416667
+    },
+    {
+      "id": "CALA_RAJADA",
+      "name": "Cala Rajada",
+      "countryCode": "ES",
+      "lat": 39.7,
+      "lon": 3.466667
+    },
+    {
+      "id": "CALA_SAN_MIGUEL",
+      "name": "Cala San Miguel",
+      "countryCode": "ES",
+      "lat": 39.083333,
+      "lon": 1.45
+    },
+    {
+      "id": "CALA_SAN_VICENTE_IBIZA",
+      "name": "Cala San Vicente Ibiza",
+      "countryCode": "ES",
+      "lat": 39.066667,
+      "lon": 1.6
+    },
+    {
+      "id": "CALA_SAN_VICENTE_MALLORCA",
+      "name": "Cala San Vicente Mallorca",
+      "countryCode": "ES",
+      "lat": 39.916667,
+      "lon": 3.066667
+    },
+    {
+      "id": "CALA_SAONA",
+      "name": "Cala Saona",
+      "countryCode": "ES",
+      "lat": 38.7,
+      "lon": 1.383333
+    },
+    {
+      "id": "CALA_SOL_DEN_SERRA",
+      "name": "Cala Sol Den Serra",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": 1.516667
+    },
+    {
+      "id": "CALA_TARIDA",
+      "name": "Cala Tarida",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": 1.216667
+    },
+    {
+      "id": "CALA_TAVALLERA",
+      "name": "Cala Tavallera",
+      "countryCode": "ES",
+      "lat": 42.333333,
+      "lon": 3.25
+    },
+    {
+      "id": "CALA_TIRANT",
+      "name": "Cala Tirant",
+      "countryCode": "ES",
+      "lat": 40.05,
+      "lon": 4.1
+    },
+    {
+      "id": "CALA_XARRACA",
+      "name": "Cala Xarraca",
+      "countryCode": "ES",
+      "lat": 39.1,
+      "lon": 1.5
+    },
+    {
+      "id": "CALETA_DE_CORRALEJO",
+      "name": "Caleta De Corralejo",
+      "countryCode": "ES",
+      "lat": 28.733333,
+      "lon": -13.866667
+    },
+    {
+      "id": "CALETA_DE_FUSTE",
+      "name": "Caleta De Fuste",
+      "countryCode": "ES",
+      "lat": 28.4,
+      "lon": -13.85
+    },
+    {
+      "id": "CALPE",
+      "name": "Calpe",
+      "countryCode": "ES",
+      "lat": 38.633333,
+      "lon": 0.05
+    },
+    {
+      "id": "CAMARASA",
+      "name": "Camarasa",
+      "countryCode": "ES",
+      "lat": 41.933333,
+      "lon": 0.866667
+    },
+    {
+      "id": "CAMARILLAS",
+      "name": "Camarillas",
+      "countryCode": "ES",
+      "lat": 38.366667,
+      "lon": -1.633333
+    },
+    {
+      "id": "CAMPEDRO",
+      "name": "Campedro",
+      "countryCode": "ES",
+      "lat": 40.75,
+      "lon": 0.55
+    },
+    {
+      "id": "CAMPORREDONDO",
+      "name": "Camporredondo",
+      "countryCode": "ES",
+      "lat": 42.9,
+      "lon": -4.733333
+    },
+    {
+      "id": "CANALES",
+      "name": "Canales",
+      "countryCode": "ES",
+      "lat": 37.15,
+      "lon": -3.466667
+    },
+    {
+      "id": "CANCHO_DEL_FRESNO",
+      "name": "Cancho Del Fresno",
+      "countryCode": "ES",
+      "lat": 39.4,
+      "lon": -5.383333
+    },
+    {
+      "id": "CANELLES",
+      "name": "Canelles",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": 0.616667
+    },
+    {
+      "id": "CANTILLANA",
+      "name": "Cantillana",
+      "countryCode": "ES",
+      "lat": 37.6,
+      "lon": -5.8
+    },
+    {
+      "id": "CARNOTA",
+      "name": "Carnota",
+      "countryCode": "ES",
+      "lat": 42.833333,
+      "lon": -9.116667
+    },
+    {
+      "id": "CASARES_DE_ARBAS",
+      "name": "Casares De Arbas",
+      "countryCode": "ES",
+      "lat": 42.933333,
+      "lon": -5.766667
+    },
+    {
+      "id": "CASAR_DE_CACERES",
+      "name": "Casar De Caceres",
+      "countryCode": "ES",
+      "lat": 39.583333,
+      "lon": -6.45
+    },
+    {
+      "id": "CASASOLA",
+      "name": "Casasola",
+      "countryCode": "ES",
+      "lat": 36.816667,
+      "lon": -4.5
+    },
+    {
+      "id": "CASPE",
+      "name": "Caspe",
+      "countryCode": "ES",
+      "lat": 41.25,
+      "lon": -0.05
+    },
+    {
+      "id": "CASTELDEFELS",
+      "name": "Casteldefels",
+      "countryCode": "ES",
+      "lat": 41.266667,
+      "lon": 2.0
+    },
+    {
+      "id": "CASTILSERAS",
+      "name": "Castilseras",
+      "countryCode": "ES",
+      "lat": 38.75,
+      "lon": -4.8
+    },
+    {
+      "id": "CASTREJON",
+      "name": "Castrejon",
+      "countryCode": "ES",
+      "lat": 39.85,
+      "lon": -4.283333
+    },
+    {
+      "id": "CASTRELO",
+      "name": "Castrelo",
+      "countryCode": "ES",
+      "lat": 42.316667,
+      "lon": -8.066667
+    },
+    {
+      "id": "CASTROVIDO",
+      "name": "Castrovido",
+      "countryCode": "ES",
+      "lat": 42.033333,
+      "lon": -3.25
+    },
+    {
+      "id": "CASTRO_DE_LAS_COGOTAS",
+      "name": "Castro De Las Cogotas",
+      "countryCode": "ES",
+      "lat": 40.716667,
+      "lon": -4.7
+    },
+    {
+      "id": "CAZALEGAS",
+      "name": "Cazalegas",
+      "countryCode": "ES",
+      "lat": 40.016667,
+      "lon": -4.7
+    },
+    {
+      "id": "CECEBRE",
+      "name": "Cecebre",
+      "countryCode": "ES",
+      "lat": 43.283333,
+      "lon": -8.283333
+    },
+    {
+      "id": "CEDEIRA",
+      "name": "Cedeira",
+      "countryCode": "ES",
+      "lat": 43.65,
+      "lon": -8.066667
+    },
+    {
+      "id": "CEDILLO_CENTRO",
+      "name": "Cedillo Centro",
+      "countryCode": "ES",
+      "lat": 39.666667,
+      "lon": -7.266667
+    },
+    {
+      "id": "CEDILLO_ESTE",
+      "name": "Cedillo Este",
+      "countryCode": "ES",
+      "lat": 39.65,
+      "lon": -7.183333
+    },
+    {
+      "id": "CEDILLO_OESTE",
+      "name": "Cedillo Oeste",
+      "countryCode": "ES",
+      "lat": 39.65,
+      "lon": -7.366667
+    },
+    {
+      "id": "CEDILLO_PRESA",
+      "name": "Cedillo Presa",
+      "countryCode": "ES",
+      "lat": 39.666667,
+      "lon": -7.516667
+    },
+    {
+      "id": "CELEMIN",
+      "name": "Celemin",
+      "countryCode": "ES",
+      "lat": 36.3,
+      "lon": -5.75
+    },
+    {
+      "id": "CENZA",
+      "name": "Cenza",
+      "countryCode": "ES",
+      "lat": 42.2,
+      "lon": -7.25
+    },
+    {
+      "id": "CERNADILLA",
+      "name": "Cernadilla",
+      "countryCode": "ES",
+      "lat": 42.016667,
+      "lon": -6.483333
+    },
+    {
+      "id": "CERVERA",
+      "name": "Cervera",
+      "countryCode": "ES",
+      "lat": 42.866667,
+      "lon": -4.533333
+    },
+    {
+      "id": "CHANDREJA",
+      "name": "Chandreja",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": -7.4
+    },
+    {
+      "id": "CHANZA",
+      "name": "Chanza",
+      "countryCode": "ES",
+      "lat": 37.6,
+      "lon": -7.483333
+    },
+    {
+      "id": "CHARCO_REDONDO",
+      "name": "Charco Redondo",
+      "countryCode": "ES",
+      "lat": 36.25,
+      "lon": -5.55
+    },
+    {
+      "id": "CHIPRANA_ESTE",
+      "name": "Chiprana Este",
+      "countryCode": "ES",
+      "lat": 41.266667,
+      "lon": -0.116667
+    },
+    {
+      "id": "CHIPRANA_OESTE",
+      "name": "Chiprana Oeste",
+      "countryCode": "ES",
+      "lat": 41.283333,
+      "lon": -0.166667
+    },
+    {
+      "id": "CIURANA",
+      "name": "Ciurana",
+      "countryCode": "ES",
+      "lat": 41.25,
+      "lon": 0.916667
+    },
+    {
+      "id": "CIVAN",
+      "name": "Civan",
+      "countryCode": "ES",
+      "lat": 41.133333,
+      "lon": -0.016667
+    },
+    {
+      "id": "COLOMERA",
+      "name": "Colomera",
+      "countryCode": "ES",
+      "lat": 37.4,
+      "lon": -3.716667
+    },
+    {
+      "id": "COMPUERTO",
+      "name": "Compuerto",
+      "countryCode": "ES",
+      "lat": 42.883333,
+      "lon": -4.783333
+    },
+    {
+      "id": "CONDE_DE_GUADALHORCE",
+      "name": "Conde De Guadalhorce",
+      "countryCode": "ES",
+      "lat": 36.916667,
+      "lon": -4.816667
+    },
+    {
+      "id": "CONTRERAS",
+      "name": "Contreras",
+      "countryCode": "ES",
+      "lat": 39.583333,
+      "lon": -1.516667
+    },
+    {
+      "id": "CORDOBILLA",
+      "name": "Cordobilla",
+      "countryCode": "ES",
+      "lat": 37.35,
+      "lon": -4.733333
+    },
+    {
+      "id": "CORNALVO",
+      "name": "Cornalvo",
+      "countryCode": "ES",
+      "lat": 39.0,
+      "lon": -6.183333
+    },
+    {
+      "id": "CORRUBEDO",
+      "name": "Corrubedo",
+      "countryCode": "ES",
+      "lat": 42.566667,
+      "lon": -9.05
+    },
+    {
+      "id": "CORTES",
+      "name": "Cortes",
+      "countryCode": "ES",
+      "lat": 39.25,
+      "lon": -0.983333
+    },
+    {
+      "id": "CORUMBEL_BAJO",
+      "name": "Corumbel Bajo",
+      "countryCode": "ES",
+      "lat": 37.433333,
+      "lon": -6.566667
+    },
+    {
+      "id": "COSTA_ADEJE",
+      "name": "Costa Adeje",
+      "countryCode": "ES",
+      "lat": 28.066667,
+      "lon": -16.733333
+    },
+    {
+      "id": "CREVILLENTE",
+      "name": "Crevillente",
+      "countryCode": "ES",
+      "lat": 38.25,
+      "lon": -0.8
+    },
+    {
+      "id": "CUBILAR",
+      "name": "Cubilar",
+      "countryCode": "ES",
+      "lat": 39.25,
+      "lon": -5.466667
+    },
+    {
+      "id": "CUBILLAS",
+      "name": "Cubillas",
+      "countryCode": "ES",
+      "lat": 37.283333,
+      "lon": -3.666667
+    },
+    {
+      "id": "CUEVAS_DEL_ALMANZORA",
+      "name": "Cuevas Del Almanzora",
+      "countryCode": "ES",
+      "lat": 37.333333,
+      "lon": -1.9
+    },
+    {
+      "id": "CUEVA_FORADADA",
+      "name": "Cueva Foradada",
+      "countryCode": "ES",
+      "lat": 40.966667,
+      "lon": -0.7
+    },
+    {
+      "id": "CULLERA",
+      "name": "Cullera",
+      "countryCode": "ES",
+      "lat": 39.166667,
+      "lon": -0.233333
+    },
+    {
+      "id": "CIJARA_NORTE",
+      "name": "Cijara Norte",
+      "countryCode": "ES",
+      "lat": 39.333333,
+      "lon": -4.9
+    },
+    {
+      "id": "CIJARA_SUR",
+      "name": "Cijara Sur",
+      "countryCode": "ES",
+      "lat": 39.233333,
+      "lon": -4.783333
+    },
+    {
+      "id": "DELTEBRE",
+      "name": "Deltebre",
+      "countryCode": "ES",
+      "lat": 40.716667,
+      "lon": 0.733333
+    },
+    {
+      "id": "DOIRAS",
+      "name": "Doiras",
+      "countryCode": "ES",
+      "lat": 43.366667,
+      "lon": -6.833333
+    },
+    {
+      "id": "DON_MELENDO",
+      "name": "Don Melendo",
+      "countryCode": "ES",
+      "lat": 36.95,
+      "lon": -6.05
+    },
+    {
+      "id": "DONA_ALDONZA",
+      "name": "Dona Aldonza",
+      "countryCode": "ES",
+      "lat": 37.933333,
+      "lon": -3.316667
+    },
+    {
+      "id": "EBRO",
+      "name": "Ebro",
+      "countryCode": "ES",
+      "lat": 43.0,
+      "lon": -4.0
+    },
+    {
+      "id": "EDRADA",
+      "name": "Edrada",
+      "countryCode": "ES",
+      "lat": 42.333333,
+      "lon": -7.533333
+    },
+    {
+      "id": "EIRAS",
+      "name": "Eiras",
+      "countryCode": "ES",
+      "lat": 42.35,
+      "lon": -8.483333
+    },
+    {
+      "id": "EL_AGUIJON",
+      "name": "El Aguijon",
+      "countryCode": "ES",
+      "lat": 38.483333,
+      "lon": -6.916667
+    },
+    {
+      "id": "EL_ATANCE",
+      "name": "El Atance",
+      "countryCode": "ES",
+      "lat": 41.083333,
+      "lon": -2.766667
+    },
+    {
+      "id": "EL_ATAZAR",
+      "name": "El Atazar",
+      "countryCode": "ES",
+      "lat": 40.9,
+      "lon": -3.533333
+    },
+    {
+      "id": "EL_BAO",
+      "name": "El Bao",
+      "countryCode": "ES",
+      "lat": 42.216667,
+      "lon": -7.133333
+    },
+    {
+      "id": "EL_BURGUILLO",
+      "name": "El Burguillo",
+      "countryCode": "ES",
+      "lat": 40.416667,
+      "lon": -4.566667
+    },
+    {
+      "id": "EL_CARPIO",
+      "name": "El Carpio",
+      "countryCode": "ES",
+      "lat": 37.983333,
+      "lon": -4.5
+    },
+    {
+      "id": "EL_CENAJO",
+      "name": "El Cenajo",
+      "countryCode": "ES",
+      "lat": 38.366667,
+      "lon": -1.816667
+    },
+    {
+      "id": "EL_ENTREDICHO",
+      "name": "El Entredicho",
+      "countryCode": "ES",
+      "lat": 38.733333,
+      "lon": -4.666667
+    },
+    {
+      "id": "EL_FANGAL",
+      "name": "El Fangal",
+      "countryCode": "ES",
+      "lat": 40.8,
+      "lon": 0.716667
+    },
+    {
+      "id": "EL_FERIAL",
+      "name": "El Ferial",
+      "countryCode": "ES",
+      "lat": 42.283333,
+      "lon": -1.583333
+    },
+    {
+      "id": "EL_GERGAL",
+      "name": "El Gergal",
+      "countryCode": "ES",
+      "lat": 37.566667,
+      "lon": -6.05
+    },
+    {
+      "id": "EL_GRADO",
+      "name": "El Grado",
+      "countryCode": "ES",
+      "lat": 42.216667,
+      "lon": 0.233333
+    },
+    {
+      "id": "EL_GRAU",
+      "name": "El Grau",
+      "countryCode": "ES",
+      "lat": 39.95,
+      "lon": 4.283333
+    },
+    {
+      "id": "EL_MOLINAR",
+      "name": "El Molinar",
+      "countryCode": "ES",
+      "lat": 39.216667,
+      "lon": -1.25
+    },
+    {
+      "id": "EL_NARANJERO",
+      "name": "El Naranjero",
+      "countryCode": "ES",
+      "lat": 39.266667,
+      "lon": -0.866667
+    },
+    {
+      "id": "EL_PARDO",
+      "name": "El Pardo",
+      "countryCode": "ES",
+      "lat": 40.55,
+      "lon": -3.783333
+    },
+    {
+      "id": "EL_PINTADO",
+      "name": "El Pintado",
+      "countryCode": "ES",
+      "lat": 38.0,
+      "lon": -5.95
+    },
+    {
+      "id": "EL_PORTILLO",
+      "name": "El Portillo",
+      "countryCode": "ES",
+      "lat": 37.816667,
+      "lon": -2.783333
+    },
+    {
+      "id": "EL_REGAJO",
+      "name": "El Regajo",
+      "countryCode": "ES",
+      "lat": 39.9,
+      "lon": -0.533333
+    },
+    {
+      "id": "EL_ROMPIDO",
+      "name": "El Rompido",
+      "countryCode": "ES",
+      "lat": 37.216667,
+      "lon": -7.116667
+    },
+    {
+      "id": "EL_ROSAL",
+      "name": "El Rosal",
+      "countryCode": "ES",
+      "lat": 38.433333,
+      "lon": -5.6
+    },
+    {
+      "id": "EL_RIO",
+      "name": "El Rio",
+      "countryCode": "ES",
+      "lat": 29.216667,
+      "lon": -13.5
+    },
+    {
+      "id": "EL_SANCHO",
+      "name": "El Sancho",
+      "countryCode": "ES",
+      "lat": 37.466667,
+      "lon": -7.0
+    },
+    {
+      "id": "EL_TALAVE",
+      "name": "El Talave",
+      "countryCode": "ES",
+      "lat": 38.5,
+      "lon": -1.883333
+    },
+    {
+      "id": "EL_TOBAR",
+      "name": "El Tobar",
+      "countryCode": "ES",
+      "lat": 40.6,
+      "lon": -4.183333
+    },
+    {
+      "id": "EL_TORCON",
+      "name": "El Torcon",
+      "countryCode": "ES",
+      "lat": 39.616667,
+      "lon": -4.366667
+    },
+    {
+      "id": "EL_VADO",
+      "name": "El Vado",
+      "countryCode": "ES",
+      "lat": 41.016667,
+      "lon": -3.3
+    },
+    {
+      "id": "EL_VAL",
+      "name": "El Val",
+      "countryCode": "ES",
+      "lat": 41.883333,
+      "lon": -1.8
+    },
+    {
+      "id": "EL_VELLON",
+      "name": "El Vellon",
+      "countryCode": "ES",
+      "lat": 40.766667,
+      "lon": -3.65
+    },
+    {
+      "id": "EL_VICARIO",
+      "name": "El Vicario",
+      "countryCode": "ES",
+      "lat": 39.066667,
+      "lon": -3.95
+    },
+    {
+      "id": "EL_VILLAR",
+      "name": "El Villar",
+      "countryCode": "ES",
+      "lat": 40.966667,
+      "lon": -3.566667
+    },
+    {
+      "id": "EMBARCADEROS",
+      "name": "Embarcaderos",
+      "countryCode": "ES",
+      "lat": 39.25,
+      "lon": -1.05
+    },
+    {
+      "id": "ENCINAREJO",
+      "name": "Encinarejo",
+      "countryCode": "ES",
+      "lat": 38.166667,
+      "lon": -4.0
+    },
+    {
+      "id": "ENSENADA_DE_SAN_SIMON",
+      "name": "Ensenada De San Simon",
+      "countryCode": "ES",
+      "lat": 42.3,
+      "lon": -8.633333
+    },
+    {
+      "id": "ENTREPENAS",
+      "name": "Entrepenas",
+      "countryCode": "ES",
+      "lat": 40.55,
+      "lon": -2.716667
+    },
+    {
+      "id": "ESCALES",
+      "name": "Escales",
+      "countryCode": "ES",
+      "lat": 42.333333,
+      "lon": 0.75
+    },
+    {
+      "id": "ESCALONA",
+      "name": "Escalona",
+      "countryCode": "ES",
+      "lat": 39.133333,
+      "lon": -0.7
+    },
+    {
+      "id": "ESCATRON",
+      "name": "Escatron",
+      "countryCode": "ES",
+      "lat": 41.283333,
+      "lon": -0.266667
+    },
+    {
+      "id": "ESTANCA_DE_ALCANIZ",
+      "name": "Estanca De Alcaniz",
+      "countryCode": "ES",
+      "lat": 41.066667,
+      "lon": -0.2
+    },
+    {
+      "id": "ESTARTIT",
+      "name": "Estartit",
+      "countryCode": "ES",
+      "lat": 42.05,
+      "lon": 3.216667
+    },
+    {
+      "id": "ESTUARIO_DEL_GUADALQUIVIR",
+      "name": "Estuario Del Guadalquivir",
+      "countryCode": "ES",
+      "lat": 36.866667,
+      "lon": -6.35
+    },
+    {
+      "id": "ESTUARIO_DEL_GUADIANA",
+      "name": "Estuario Del Guadiana",
+      "countryCode": "ES",
+      "lat": 37.216667,
+      "lon": -7.416667
+    },
+    {
+      "id": "ESTUARIO_DEL_JUCAR",
+      "name": "Estuario Del Jucar",
+      "countryCode": "ES",
+      "lat": 39.15,
+      "lon": -0.233333
+    },
+    {
+      "id": "EUGI",
+      "name": "Eugi",
+      "countryCode": "ES",
+      "lat": 42.983333,
+      "lon": -1.516667
+    },
+    {
+      "id": "EUME",
+      "name": "Eume",
+      "countryCode": "ES",
+      "lat": 43.4,
+      "lon": -8.0
+    },
+    {
+      "id": "FINISTERRE",
+      "name": "Finisterre",
+      "countryCode": "ES",
+      "lat": 39.65,
+      "lon": -3.65
+    },
+    {
+      "id": "FLIX",
+      "name": "Flix",
+      "countryCode": "ES",
+      "lat": 41.233333,
+      "lon": 0.533333
+    },
+    {
+      "id": "FOIX",
+      "name": "Foix",
+      "countryCode": "ES",
+      "lat": 41.266667,
+      "lon": 1.633333
+    },
+    {
+      "id": "FORATA",
+      "name": "Forata",
+      "countryCode": "ES",
+      "lat": 39.35,
+      "lon": -0.866667
+    },
+    {
+      "id": "FORCADAS",
+      "name": "Forcadas",
+      "countryCode": "ES",
+      "lat": 43.6,
+      "lon": -8.083333
+    },
+    {
+      "id": "FRANCISCO_ABELLAN",
+      "name": "Francisco Abellan",
+      "countryCode": "ES",
+      "lat": 37.3,
+      "lon": -3.266667
+    },
+    {
+      "id": "FUENLABRADA",
+      "name": "Fuenlabrada",
+      "countryCode": "ES",
+      "lat": 39.083333,
+      "lon": -4.916667
+    },
+    {
+      "id": "FUENSANTA",
+      "name": "Fuensanta",
+      "countryCode": "ES",
+      "lat": 38.366667,
+      "lon": -2.25
+    },
+    {
+      "id": "FUENTERRABIA",
+      "name": "Fuenterrabia",
+      "countryCode": "ES",
+      "lat": 43.366667,
+      "lon": -1.783333
+    },
+    {
+      "id": "FUERTEVENTURA",
+      "name": "Fuerteventura",
+      "countryCode": "ES",
+      "lat": 28.45,
+      "lon": -13.866667
+    },
+    {
+      "id": "GABRIEL_Y_GALAN",
+      "name": "Gabriel Y Galan",
+      "countryCode": "ES",
+      "lat": 40.25,
+      "lon": -6.133333
+    },
+    {
+      "id": "GAIA",
+      "name": "Gaia",
+      "countryCode": "ES",
+      "lat": 41.2,
+      "lon": 1.333333
+    },
+    {
+      "id": "GALLIPUEN",
+      "name": "Gallipuen",
+      "countryCode": "ES",
+      "lat": 40.866667,
+      "lon": -0.416667
+    },
+    {
+      "id": "GANDO_UME",
+      "name": "Gando - Ume",
+      "countryCode": "ES",
+      "lat": 27.933333,
+      "lon": -15.383333
+    },
+    {
+      "id": "GARCIA_DE_SOLA_CENTRO",
+      "name": "Garcia De Sola Centro",
+      "countryCode": "ES",
+      "lat": 39.233333,
+      "lon": -5.116667
+    },
+    {
+      "id": "GARCIA_DE_SOLA_NORTE",
+      "name": "Garcia De Sola Norte",
+      "countryCode": "ES",
+      "lat": 39.266667,
+      "lon": -5.05
+    },
+    {
+      "id": "GARCIA_DE_SOLA_SUR",
+      "name": "Garcia De Sola Sur",
+      "countryCode": "ES",
+      "lat": 39.2,
+      "lon": -5.166667
+    },
+    {
+      "id": "GARGALIGAS",
+      "name": "Gargaligas",
+      "countryCode": "ES",
+      "lat": 39.2,
+      "lon": -5.35
+    },
+    {
+      "id": "GARGUERA",
+      "name": "Garguera",
+      "countryCode": "ES",
+      "lat": 39.983333,
+      "lon": -5.9
+    },
+    {
+      "id": "GASSET",
+      "name": "Gasset",
+      "countryCode": "ES",
+      "lat": 39.133333,
+      "lon": -3.95
+    },
+    {
+      "id": "GELSA",
+      "name": "Gelsa",
+      "countryCode": "ES",
+      "lat": 41.4,
+      "lon": -0.466667
+    },
+    {
+      "id": "GIRIBAILE",
+      "name": "Giribaile",
+      "countryCode": "ES",
+      "lat": 38.1,
+      "lon": -3.483333
+    },
+    {
+      "id": "GOLFO_DE_LAS_PUNTAS",
+      "name": "Golfo De Las Puntas",
+      "countryCode": "ES",
+      "lat": 27.816667,
+      "lon": -18.0
+    },
+    {
+      "id": "GOLFO_DE_ROSAS",
+      "name": "Golfo De Rosas",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": 3.166667
+    },
+    {
+      "id": "GONZALEZ_LACASA",
+      "name": "Gonzalez Lacasa",
+      "countryCode": "ES",
+      "lat": 42.183333,
+      "lon": -2.683333
+    },
+    {
+      "id": "GUADALCACIN",
+      "name": "Guadalcacin",
+      "countryCode": "ES",
+      "lat": 36.666667,
+      "lon": -5.733333
+    },
+    {
+      "id": "GUADALEST",
+      "name": "Guadalest",
+      "countryCode": "ES",
+      "lat": 38.683333,
+      "lon": -0.2
+    },
+    {
+      "id": "GUADALETE",
+      "name": "Guadalete",
+      "countryCode": "ES",
+      "lat": 36.583333,
+      "lon": -6.233333
+    },
+    {
+      "id": "GUADALHORCE",
+      "name": "Guadalhorce",
+      "countryCode": "ES",
+      "lat": 36.966667,
+      "lon": -4.783333
+    },
+    {
+      "id": "GUADALMELLATO",
+      "name": "Guadalmellato",
+      "countryCode": "ES",
+      "lat": 38.066667,
+      "lon": -4.683333
+    },
+    {
+      "id": "GUADALMENA",
+      "name": "Guadalmena",
+      "countryCode": "ES",
+      "lat": 38.383333,
+      "lon": -2.9
+    },
+    {
+      "id": "GUADALQUIVIR_CENTRO",
+      "name": "Guadalquivir Centro",
+      "countryCode": "ES",
+      "lat": 37.133333,
+      "lon": -6.1
+    },
+    {
+      "id": "GUADALQUIVIR_NORTE",
+      "name": "Guadalquivir Norte",
+      "countryCode": "ES",
+      "lat": 37.233333,
+      "lon": -6.066667
+    },
+    {
+      "id": "GUADALQUIVIR_SUR",
+      "name": "Guadalquivir Sur",
+      "countryCode": "ES",
+      "lat": 36.966667,
+      "lon": -6.183333
+    },
+    {
+      "id": "GUADALTEBA",
+      "name": "Guadalteba",
+      "countryCode": "ES",
+      "lat": 36.95,
+      "lon": -4.833333
+    },
+    {
+      "id": "GUADALEN",
+      "name": "Guadalen",
+      "countryCode": "ES",
+      "lat": 38.183333,
+      "lon": -3.466667
+    },
+    {
+      "id": "GUADARRANQUE",
+      "name": "Guadarranque",
+      "countryCode": "ES",
+      "lat": 36.316667,
+      "lon": -5.466667
+    },
+    {
+      "id": "GUADIANA_CENTRO",
+      "name": "Guadiana Centro",
+      "countryCode": "ES",
+      "lat": 37.383333,
+      "lon": -7.45
+    },
+    {
+      "id": "GUADIANA_NORTE",
+      "name": "Guadiana Norte",
+      "countryCode": "ES",
+      "lat": 37.5,
+      "lon": -7.483333
+    },
+    {
+      "id": "GUADIANA_SUR",
+      "name": "Guadiana Sur",
+      "countryCode": "ES",
+      "lat": 37.283333,
+      "lon": -7.433333
+    },
+    {
+      "id": "GUADILOBA",
+      "name": "Guadiloba",
+      "countryCode": "ES",
+      "lat": 39.483333,
+      "lon": -6.283333
+    },
+    {
+      "id": "GUAJARAZ",
+      "name": "Guajaraz",
+      "countryCode": "ES",
+      "lat": 39.783333,
+      "lon": -4.083333
+    },
+    {
+      "id": "GUARA",
+      "name": "Guara",
+      "countryCode": "ES",
+      "lat": 42.233333,
+      "lon": -0.216667
+    },
+    {
+      "id": "GUIAMETS",
+      "name": "Guiamets",
+      "countryCode": "ES",
+      "lat": 41.1,
+      "lon": 0.75
+    },
+    {
+      "id": "GEVALO",
+      "name": "Gevalo",
+      "countryCode": "ES",
+      "lat": 39.716667,
+      "lon": -4.85
+    },
+    {
+      "id": "GORLIZ",
+      "name": "Gorliz",
+      "countryCode": "ES",
+      "lat": 43.416667,
+      "lon": -2.95
+    },
+    {
+      "id": "HIERRO",
+      "name": "Hierro",
+      "countryCode": "ES",
+      "lat": 27.816667,
+      "lon": -17.883333
+    },
+    {
+      "id": "HORNO_TEJERO",
+      "name": "Horno Tejero",
+      "countryCode": "ES",
+      "lat": 39.166667,
+      "lon": -6.433333
+    },
+    {
+      "id": "HUESNA",
+      "name": "Huesna",
+      "countryCode": "ES",
+      "lat": 37.783333,
+      "lon": -5.683333
+    },
+    {
+      "id": "IBAI_EDER",
+      "name": "Ibai Eder",
+      "countryCode": "ES",
+      "lat": 43.116667,
+      "lon": -2.233333
+    },
+    {
+      "id": "IBIUR",
+      "name": "Ibiur",
+      "countryCode": "ES",
+      "lat": 43.083333,
+      "lon": -2.116667
+    },
+    {
+      "id": "IRABIA",
+      "name": "Irabia",
+      "countryCode": "ES",
+      "lat": 42.983333,
+      "lon": -1.15
+    },
+    {
+      "id": "IRUENA",
+      "name": "Iruena",
+      "countryCode": "ES",
+      "lat": 40.433333,
+      "lon": -6.583333
+    },
+    {
+      "id": "ISLAS_ADDAYA",
+      "name": "Islas Addaya",
+      "countryCode": "ES",
+      "lat": 40.016667,
+      "lon": 4.216667
+    },
+    {
+      "id": "ISLA_CONEJERA",
+      "name": "Isla Conejera",
+      "countryCode": "ES",
+      "lat": 38.983333,
+      "lon": 1.233333
+    },
+    {
+      "id": "ISLA_CRISTINA",
+      "name": "Isla Cristina",
+      "countryCode": "ES",
+      "lat": 37.2,
+      "lon": -7.333333
+    },
+    {
+      "id": "ISLA_DEL_AIRE",
+      "name": "Isla Del Aire",
+      "countryCode": "ES",
+      "lat": 39.8,
+      "lon": 4.283333
+    },
+    {
+      "id": "ISLA_DE_CABRERA",
+      "name": "Isla De Cabrera",
+      "countryCode": "ES",
+      "lat": 39.15,
+      "lon": 2.933333
+    },
+    {
+      "id": "ISLA_DRAGONERA",
+      "name": "Isla Dragonera",
+      "countryCode": "ES",
+      "lat": 39.583333,
+      "lon": 2.333333
+    },
+    {
+      "id": "ISLA_ESPALMADOR",
+      "name": "Isla Espalmador",
+      "countryCode": "ES",
+      "lat": 38.766667,
+      "lon": 1.416667
+    },
+    {
+      "id": "ISLA_FORMENTERA",
+      "name": "Isla Formentera",
+      "countryCode": "ES",
+      "lat": 38.683333,
+      "lon": 1.45
+    },
+    {
+      "id": "ITOIZ",
+      "name": "Itoiz",
+      "countryCode": "ES",
+      "lat": 42.816667,
+      "lon": -1.366667
+    },
+    {
+      "id": "IZNAJAR",
+      "name": "Iznajar",
+      "countryCode": "ES",
+      "lat": 37.283333,
+      "lon": -4.35
+    },
+    {
+      "id": "JARANDILLA",
+      "name": "Jarandilla",
+      "countryCode": "ES",
+      "lat": 40.066667,
+      "lon": -5.6
+    },
+    {
+      "id": "JARRAMA",
+      "name": "Jarrama",
+      "countryCode": "ES",
+      "lat": 37.666667,
+      "lon": -6.5
+    },
+    {
+      "id": "JERTE",
+      "name": "Jerte",
+      "countryCode": "ES",
+      "lat": 40.083333,
+      "lon": -6.0
+    },
+    {
+      "id": "JOSE_TORAN",
+      "name": "Jose Toran",
+      "countryCode": "ES",
+      "lat": 37.766667,
+      "lon": -5.466667
+    },
+    {
+      "id": "JANDULA",
+      "name": "Jandula",
+      "countryCode": "ES",
+      "lat": 38.266667,
+      "lon": -3.933333
+    },
+    {
+      "id": "JAVEA",
+      "name": "Javea",
+      "countryCode": "ES",
+      "lat": 38.783333,
+      "lon": 0.2
+    },
+    {
+      "id": "LAGO_DE_BANOLAS",
+      "name": "Lago De Banolas",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": 2.75
+    },
+    {
+      "id": "LAGO_DE_ENCROBAS",
+      "name": "Lago De Encrobas",
+      "countryCode": "ES",
+      "lat": 43.2,
+      "lon": -8.433333
+    },
+    {
+      "id": "LAGO_DE_SANABRIA",
+      "name": "Lago De Sanabria",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": -6.716667
+    },
+    {
+      "id": "LAGUNA_DE_EL_HONDO",
+      "name": "Laguna De El Hondo",
+      "countryCode": "ES",
+      "lat": 38.183333,
+      "lon": -0.766667
+    },
+    {
+      "id": "LAGUNA_DE_FUENTE_DE_PIEDRA",
+      "name": "Laguna De Fuente De Piedra",
+      "countryCode": "ES",
+      "lat": 37.116667,
+      "lon": -4.766667
+    },
+    {
+      "id": "LAGUNA_DE_GALLOCANTA",
+      "name": "Laguna De Gallocanta",
+      "countryCode": "ES",
+      "lat": 40.966667,
+      "lon": -1.5
+    },
+    {
+      "id": "LAGUNA_DE_GUALLAR",
+      "name": "Laguna De Guallar",
+      "countryCode": "ES",
+      "lat": 41.416667,
+      "lon": -0.183333
+    },
+    {
+      "id": "LAGUNA_DE_SANTIAGO",
+      "name": "Laguna De Santiago",
+      "countryCode": "ES",
+      "lat": 28.033333,
+      "lon": -17.183333
+    },
+    {
+      "id": "LAGUNA_DE_SARINENA",
+      "name": "Laguna De Sarinena",
+      "countryCode": "ES",
+      "lat": 41.8,
+      "lon": -0.183333
+    },
+    {
+      "id": "LAGUNA_DE_ZONAR",
+      "name": "Laguna De Zonar",
+      "countryCode": "ES",
+      "lat": 37.483333,
+      "lon": -4.7
+    },
+    {
+      "id": "LAGUNA_LARGA",
+      "name": "Laguna Larga",
+      "countryCode": "ES",
+      "lat": 39.6,
+      "lon": -3.316667
+    },
+    {
+      "id": "LAGUNA_PUDENT",
+      "name": "Laguna Pudent",
+      "countryCode": "ES",
+      "lat": 38.733333,
+      "lon": 1.433333
+    },
+    {
+      "id": "LAJA",
+      "name": "Laja",
+      "countryCode": "ES",
+      "lat": 28.05,
+      "lon": -15.416667
+    },
+    {
+      "id": "LANUZA",
+      "name": "Lanuza",
+      "countryCode": "ES",
+      "lat": 42.75,
+      "lon": -0.316667
+    },
+    {
+      "id": "LANZAROTE",
+      "name": "Lanzarote",
+      "countryCode": "ES",
+      "lat": 28.95,
+      "lon": -13.6
+    },
+    {
+      "id": "LASTANOSA",
+      "name": "Lastanosa",
+      "countryCode": "ES",
+      "lat": 41.85,
+      "lon": -0.066667
+    },
+    {
+      "id": "LAS_CONCHAS",
+      "name": "Las Conchas",
+      "countryCode": "ES",
+      "lat": 41.966667,
+      "lon": -7.983333
+    },
+    {
+      "id": "LAS_FITAS",
+      "name": "Las Fitas",
+      "countryCode": "ES",
+      "lat": 41.8,
+      "lon": -0.066667
+    },
+    {
+      "id": "LAS_PORTAS",
+      "name": "Las Portas",
+      "countryCode": "ES",
+      "lat": 42.1,
+      "lon": -7.233333
+    },
+    {
+      "id": "LAS_ROZAS",
+      "name": "Las Rozas",
+      "countryCode": "ES",
+      "lat": 42.916667,
+      "lon": -6.333333
+    },
+    {
+      "id": "LAS_TORCAS",
+      "name": "Las Torcas",
+      "countryCode": "ES",
+      "lat": 41.283333,
+      "lon": -1.1
+    },
+    {
+      "id": "LAS_VIBORAS",
+      "name": "Las Viboras",
+      "countryCode": "ES",
+      "lat": 37.633333,
+      "lon": -4.0
+    },
+    {
+      "id": "LAVERNE",
+      "name": "Laverne",
+      "countryCode": "ES",
+      "lat": 42.083333,
+      "lon": -1.083333
+    },
+    {
+      "id": "LA_ACENA",
+      "name": "La Acena",
+      "countryCode": "ES",
+      "lat": 40.616667,
+      "lon": -4.233333
+    },
+    {
+      "id": "LA_ALBUFERA",
+      "name": "La Albufera",
+      "countryCode": "ES",
+      "lat": 39.333333,
+      "lon": -0.333333
+    },
+    {
+      "id": "LA_BAELLS",
+      "name": "La Baells",
+      "countryCode": "ES",
+      "lat": 42.15,
+      "lon": 1.866667
+    },
+    {
+      "id": "LA_BOLERA",
+      "name": "La Bolera",
+      "countryCode": "ES",
+      "lat": 37.766667,
+      "lon": -2.9
+    },
+    {
+      "id": "LA_BRENA",
+      "name": "La Brena",
+      "countryCode": "ES",
+      "lat": 37.833333,
+      "lon": -5.05
+    },
+    {
+      "id": "LA_BUJEDA",
+      "name": "La Bujeda",
+      "countryCode": "ES",
+      "lat": 40.25,
+      "lon": -2.833333
+    },
+    {
+      "id": "LA_CABEZUELA",
+      "name": "La Cabezuela",
+      "countryCode": "ES",
+      "lat": 38.7,
+      "lon": -3.266667
+    },
+    {
+      "id": "LA_CAMPANANA",
+      "name": "La Campanana",
+      "countryCode": "ES",
+      "lat": 42.5,
+      "lon": -6.766667
+    },
+    {
+      "id": "LA_CIERVA",
+      "name": "La Cierva",
+      "countryCode": "ES",
+      "lat": 38.066667,
+      "lon": -1.5
+    },
+    {
+      "id": "LA_COHILLA",
+      "name": "La Cohilla",
+      "countryCode": "ES",
+      "lat": 43.133333,
+      "lon": -4.4
+    },
+    {
+      "id": "LA_COLADA",
+      "name": "La Colada",
+      "countryCode": "ES",
+      "lat": 38.533333,
+      "lon": -5.0
+    },
+    {
+      "id": "LA_CONCEPCION",
+      "name": "La Concepcion",
+      "countryCode": "ES",
+      "lat": 36.55,
+      "lon": -4.966667
+    },
+    {
+      "id": "LA_CUERDA_DEL_POZO",
+      "name": "La Cuerda Del Pozo",
+      "countryCode": "ES",
+      "lat": 41.85,
+      "lon": -2.75
+    },
+    {
+      "id": "LA_ERMITA",
+      "name": "La Ermita",
+      "countryCode": "ES",
+      "lat": 40.616667,
+      "lon": -2.7
+    },
+    {
+      "id": "LA_FERNANDINA",
+      "name": "La Fernandina",
+      "countryCode": "ES",
+      "lat": 38.2,
+      "lon": -3.566667
+    },
+    {
+      "id": "LA_FERVENZA",
+      "name": "La Fervenza",
+      "countryCode": "ES",
+      "lat": 43.0,
+      "lon": -9.0
+    },
+    {
+      "id": "LA_FRESNEDA",
+      "name": "La Fresneda",
+      "countryCode": "ES",
+      "lat": 38.533333,
+      "lon": -3.616667
+    },
+    {
+      "id": "LA_GITANA",
+      "name": "La Gitana",
+      "countryCode": "ES",
+      "lat": 37.6,
+      "lon": -5.55
+    },
+    {
+      "id": "LA_GOMERA",
+      "name": "La Gomera",
+      "countryCode": "ES",
+      "lat": 28.033333,
+      "lon": -17.216667
+    },
+    {
+      "id": "LA_JAROSA",
+      "name": "La Jarosa",
+      "countryCode": "ES",
+      "lat": 40.666667,
+      "lon": -4.116667
+    },
+    {
+      "id": "LA_LANZADA",
+      "name": "La Lanzada",
+      "countryCode": "ES",
+      "lat": 42.45,
+      "lon": -8.883333
+    },
+    {
+      "id": "LA_LOSA_DEL_CABALLO",
+      "name": "La Losa Del Caballo",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": 1.6
+    },
+    {
+      "id": "LA_LOTETA",
+      "name": "La Loteta",
+      "countryCode": "ES",
+      "lat": 41.816667,
+      "lon": -1.333333
+    },
+    {
+      "id": "LA_MATA",
+      "name": "La Mata",
+      "countryCode": "ES",
+      "lat": 38.033333,
+      "lon": -0.683333
+    },
+    {
+      "id": "LA_MINILLA",
+      "name": "La Minilla",
+      "countryCode": "ES",
+      "lat": 37.683333,
+      "lon": -6.2
+    },
+    {
+      "id": "LA_MUELA",
+      "name": "La Muela",
+      "countryCode": "ES",
+      "lat": 39.233333,
+      "lon": -0.933333
+    },
+    {
+      "id": "LA_PALMA",
+      "name": "La Palma",
+      "countryCode": "ES",
+      "lat": 28.633333,
+      "lon": -17.75
+    },
+    {
+      "id": "LA_PEDRERA",
+      "name": "La Pedrera",
+      "countryCode": "ES",
+      "lat": 38.016667,
+      "lon": -0.866667
+    },
+    {
+      "id": "LA_PENA",
+      "name": "La Pena",
+      "countryCode": "ES",
+      "lat": 42.383333,
+      "lon": -0.716667
+    },
+    {
+      "id": "LA_PORTINA",
+      "name": "La Portina",
+      "countryCode": "ES",
+      "lat": 40.0,
+      "lon": -4.85
+    },
+    {
+      "id": "LA_PUEBLA_DE_CAZALLA",
+      "name": "La Puebla De Cazalla",
+      "countryCode": "ES",
+      "lat": 37.133333,
+      "lon": -5.233333
+    },
+    {
+      "id": "LA_RIBEIRA",
+      "name": "La Ribeira",
+      "countryCode": "ES",
+      "lat": 43.466667,
+      "lon": -7.816667
+    },
+    {
+      "id": "LA_SAVINA",
+      "name": "La Savina",
+      "countryCode": "ES",
+      "lat": 38.733333,
+      "lon": 1.4
+    },
+    {
+      "id": "LA_SERENA_CENTRO",
+      "name": "La Serena Centro",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": -5.25
+    },
+    {
+      "id": "LA_SERENA_ESTE",
+      "name": "La Serena Este",
+      "countryCode": "ES",
+      "lat": 38.866667,
+      "lon": -5.15
+    },
+    {
+      "id": "LA_SERENA_NORTE",
+      "name": "La Serena Norte",
+      "countryCode": "ES",
+      "lat": 38.966667,
+      "lon": -5.2
+    },
+    {
+      "id": "LA_SERENA_OESTE",
+      "name": "La Serena Oeste",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": -5.316667
+    },
+    {
+      "id": "LA_SERENA_SUR",
+      "name": "La Serena Sur",
+      "countryCode": "ES",
+      "lat": 38.816667,
+      "lon": -5.05
+    },
+    {
+      "id": "LA_SOTONERA",
+      "name": "La Sotonera",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": -0.666667
+    },
+    {
+      "id": "LA_TAJERA",
+      "name": "La Tajera",
+      "countryCode": "ES",
+      "lat": 40.85,
+      "lon": -2.616667
+    },
+    {
+      "id": "LA_TOBA",
+      "name": "La Toba",
+      "countryCode": "ES",
+      "lat": 40.216667,
+      "lon": -1.916667
+    },
+    {
+      "id": "LA_TRANQUERA",
+      "name": "La Tranquera",
+      "countryCode": "ES",
+      "lat": 41.25,
+      "lon": -1.8
+    },
+    {
+      "id": "LA_VEGA_DEL_JABALON",
+      "name": "La Vega Del Jabalon",
+      "countryCode": "ES",
+      "lat": 38.766667,
+      "lon": -3.783333
+    },
+    {
+      "id": "LA_VINUELA",
+      "name": "La Vinuela",
+      "countryCode": "ES",
+      "lat": 36.866667,
+      "lon": -4.166667
+    },
+    {
+      "id": "LECHAGO",
+      "name": "Lechago",
+      "countryCode": "ES",
+      "lat": 40.966667,
+      "lon": -1.3
+    },
+    {
+      "id": "LEON_UME",
+      "name": "Leon - Ume",
+      "countryCode": "ES",
+      "lat": 42.6,
+      "lon": -5.65
+    },
+    {
+      "id": "LINARES_DEL_ARROYO",
+      "name": "Linares Del Arroyo",
+      "countryCode": "ES",
+      "lat": 41.516667,
+      "lon": -3.533333
+    },
+    {
+      "id": "LLERENA",
+      "name": "Llerena",
+      "countryCode": "ES",
+      "lat": 38.3,
+      "lon": -5.9
+    },
+    {
+      "id": "LORIGUILLA",
+      "name": "Loriguilla",
+      "countryCode": "ES",
+      "lat": 39.666667,
+      "lon": -0.916667
+    },
+    {
+      "id": "LOS_BERMEJALES",
+      "name": "Los Bermejales",
+      "countryCode": "ES",
+      "lat": 36.983333,
+      "lon": -3.883333
+    },
+    {
+      "id": "LOS_CANCHALES",
+      "name": "Los Canchales",
+      "countryCode": "ES",
+      "lat": 38.983333,
+      "lon": -6.516667
+    },
+    {
+      "id": "LOS_HURONES",
+      "name": "Los Hurones",
+      "countryCode": "ES",
+      "lat": 36.683333,
+      "lon": -5.533333
+    },
+    {
+      "id": "LOS_MACHOS",
+      "name": "Los Machos",
+      "countryCode": "ES",
+      "lat": 37.316667,
+      "lon": -7.216667
+    },
+    {
+      "id": "LOS_MELONARES",
+      "name": "Los Melonares",
+      "countryCode": "ES",
+      "lat": 37.75,
+      "lon": -5.883333
+    },
+    {
+      "id": "LOS_MOLINOS",
+      "name": "Los Molinos",
+      "countryCode": "ES",
+      "lat": 38.516667,
+      "lon": -6.116667
+    },
+    {
+      "id": "LOS_VADOS",
+      "name": "Los Vados",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": -3.166667
+    },
+    {
+      "id": "MAIDEVERA",
+      "name": "Maidevera",
+      "countryCode": "ES",
+      "lat": 41.583333,
+      "lon": -1.766667
+    },
+    {
+      "id": "MALPARTIDA",
+      "name": "Malpartida",
+      "countryCode": "ES",
+      "lat": 40.016667,
+      "lon": -6.0
+    },
+    {
+      "id": "MALPASILLO",
+      "name": "Malpasillo",
+      "countryCode": "ES",
+      "lat": 37.3,
+      "lon": -4.683333
+    },
+    {
+      "id": "MALVECINO",
+      "name": "Malvecino",
+      "countryCode": "ES",
+      "lat": 42.2,
+      "lon": -1.4
+    },
+    {
+      "id": "MANSILLA",
+      "name": "Mansilla",
+      "countryCode": "ES",
+      "lat": 42.15,
+      "lon": -2.933333
+    },
+    {
+      "id": "MARTIN_GONZALO",
+      "name": "Martin Gonzalo",
+      "countryCode": "ES",
+      "lat": 38.1,
+      "lon": -4.333333
+    },
+    {
+      "id": "MAR_MENOR",
+      "name": "Mar Menor",
+      "countryCode": "ES",
+      "lat": 37.733333,
+      "lon": -0.8
+    },
+    {
+      "id": "MARIA_CRISTINA",
+      "name": "Maria Cristina",
+      "countryCode": "ES",
+      "lat": 40.033333,
+      "lon": -0.166667
+    },
+    {
+      "id": "MATALAVILLA",
+      "name": "Matalavilla",
+      "countryCode": "ES",
+      "lat": 42.833333,
+      "lon": -6.433333
+    },
+    {
+      "id": "MAZAGON",
+      "name": "Mazagon",
+      "countryCode": "ES",
+      "lat": 37.15,
+      "lon": -6.883333
+    },
+    {
+      "id": "MAZARRON",
+      "name": "Mazarron",
+      "countryCode": "ES",
+      "lat": 37.566667,
+      "lon": -1.233333
+    },
+    {
+      "id": "MEDIANO",
+      "name": "Mediano",
+      "countryCode": "ES",
+      "lat": 42.333333,
+      "lon": 0.2
+    },
+    {
+      "id": "MELILLA",
+      "name": "Melilla",
+      "countryCode": "ES",
+      "lat": 35.283333,
+      "lon": -2.933333
+    },
+    {
+      "id": "MEQUINENZA_OCCIDENTAL",
+      "name": "Mequinenza Occidental",
+      "countryCode": "ES",
+      "lat": 41.266667,
+      "lon": 0.0
+    },
+    {
+      "id": "MEQUINENZA_ORIENTAL",
+      "name": "Mequinenza Oriental",
+      "countryCode": "ES",
+      "lat": 41.4,
+      "lon": 0.216667
+    },
+    {
+      "id": "MEQUINENZA_PRESA",
+      "name": "Mequinenza Presa",
+      "countryCode": "ES",
+      "lat": 41.35,
+      "lon": 0.333333
+    },
+    {
+      "id": "MINAS_DE_CALA",
+      "name": "Minas De Cala",
+      "countryCode": "ES",
+      "lat": 37.966667,
+      "lon": -6.366667
+    },
+    {
+      "id": "MONEVA",
+      "name": "Moneva",
+      "countryCode": "ES",
+      "lat": 41.166667,
+      "lon": -0.833333
+    },
+    {
+      "id": "MONTEAGUDO",
+      "name": "Monteagudo",
+      "countryCode": "ES",
+      "lat": 41.383333,
+      "lon": -2.183333
+    },
+    {
+      "id": "MONTEARAGON",
+      "name": "Montearagon",
+      "countryCode": "ES",
+      "lat": 42.183333,
+      "lon": -0.366667
+    },
+    {
+      "id": "MONTIJO",
+      "name": "Montijo",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": -6.416667
+    },
+    {
+      "id": "MONTORO",
+      "name": "Montoro",
+      "countryCode": "ES",
+      "lat": 38.55,
+      "lon": -4.116667
+    },
+    {
+      "id": "MORAIRA",
+      "name": "Moraira",
+      "countryCode": "ES",
+      "lat": 38.683333,
+      "lon": 0.133333
+    },
+    {
+      "id": "MORON_UME",
+      "name": "Moron - Ume",
+      "countryCode": "ES",
+      "lat": 37.166667,
+      "lon": -5.616667
+    },
+    {
+      "id": "MULARROYA",
+      "name": "Mularroya",
+      "countryCode": "ES",
+      "lat": 41.466667,
+      "lon": -1.433333
+    },
+    {
+      "id": "NAVACERRADA",
+      "name": "Navacerrada",
+      "countryCode": "ES",
+      "lat": 40.716667,
+      "lon": -4.0
+    },
+    {
+      "id": "NAVALCAN",
+      "name": "Navalcan",
+      "countryCode": "ES",
+      "lat": 40.033333,
+      "lon": -5.116667
+    },
+    {
+      "id": "NAVALESPINO",
+      "name": "Navalespino",
+      "countryCode": "ES",
+      "lat": 38.416667,
+      "lon": -5.566667
+    },
+    {
+      "id": "NAVANUNO",
+      "name": "Navanuno",
+      "countryCode": "ES",
+      "lat": 40.35,
+      "lon": -5.783333
+    },
+    {
+      "id": "NEGRATIN",
+      "name": "Negratin",
+      "countryCode": "ES",
+      "lat": 37.566667,
+      "lon": -2.916667
+    },
+    {
+      "id": "NOGALES",
+      "name": "Nogales",
+      "countryCode": "ES",
+      "lat": 38.55,
+      "lon": -6.733333
+    },
+    {
+      "id": "AGAVANZAL",
+      "name": "Agavanzal",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": -6.166667
+    },
+    {
+      "id": "OLIANA",
+      "name": "Oliana",
+      "countryCode": "ES",
+      "lat": 42.1,
+      "lon": 1.3
+    },
+    {
+      "id": "OLIVARGAS",
+      "name": "Olivargas",
+      "countryCode": "ES",
+      "lat": 37.716667,
+      "lon": -6.8
+    },
+    {
+      "id": "ORDUNTE",
+      "name": "Ordunte",
+      "countryCode": "ES",
+      "lat": 43.15,
+      "lon": -3.3
+    },
+    {
+      "id": "ORELLANA_CENTRAL",
+      "name": "Orellana Central",
+      "countryCode": "ES",
+      "lat": 39.05,
+      "lon": -5.366667
+    },
+    {
+      "id": "ORELLANA_ESTE",
+      "name": "Orellana Este",
+      "countryCode": "ES",
+      "lat": 39.1,
+      "lon": -5.283333
+    },
+    {
+      "id": "ORELLANA_OESTE",
+      "name": "Orellana Oeste",
+      "countryCode": "ES",
+      "lat": 39.0,
+      "lon": -5.466667
+    },
+    {
+      "id": "PAJARES",
+      "name": "Pajares",
+      "countryCode": "ES",
+      "lat": 42.083333,
+      "lon": -2.6
+    },
+    {
+      "id": "PALAMOS",
+      "name": "Palamos",
+      "countryCode": "ES",
+      "lat": 41.85,
+      "lon": 3.116667
+    },
+    {
+      "id": "PEARES",
+      "name": "Peares",
+      "countryCode": "ES",
+      "lat": 42.5,
+      "lon": -7.716667
+    },
+    {
+      "id": "PEDRO_MARIN",
+      "name": "Pedro Marin",
+      "countryCode": "ES",
+      "lat": 37.9,
+      "lon": -3.4
+    },
+    {
+      "id": "PENA",
+      "name": "Pena",
+      "countryCode": "ES",
+      "lat": 40.816667,
+      "lon": 0.133333
+    },
+    {
+      "id": "PENARROYA",
+      "name": "Penarroya",
+      "countryCode": "ES",
+      "lat": 39.033333,
+      "lon": -2.966667
+    },
+    {
+      "id": "PENARRUBIA",
+      "name": "Penarrubia",
+      "countryCode": "ES",
+      "lat": 42.466667,
+      "lon": -6.816667
+    },
+    {
+      "id": "PICADAS",
+      "name": "Picadas",
+      "countryCode": "ES",
+      "lat": 40.333333,
+      "lon": -4.25
+    },
+    {
+      "id": "PIEDRAS",
+      "name": "Piedras",
+      "countryCode": "ES",
+      "lat": 37.383333,
+      "lon": -7.266667
+    },
+    {
+      "id": "PIEDRA_AGUDA",
+      "name": "Piedra Aguda",
+      "countryCode": "ES",
+      "lat": 38.666667,
+      "lon": -7.033333
+    },
+    {
+      "id": "PIGNATELLI",
+      "name": "Pignatelli",
+      "countryCode": "ES",
+      "lat": 42.033333,
+      "lon": -1.55
+    },
+    {
+      "id": "PINILLA",
+      "name": "Pinilla",
+      "countryCode": "ES",
+      "lat": 40.933333,
+      "lon": -3.8
+    },
+    {
+      "id": "PLAYA_DE_BOLONIA",
+      "name": "Playa De Bolonia",
+      "countryCode": "ES",
+      "lat": 36.083333,
+      "lon": -5.783333
+    },
+    {
+      "id": "PLAYA_DE_EL_ARENAL",
+      "name": "Playa De El Arenal",
+      "countryCode": "ES",
+      "lat": 39.516667,
+      "lon": 2.733333
+    },
+    {
+      "id": "PLAYA_DE_ES_TRENC",
+      "name": "Playa De Es Trenc",
+      "countryCode": "ES",
+      "lat": 39.35,
+      "lon": 2.966667
+    },
+    {
+      "id": "PLAYA_DE_LAS_CANTERAS",
+      "name": "Playa De Las Canteras",
+      "countryCode": "ES",
+      "lat": 28.15,
+      "lon": -15.45
+    },
+    {
+      "id": "PLAYA_DE_LAS_SALINAS",
+      "name": "Playa De Las Salinas",
+      "countryCode": "ES",
+      "lat": 38.833333,
+      "lon": 1.383333
+    },
+    {
+      "id": "PLAYA_DE_LA_CONCHA",
+      "name": "Playa De La Concha",
+      "countryCode": "ES",
+      "lat": 43.316667,
+      "lon": -2.0
+    },
+    {
+      "id": "PLAYA_DE_PALMANOVA",
+      "name": "Playa De Palmanova",
+      "countryCode": "ES",
+      "lat": 39.516667,
+      "lon": 2.55
+    },
+    {
+      "id": "PLAYA_DE_SON_BOU",
+      "name": "Playa De Son Bou",
+      "countryCode": "ES",
+      "lat": 39.9,
+      "lon": 4.066667
+    },
+    {
+      "id": "PONTON_ALTO",
+      "name": "Ponton Alto",
+      "countryCode": "ES",
+      "lat": 40.916667,
+      "lon": -4.033333
+    },
+    {
+      "id": "PORMA",
+      "name": "Porma",
+      "countryCode": "ES",
+      "lat": 42.933333,
+      "lon": -5.283333
+    },
+    {
+      "id": "PORTAJE",
+      "name": "Portaje",
+      "countryCode": "ES",
+      "lat": 39.883333,
+      "lon": -6.533333
+    },
+    {
+      "id": "PORTODEMOUROS",
+      "name": "Portodemouros",
+      "countryCode": "ES",
+      "lat": 42.833333,
+      "lon": -8.133333
+    },
+    {
+      "id": "PORTOMARIN",
+      "name": "Portomarin",
+      "countryCode": "ES",
+      "lat": 42.8,
+      "lon": -7.616667
+    },
+    {
+      "id": "PORTOPETRO",
+      "name": "Portopetro",
+      "countryCode": "ES",
+      "lat": 39.35,
+      "lon": 3.216667
+    },
+    {
+      "id": "PORIS_DE_ABONA",
+      "name": "Poris De Abona",
+      "countryCode": "ES",
+      "lat": 28.15,
+      "lon": -16.433333
+    },
+    {
+      "id": "PRADA",
+      "name": "Prada",
+      "countryCode": "ES",
+      "lat": 42.283333,
+      "lon": -7.033333
+    },
+    {
+      "id": "PROSERPINA",
+      "name": "Proserpina",
+      "countryCode": "ES",
+      "lat": 38.966667,
+      "lon": -6.366667
+    },
+    {
+      "id": "PUENTES",
+      "name": "Puentes",
+      "countryCode": "ES",
+      "lat": 37.75,
+      "lon": -1.833333
+    },
+    {
+      "id": "PUENTES_DE_GARCIA_RODRIGUEZ",
+      "name": "Puentes De Garcia Rodriguez",
+      "countryCode": "ES",
+      "lat": 43.466667,
+      "lon": -7.9
+    },
+    {
+      "id": "PUENTES_VIEJAS",
+      "name": "Puentes Viejas",
+      "countryCode": "ES",
+      "lat": 41.0,
+      "lon": -3.583333
+    },
+    {
+      "id": "PUENTE_NAVARRO",
+      "name": "Puente Navarro",
+      "countryCode": "ES",
+      "lat": 39.15,
+      "lon": -3.7
+    },
+    {
+      "id": "PUENTE_NUEVO",
+      "name": "Puente Nuevo",
+      "countryCode": "ES",
+      "lat": 38.116667,
+      "lon": -4.966667
+    },
+    {
+      "id": "PUENTE_PORTO",
+      "name": "Puente Porto",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": -6.833333
+    },
+    {
+      "id": "PUERTO_DEL_ROSARIO",
+      "name": "Puerto Del Rosario",
+      "countryCode": "ES",
+      "lat": 28.5,
+      "lon": -13.85
+    },
+    {
+      "id": "PUERTO_DE_ALICANTE",
+      "name": "Puerto De Alicante",
+      "countryCode": "ES",
+      "lat": 38.333333,
+      "lon": -0.483333
+    },
+    {
+      "id": "PUERTO_DE_ALMERIA",
+      "name": "Puerto De Almeria",
+      "countryCode": "ES",
+      "lat": 36.833333,
+      "lon": -2.466667
+    },
+    {
+      "id": "PUERTO_DE_ANDRATX",
+      "name": "Puerto De Andratx",
+      "countryCode": "ES",
+      "lat": 39.533333,
+      "lon": 2.383333
+    },
+    {
+      "id": "PUERTO_DE_ARRECIFE",
+      "name": "Puerto De Arrecife",
+      "countryCode": "ES",
+      "lat": 28.966667,
+      "lon": -13.533333
+    },
+    {
+      "id": "PUERTO_DE_AVILES",
+      "name": "Puerto De Aviles",
+      "countryCode": "ES",
+      "lat": 43.583333,
+      "lon": -5.916667
+    },
+    {
+      "id": "PUERTO_DE_BARCELONA",
+      "name": "Puerto De Barcelona",
+      "countryCode": "ES",
+      "lat": 41.333333,
+      "lon": 2.166667
+    },
+    {
+      "id": "PUERTO_DE_BILBAO",
+      "name": "Puerto De Bilbao",
+      "countryCode": "ES",
+      "lat": 43.366667,
+      "lon": -3.05
+    },
+    {
+      "id": "PUERTO_DE_CARBONERAS",
+      "name": "Puerto De Carboneras",
+      "countryCode": "ES",
+      "lat": 36.966667,
+      "lon": -1.9
+    },
+    {
+      "id": "PUERTO_DE_CARTAGENA",
+      "name": "Puerto De Cartagena",
+      "countryCode": "ES",
+      "lat": 37.583333,
+      "lon": -0.983333
+    },
+    {
+      "id": "PUERTO_DE_CASTELLON",
+      "name": "Puerto De Castellon",
+      "countryCode": "ES",
+      "lat": 39.966667,
+      "lon": 0.016667
+    },
+    {
+      "id": "PUERTO_DE_CEUTA",
+      "name": "Puerto De Ceuta",
+      "countryCode": "ES",
+      "lat": 35.9,
+      "lon": -5.316667
+    },
+    {
+      "id": "PUERTO_DE_CEE",
+      "name": "Puerto De Cee",
+      "countryCode": "ES",
+      "lat": 42.95,
+      "lon": -9.183333
+    },
+    {
+      "id": "PUERTO_DE_CIUDADELA",
+      "name": "Puerto De Ciudadela",
+      "countryCode": "ES",
+      "lat": 40.0,
+      "lon": 3.833333
+    },
+    {
+      "id": "PUERTO_DE_DENIA",
+      "name": "Puerto De Denia",
+      "countryCode": "ES",
+      "lat": 38.85,
+      "lon": 0.116667
+    },
+    {
+      "id": "PUERTO_DE_ESCOMBRERAS",
+      "name": "Puerto De Escombreras",
+      "countryCode": "ES",
+      "lat": 37.566667,
+      "lon": -0.966667
+    },
+    {
+      "id": "PUERTO_DE_GANDIA",
+      "name": "Puerto De Gandia",
+      "countryCode": "ES",
+      "lat": 39.0,
+      "lon": -0.15
+    },
+    {
+      "id": "PUERTO_DE_GARRUCHA",
+      "name": "Puerto De Garrucha",
+      "countryCode": "ES",
+      "lat": 37.183333,
+      "lon": -1.816667
+    },
+    {
+      "id": "PUERTO_DE_GIJON",
+      "name": "Puerto De Gijon",
+      "countryCode": "ES",
+      "lat": 43.566667,
+      "lon": -5.683333
+    },
+    {
+      "id": "PUERTO_DE_GRANADILLA",
+      "name": "Puerto De Granadilla",
+      "countryCode": "ES",
+      "lat": 28.066667,
+      "lon": -16.5
+    },
+    {
+      "id": "PUERTO_DE_HUELVA",
+      "name": "Puerto De Huelva",
+      "countryCode": "ES",
+      "lat": 37.233333,
+      "lon": -6.966667
+    },
+    {
+      "id": "PUERTO_DE_IBIZA",
+      "name": "Puerto De Ibiza",
+      "countryCode": "ES",
+      "lat": 38.9,
+      "lon": 1.45
+    },
+    {
+      "id": "PUERTO_DE_LANGOSTEIRA",
+      "name": "Puerto De Langosteira",
+      "countryCode": "ES",
+      "lat": 43.35,
+      "lon": -8.516667
+    },
+    {
+      "id": "PUERTO_DE_LAS_PALMAS",
+      "name": "Puerto De Las Palmas",
+      "countryCode": "ES",
+      "lat": 28.133333,
+      "lon": -15.416667
+    },
+    {
+      "id": "PUERTO_DE_LA_CORUNA",
+      "name": "Puerto De La Coruna",
+      "countryCode": "ES",
+      "lat": 43.366667,
+      "lon": -8.383333
+    },
+    {
+      "id": "PUERTO_DE_LA_ESTACA",
+      "name": "Puerto De La Estaca",
+      "countryCode": "ES",
+      "lat": 27.783333,
+      "lon": -17.9
+    },
+    {
+      "id": "PUERTO_DE_LA_SELVA",
+      "name": "Puerto De La Selva",
+      "countryCode": "ES",
+      "lat": 42.333333,
+      "lon": 3.2
+    },
+    {
+      "id": "PUERTO_DE_LOS_CRISTIANOS",
+      "name": "Puerto De Los Cristianos",
+      "countryCode": "ES",
+      "lat": 28.05,
+      "lon": -16.716667
+    },
+    {
+      "id": "PUERTO_DE_MAHON",
+      "name": "Puerto De Mahon",
+      "countryCode": "ES",
+      "lat": 39.883333,
+      "lon": 4.283333
+    },
+    {
+      "id": "PUERTO_DE_MORRO_JABLE",
+      "name": "Puerto De Morro Jable",
+      "countryCode": "ES",
+      "lat": 28.05,
+      "lon": -14.366667
+    },
+    {
+      "id": "PUERTO_DE_MOTRIL",
+      "name": "Puerto De Motril",
+      "countryCode": "ES",
+      "lat": 36.716667,
+      "lon": -3.516667
+    },
+    {
+      "id": "PUERTO_DE_MALAGA",
+      "name": "Puerto De Malaga",
+      "countryCode": "ES",
+      "lat": 36.7,
+      "lon": -4.416667
+    },
+    {
+      "id": "PUERTO_DE_PALMA",
+      "name": "Puerto De Palma",
+      "countryCode": "ES",
+      "lat": 39.55,
+      "lon": 2.633333
+    },
+    {
+      "id": "PUERTO_DE_PASAJES",
+      "name": "Puerto De Pasajes",
+      "countryCode": "ES",
+      "lat": 43.316667,
+      "lon": -1.916667
+    },
+    {
+      "id": "PUERTO_DE_PORTOCOLOM",
+      "name": "Puerto De Portocolom",
+      "countryCode": "ES",
+      "lat": 39.416667,
+      "lon": 3.266667
+    },
+    {
+      "id": "PUERTO_DE_ROTA",
+      "name": "Puerto De Rota",
+      "countryCode": "ES",
+      "lat": 36.616667,
+      "lon": -6.333333
+    },
+    {
+      "id": "PUERTO_DE_SAGUNTO",
+      "name": "Puerto De Sagunto",
+      "countryCode": "ES",
+      "lat": 39.65,
+      "lon": -0.216667
+    },
+    {
+      "id": "PUERTO_DE_SAN_ANTONIO",
+      "name": "Puerto De San Antonio",
+      "countryCode": "ES",
+      "lat": 38.983333,
+      "lon": 1.3
+    },
+    {
+      "id": "PUERTO_DE_SAN_CIPRIAN",
+      "name": "Puerto De San Ciprian",
+      "countryCode": "ES",
+      "lat": 43.716667,
+      "lon": -7.466667
+    },
+    {
+      "id": "PUERTO_DE_SAN_SEBASTIAN",
+      "name": "Puerto De San Sebastian",
+      "countryCode": "ES",
+      "lat": 28.083333,
+      "lon": -17.1
+    },
+    {
+      "id": "PUERTO_DE_SOLLER",
+      "name": "Puerto De Soller",
+      "countryCode": "ES",
+      "lat": 39.783333,
+      "lon": 2.7
+    },
+    {
+      "id": "PUERTO_DE_TARRAGONA",
+      "name": "Puerto De Tarragona",
+      "countryCode": "ES",
+      "lat": 41.1,
+      "lon": 1.233333
+    },
+    {
+      "id": "PUERTO_DE_TAZACORTE",
+      "name": "Puerto De Tazacorte",
+      "countryCode": "ES",
+      "lat": 28.65,
+      "lon": -17.95
+    },
+    {
+      "id": "PUERTO_DE_VALENCIA",
+      "name": "Puerto De Valencia",
+      "countryCode": "ES",
+      "lat": 39.433333,
+      "lon": -0.316667
+    },
+    {
+      "id": "PUERTO_DE_VALLEHERMOSO",
+      "name": "Puerto De Vallehermoso",
+      "countryCode": "ES",
+      "lat": 38.866667,
+      "lon": -3.166667
+    },
+    {
+      "id": "PUERTO_DE_VILLAJOYOSA",
+      "name": "Puerto De Villajoyosa",
+      "countryCode": "ES",
+      "lat": 38.5,
+      "lon": -0.216667
+    },
+    {
+      "id": "PUERTO_DE_VUELTAS",
+      "name": "Puerto De Vueltas",
+      "countryCode": "ES",
+      "lat": 28.083333,
+      "lon": -17.333333
+    },
+    {
+      "id": "PUNTA_UMBRIA",
+      "name": "Punta Umbria",
+      "countryCode": "ES",
+      "lat": 37.183333,
+      "lon": -6.966667
+    },
+    {
+      "id": "PALMACES",
+      "name": "Palmaces",
+      "countryCode": "ES",
+      "lat": 41.05,
+      "lon": -2.916667
+    },
+    {
+      "id": "PIAS",
+      "name": "Pias",
+      "countryCode": "ES",
+      "lat": 42.116667,
+      "lon": -7.0
+    },
+    {
+      "id": "QUIEBRAJANO",
+      "name": "Quiebrajano",
+      "countryCode": "ES",
+      "lat": 37.633333,
+      "lon": -3.716667
+    },
+    {
+      "id": "QUENTAR",
+      "name": "Quentar",
+      "countryCode": "ES",
+      "lat": 37.216667,
+      "lon": -3.433333
+    },
+    {
+      "id": "REQUEJADA",
+      "name": "Requejada",
+      "countryCode": "ES",
+      "lat": 42.916667,
+      "lon": -4.5
+    },
+    {
+      "id": "RETORTILLO",
+      "name": "Retortillo",
+      "countryCode": "ES",
+      "lat": 37.85,
+      "lon": -5.366667
+    },
+    {
+      "id": "RIALB",
+      "name": "Rialb",
+      "countryCode": "ES",
+      "lat": 41.966667,
+      "lon": 1.233333
+    },
+    {
+      "id": "RIANO",
+      "name": "Riano",
+      "countryCode": "ES",
+      "lat": 42.966667,
+      "lon": -5.0
+    },
+    {
+      "id": "RIBADAVIA",
+      "name": "Ribadavia",
+      "countryCode": "ES",
+      "lat": 42.266667,
+      "lon": -8.15
+    },
+    {
+      "id": "RIBADEO",
+      "name": "Ribadeo",
+      "countryCode": "ES",
+      "lat": 43.533333,
+      "lon": -7.033333
+    },
+    {
+      "id": "RIBADESELLA",
+      "name": "Ribadesella",
+      "countryCode": "ES",
+      "lat": 43.466667,
+      "lon": -5.066667
+    },
+    {
+      "id": "RIBARROJA_NORTE",
+      "name": "Ribarroja Norte",
+      "countryCode": "ES",
+      "lat": 41.3,
+      "lon": 0.35
+    },
+    {
+      "id": "RIBARROJA_SUR",
+      "name": "Ribarroja Sur",
+      "countryCode": "ES",
+      "lat": 41.266667,
+      "lon": 0.35
+    },
+    {
+      "id": "RICOBAYO_CENTRO",
+      "name": "Ricobayo Centro",
+      "countryCode": "ES",
+      "lat": 41.666667,
+      "lon": -5.866667
+    },
+    {
+      "id": "RICOBAYO_NORTE",
+      "name": "Ricobayo Norte",
+      "countryCode": "ES",
+      "lat": 41.75,
+      "lon": -5.816667
+    },
+    {
+      "id": "RICOBAYO_SUR",
+      "name": "Ricobayo Sur",
+      "countryCode": "ES",
+      "lat": 41.6,
+      "lon": -5.966667
+    },
+    {
+      "id": "RIOLOBOS",
+      "name": "Riolobos",
+      "countryCode": "ES",
+      "lat": 41.0,
+      "lon": -5.3
+    },
+    {
+      "id": "RIOSEQUILLO",
+      "name": "Riosequillo",
+      "countryCode": "ES",
+      "lat": 40.983333,
+      "lon": -3.65
+    },
+    {
+      "id": "RIUDECANYES",
+      "name": "Riudecanyes",
+      "countryCode": "ES",
+      "lat": 41.133333,
+      "lon": 0.95
+    },
+    {
+      "id": "RIVERA_DE_GATA",
+      "name": "Rivera De Gata",
+      "countryCode": "ES",
+      "lat": 40.15,
+      "lon": -6.633333
+    },
+    {
+      "id": "ROSARITO",
+      "name": "Rosarito",
+      "countryCode": "ES",
+      "lat": 40.1,
+      "lon": -5.316667
+    },
+    {
+      "id": "RUECAS",
+      "name": "Ruecas",
+      "countryCode": "ES",
+      "lat": 39.283333,
+      "lon": -5.483333
+    },
+    {
+      "id": "RULES",
+      "name": "Rules",
+      "countryCode": "ES",
+      "lat": 36.866667,
+      "lon": -3.483333
+    },
+    {
+      "id": "RIA_DEL_BARQUERO",
+      "name": "Ria Del Barquero",
+      "countryCode": "ES",
+      "lat": 43.733333,
+      "lon": -7.683333
+    },
+    {
+      "id": "RIA_DE_ALDAN",
+      "name": "Ria De Aldan",
+      "countryCode": "ES",
+      "lat": 42.3,
+      "lon": -8.833333
+    },
+    {
+      "id": "RIA_DE_ARES",
+      "name": "Ria De Ares",
+      "countryCode": "ES",
+      "lat": 43.416667,
+      "lon": -8.2
+    },
+    {
+      "id": "RIA_DE_AROSA",
+      "name": "Ria De Arosa",
+      "countryCode": "ES",
+      "lat": 42.633333,
+      "lon": -8.8
+    },
+    {
+      "id": "RIA_DE_BAYONA",
+      "name": "Ria De Bayona",
+      "countryCode": "ES",
+      "lat": 42.133333,
+      "lon": -8.833333
+    },
+    {
+      "id": "RIA_DE_BETANZOS",
+      "name": "Ria De Betanzos",
+      "countryCode": "ES",
+      "lat": 43.366667,
+      "lon": -8.233333
+    },
+    {
+      "id": "RIA_DE_CAMARINAS",
+      "name": "Ría De Camarinas",
+      "countryCode": "ES",
+      "lat": 43.116667,
+      "lon": -9.183333
+    },
+    {
+      "id": "RIA_DE_CORCUBION",
+      "name": "Ria De Corcubion",
+      "countryCode": "ES",
+      "lat": 42.9,
+      "lon": -9.2
+    },
+    {
+      "id": "RIA_DE_CORME_Y_LAGE",
+      "name": "Ria De Corme Y Lage",
+      "countryCode": "ES",
+      "lat": 43.233333,
+      "lon": -8.95
+    },
+    {
+      "id": "RIA_DE_EL_FERROL",
+      "name": "Ria De El Ferrol",
+      "countryCode": "ES",
+      "lat": 43.466667,
+      "lon": -8.216667
+    },
+    {
+      "id": "RIA_DE_FOZ",
+      "name": "Ria De Foz",
+      "countryCode": "ES",
+      "lat": 43.566667,
+      "lon": -7.25
+    },
+    {
+      "id": "RIA_DE_LA_CORUNA",
+      "name": "Ria De La Coruna",
+      "countryCode": "ES",
+      "lat": 43.35,
+      "lon": -8.366667
+    },
+    {
+      "id": "RIA_DE_MUROS_Y_NOYA",
+      "name": "Ria De Muros Y Noya",
+      "countryCode": "ES",
+      "lat": 42.75,
+      "lon": -9.0
+    },
+    {
+      "id": "RIA_DE_NAVIA",
+      "name": "Ria De Navia",
+      "countryCode": "ES",
+      "lat": 43.55,
+      "lon": -6.733333
+    },
+    {
+      "id": "RIA_DE_ORTIGUEIRA",
+      "name": "Ria De Ortigueira",
+      "countryCode": "ES",
+      "lat": 43.7,
+      "lon": -7.883333
+    },
+    {
+      "id": "RIA_DE_PONTEVEDRA",
+      "name": "Ria De Pontevedra",
+      "countryCode": "ES",
+      "lat": 42.416667,
+      "lon": -8.7
+    },
+    {
+      "id": "RIA_DE_PRAVIA",
+      "name": "Ria De Pravia",
+      "countryCode": "ES",
+      "lat": 43.55,
+      "lon": -6.083333
+    },
+    {
+      "id": "RIA_DE_SANTONA",
+      "name": "Ria De Santona",
+      "countryCode": "ES",
+      "lat": 43.416667,
+      "lon": -3.466667
+    },
+    {
+      "id": "RIA_DE_VIGO",
+      "name": "Ria De Vigo",
+      "countryCode": "ES",
+      "lat": 42.266667,
+      "lon": -8.7
+    },
+    {
+      "id": "RIA_DE_VIVERO",
+      "name": "Ria De Vivero",
+      "countryCode": "ES",
+      "lat": 43.683333,
+      "lon": -7.6
+    },
+    {
+      "id": "RIO_ALMONTE",
+      "name": "Rio Almonte",
+      "countryCode": "ES",
+      "lat": 39.666667,
+      "lon": -6.45
+    },
+    {
+      "id": "RIO_TINTO",
+      "name": "Rio Tinto",
+      "countryCode": "ES",
+      "lat": 37.233333,
+      "lon": -6.916667
+    },
+    {
+      "id": "RIO_ULLA",
+      "name": "Rio Ulla",
+      "countryCode": "ES",
+      "lat": 42.716667,
+      "lon": -8.7
+    },
+    {
+      "id": "RUMBLAR",
+      "name": "Rumblar",
+      "countryCode": "ES",
+      "lat": 38.183333,
+      "lon": -3.8
+    },
+    {
+      "id": "SALAS",
+      "name": "Salas",
+      "countryCode": "ES",
+      "lat": 41.916667,
+      "lon": -7.933333
+    },
+    {
+      "id": "SALIME",
+      "name": "Salime",
+      "countryCode": "ES",
+      "lat": 43.2,
+      "lon": -6.866667
+    },
+    {
+      "id": "SALOBRENA",
+      "name": "Salobrena",
+      "countryCode": "ES",
+      "lat": 36.733333,
+      "lon": -3.633333
+    },
+    {
+      "id": "SANTA_ANA",
+      "name": "Santa Ana",
+      "countryCode": "ES",
+      "lat": 41.9,
+      "lon": 0.6
+    },
+    {
+      "id": "SANTA_CRUZ_DE_LA_PALMA",
+      "name": "Santa Cruz De La Palma",
+      "countryCode": "ES",
+      "lat": 28.683333,
+      "lon": -17.766667
+    },
+    {
+      "id": "SANTA_CRUZ_DE_TENERIFE",
+      "name": "Santa Cruz De Tenerife",
+      "countryCode": "ES",
+      "lat": 28.483333,
+      "lon": -16.233333
+    },
+    {
+      "id": "SANTA_EUGENIA",
+      "name": "Santa Eugenia",
+      "countryCode": "ES",
+      "lat": 42.916667,
+      "lon": -9.1
+    },
+    {
+      "id": "SANTA_POLA",
+      "name": "Santa Pola",
+      "countryCode": "ES",
+      "lat": 38.183333,
+      "lon": -0.566667
+    },
+    {
+      "id": "SANTA_TERESA",
+      "name": "Santa Teresa",
+      "countryCode": "ES",
+      "lat": 40.6,
+      "lon": -5.566667
+    },
+    {
+      "id": "SANTILLANA",
+      "name": "Santillana",
+      "countryCode": "ES",
+      "lat": 40.733333,
+      "lon": -3.833333
+    },
+    {
+      "id": "SANTOLEA",
+      "name": "Santolea",
+      "countryCode": "ES",
+      "lat": 40.75,
+      "lon": -0.333333
+    },
+    {
+      "id": "SANTOMERA",
+      "name": "Santomera",
+      "countryCode": "ES",
+      "lat": 38.1,
+      "lon": -1.1
+    },
+    {
+      "id": "SAN_BARTOLOME",
+      "name": "San Bartolome",
+      "countryCode": "ES",
+      "lat": 42.216667,
+      "lon": -1.15
+    },
+    {
+      "id": "SAN_CARLOS_DE_LA_RAPITA",
+      "name": "San Carlos De La Rapita",
+      "countryCode": "ES",
+      "lat": 40.616667,
+      "lon": 0.666667
+    },
+    {
+      "id": "SAN_CLEMENTE",
+      "name": "San Clemente",
+      "countryCode": "ES",
+      "lat": 37.866667,
+      "lon": -2.65
+    },
+    {
+      "id": "SAN_ESTEBAN",
+      "name": "San Esteban",
+      "countryCode": "ES",
+      "lat": 42.383333,
+      "lon": -7.533333
+    },
+    {
+      "id": "SAN_JOSE",
+      "name": "San Jose",
+      "countryCode": "ES",
+      "lat": 41.4,
+      "lon": -5.25
+    },
+    {
+      "id": "SAN_JUAN_ESTE",
+      "name": "San Juan Este",
+      "countryCode": "ES",
+      "lat": 40.383333,
+      "lon": -4.333333
+    },
+    {
+      "id": "SAN_JUAN_OESTE",
+      "name": "San Juan Oeste",
+      "countryCode": "ES",
+      "lat": 40.4,
+      "lon": -4.4
+    },
+    {
+      "id": "SAN_LORENZO",
+      "name": "San Lorenzo",
+      "countryCode": "ES",
+      "lat": 41.866667,
+      "lon": 0.833333
+    },
+    {
+      "id": "SAN_PONCIO",
+      "name": "San Poncio",
+      "countryCode": "ES",
+      "lat": 41.966667,
+      "lon": 1.6
+    },
+    {
+      "id": "SAN_RAFAEL_DE_NAVALLANA",
+      "name": "San Rafael De Navallana",
+      "countryCode": "ES",
+      "lat": 37.966667,
+      "lon": -4.616667
+    },
+    {
+      "id": "SAN_SALVADOR",
+      "name": "San Salvador",
+      "countryCode": "ES",
+      "lat": 41.766667,
+      "lon": 0.183333
+    },
+    {
+      "id": "SAN_SEBASTIAN",
+      "name": "San Sebastian",
+      "countryCode": "ES",
+      "lat": 42.15,
+      "lon": -6.933333
+    },
+    {
+      "id": "SAN_VICENTE_DE_LA_BARQUERA",
+      "name": "San Vicente De La Barquera",
+      "countryCode": "ES",
+      "lat": 43.383333,
+      "lon": -4.4
+    },
+    {
+      "id": "SARDINA",
+      "name": "Sardina",
+      "countryCode": "ES",
+      "lat": 28.15,
+      "lon": -15.7
+    },
+    {
+      "id": "SAU",
+      "name": "Sau",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": 2.383333
+    },
+    {
+      "id": "SAUCELLE",
+      "name": "Saucelle",
+      "countryCode": "ES",
+      "lat": 41.083333,
+      "lon": -6.766667
+    },
+    {
+      "id": "SEQUEIROS",
+      "name": "Sequeiros",
+      "countryCode": "ES",
+      "lat": 42.45,
+      "lon": -7.233333
+    },
+    {
+      "id": "SERONES",
+      "name": "Serones",
+      "countryCode": "ES",
+      "lat": 40.683333,
+      "lon": -4.45
+    },
+    {
+      "id": "SIERRA_BOYERA",
+      "name": "Sierra Boyera",
+      "countryCode": "ES",
+      "lat": 38.266667,
+      "lon": -5.233333
+    },
+    {
+      "id": "SIERRA_BRAVA",
+      "name": "Sierra Brava",
+      "countryCode": "ES",
+      "lat": 39.233333,
+      "lon": -5.633333
+    },
+    {
+      "id": "SILES",
+      "name": "Siles",
+      "countryCode": "ES",
+      "lat": 38.4,
+      "lon": -2.6
+    },
+    {
+      "id": "SITGES",
+      "name": "Sitges",
+      "countryCode": "ES",
+      "lat": 41.233333,
+      "lon": 1.816667
+    },
+    {
+      "id": "SOBRON",
+      "name": "Sobron",
+      "countryCode": "ES",
+      "lat": 42.75,
+      "lon": -3.116667
+    },
+    {
+      "id": "SUANCES",
+      "name": "Suances",
+      "countryCode": "ES",
+      "lat": 43.433333,
+      "lon": -4.033333
+    },
+    {
+      "id": "SUSQUEDA",
+      "name": "Susqueda",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": 2.516667
+    },
+    {
+      "id": "SALOR",
+      "name": "Salor",
+      "countryCode": "ES",
+      "lat": 39.35,
+      "lon": -6.3
+    },
+    {
+      "id": "SICHAR",
+      "name": "Sichar",
+      "countryCode": "ES",
+      "lat": 40.016667,
+      "lon": -0.233333
+    },
+    {
+      "id": "TAIBILLA",
+      "name": "Taibilla",
+      "countryCode": "ES",
+      "lat": 38.183333,
+      "lon": -2.25
+    },
+    {
+      "id": "TAJO_CENTRO",
+      "name": "Tajo Centro",
+      "countryCode": "ES",
+      "lat": 39.766667,
+      "lon": -6.216667
+    },
+    {
+      "id": "TAJO_ESTE",
+      "name": "Tajo Este",
+      "countryCode": "ES",
+      "lat": 39.816667,
+      "lon": -6.066667
+    },
+    {
+      "id": "TAJO_OESTE",
+      "name": "Tajo Oeste",
+      "countryCode": "ES",
+      "lat": 39.75,
+      "lon": -6.3
+    },
+    {
+      "id": "TALARN_TREMP",
+      "name": "Talarn-Tremp",
+      "countryCode": "ES",
+      "lat": 42.2,
+      "lon": 0.95
+    },
+    {
+      "id": "TENERIFE_NORTE_UME",
+      "name": "Tenerife Norte - Ume",
+      "countryCode": "ES",
+      "lat": 28.483333,
+      "lon": -16.333333
+    },
+    {
+      "id": "TENERIFE_SUR_UME",
+      "name": "Tenerife Sur - Ume",
+      "countryCode": "ES",
+      "lat": 28.05,
+      "lon": -16.566667
+    },
+    {
+      "id": "TENTUDIA",
+      "name": "Tentudia",
+      "countryCode": "ES",
+      "lat": 38.1,
+      "lon": -6.316667
+    },
+    {
+      "id": "TERRADETS",
+      "name": "Terradets",
+      "countryCode": "ES",
+      "lat": 42.066667,
+      "lon": 0.883333
+    },
+    {
+      "id": "TIETAR",
+      "name": "Tietar",
+      "countryCode": "ES",
+      "lat": 39.85,
+      "lon": -5.966667
+    },
+    {
+      "id": "TORINA",
+      "name": "Torina",
+      "countryCode": "ES",
+      "lat": 43.083333,
+      "lon": -4.0
+    },
+    {
+      "id": "TORREJON_UME",
+      "name": "Torrejon - Ume",
+      "countryCode": "ES",
+      "lat": 40.483333,
+      "lon": -3.45
+    },
+    {
+      "id": "TORREJON_CENTRO",
+      "name": "Torrejon Centro",
+      "countryCode": "ES",
+      "lat": 39.783333,
+      "lon": -5.85
+    },
+    {
+      "id": "TORREJON_ESTE",
+      "name": "Torrejon Este",
+      "countryCode": "ES",
+      "lat": 39.766667,
+      "lon": -5.783333
+    },
+    {
+      "id": "TORREJON_OESTE",
+      "name": "Torrejon Oeste",
+      "countryCode": "ES",
+      "lat": 39.8,
+      "lon": -5.916667
+    },
+    {
+      "id": "TORREVIEJA",
+      "name": "Torrevieja",
+      "countryCode": "ES",
+      "lat": 37.966667,
+      "lon": -0.683333
+    },
+    {
+      "id": "TORRE_DEL_MAR",
+      "name": "Torre Del Mar",
+      "countryCode": "ES",
+      "lat": 36.733333,
+      "lon": -4.083333
+    },
+    {
+      "id": "TORRE_DEL_AGUILA",
+      "name": "Torre Del Aguila",
+      "countryCode": "ES",
+      "lat": 37.05,
+      "lon": -5.733333
+    },
+    {
+      "id": "TORRE_DE_ABRAHAM",
+      "name": "Torre De Abraham",
+      "countryCode": "ES",
+      "lat": 39.383333,
+      "lon": -4.25
+    },
+    {
+      "id": "TORROLLON",
+      "name": "Torrollon",
+      "countryCode": "ES",
+      "lat": 41.916667,
+      "lon": -0.266667
+    },
+    {
+      "id": "TOUS",
+      "name": "Tous",
+      "countryCode": "ES",
+      "lat": 39.15,
+      "lon": -0.666667
+    },
+    {
+      "id": "TRANCO_DE_BEAS",
+      "name": "Tranco De Beas",
+      "countryCode": "ES",
+      "lat": 38.133333,
+      "lon": -2.766667
+    },
+    {
+      "id": "TUDELA",
+      "name": "Tudela",
+      "countryCode": "ES",
+      "lat": 42.1,
+      "lon": -1.6
+    },
+    {
+      "id": "ULLDECONA",
+      "name": "Ulldecona",
+      "countryCode": "ES",
+      "lat": 40.666667,
+      "lon": 0.233333
+    },
+    {
+      "id": "ULLIBARRI",
+      "name": "Ullibarri",
+      "countryCode": "ES",
+      "lat": 42.933333,
+      "lon": -2.583333
+    },
+    {
+      "id": "URKULU",
+      "name": "Urkulu",
+      "countryCode": "ES",
+      "lat": 43.016667,
+      "lon": -2.466667
+    },
+    {
+      "id": "URRUNAGA",
+      "name": "Urrunaga",
+      "countryCode": "ES",
+      "lat": 42.966667,
+      "lon": -2.666667
+    },
+    {
+      "id": "UTCHESA",
+      "name": "Utchesa",
+      "countryCode": "ES",
+      "lat": 41.5,
+      "lon": 0.533333
+    },
+    {
+      "id": "UZQUIZA",
+      "name": "Uzquiza",
+      "countryCode": "ES",
+      "lat": 42.3,
+      "lon": -3.35
+    },
+    {
+      "id": "VADIELLO",
+      "name": "Vadiello",
+      "countryCode": "ES",
+      "lat": 42.25,
+      "lon": -0.283333
+    },
+    {
+      "id": "VADOMOJON",
+      "name": "Vadomojon",
+      "countryCode": "ES",
+      "lat": 37.633333,
+      "lon": -4.216667
+    },
+    {
+      "id": "VALDABRA",
+      "name": "Valdabra",
+      "countryCode": "ES",
+      "lat": 42.083333,
+      "lon": -0.45
+    },
+    {
+      "id": "VALDECABALLEROS",
+      "name": "Valdecaballeros",
+      "countryCode": "ES",
+      "lat": 39.283333,
+      "lon": -5.166667
+    },
+    {
+      "id": "VALDECANAS_ESTE",
+      "name": "Valdecanas Este",
+      "countryCode": "ES",
+      "lat": 39.816667,
+      "lon": -5.416667
+    },
+    {
+      "id": "VALDECANAS_OESTE",
+      "name": "Valdecanas Oeste",
+      "countryCode": "ES",
+      "lat": 39.816667,
+      "lon": -5.55
+    },
+    {
+      "id": "VALDEINFIERNO",
+      "name": "Valdeinfierno",
+      "countryCode": "ES",
+      "lat": 37.8,
+      "lon": -1.966667
+    },
+    {
+      "id": "VALDEOBISPO",
+      "name": "Valdeobispo",
+      "countryCode": "ES",
+      "lat": 40.1,
+      "lon": -6.25
+    },
+    {
+      "id": "VALDEVAQUEROS",
+      "name": "Valdevaqueros",
+      "countryCode": "ES",
+      "lat": 36.066667,
+      "lon": -5.7
+    },
+    {
+      "id": "VALMAYOR",
+      "name": "Valmayor",
+      "countryCode": "ES",
+      "lat": 40.533333,
+      "lon": -4.05
+    },
+    {
+      "id": "VALPARAISO",
+      "name": "Valparaiso",
+      "countryCode": "ES",
+      "lat": 41.983333,
+      "lon": -6.3
+    },
+    {
+      "id": "VALUENGO",
+      "name": "Valuengo",
+      "countryCode": "ES",
+      "lat": 38.3,
+      "lon": -6.666667
+    },
+    {
+      "id": "VELILLA_DE_EBRO",
+      "name": "Velilla De Ebro",
+      "countryCode": "ES",
+      "lat": 41.366667,
+      "lon": -0.45
+    },
+    {
+      "id": "VELLE",
+      "name": "Velle",
+      "countryCode": "ES",
+      "lat": 42.366667,
+      "lon": -7.85
+    },
+    {
+      "id": "VILASOUTO",
+      "name": "Vilasouto",
+      "countryCode": "ES",
+      "lat": 42.666667,
+      "lon": -7.416667
+    },
+    {
+      "id": "VILLAGONZALO",
+      "name": "Villagonzalo",
+      "countryCode": "ES",
+      "lat": 40.866667,
+      "lon": -5.5
+    },
+    {
+      "id": "VILLAGUDIN",
+      "name": "Villagudin",
+      "countryCode": "ES",
+      "lat": 43.1,
+      "lon": -8.5
+    },
+    {
+      "id": "VILLALBA_DE_LOS_BARROS",
+      "name": "Villalba De Los Barros",
+      "countryCode": "ES",
+      "lat": 38.566667,
+      "lon": -6.5
+    },
+    {
+      "id": "VILLALCAMPO",
+      "name": "Villalcampo",
+      "countryCode": "ES",
+      "lat": 41.483333,
+      "lon": -6.066667
+    },
+    {
+      "id": "VILLAMECA",
+      "name": "Villameca",
+      "countryCode": "ES",
+      "lat": 42.65,
+      "lon": -6.066667
+    },
+    {
+      "id": "VILLANUEVA_Y_GELTRU",
+      "name": "Villanueva Y Geltru",
+      "countryCode": "ES",
+      "lat": 41.216667,
+      "lon": 1.75
+    },
+    {
+      "id": "VILLARALBO",
+      "name": "Villaralbo",
+      "countryCode": "ES",
+      "lat": 41.516667,
+      "lon": -5.666667
+    },
+    {
+      "id": "VILLARREAL",
+      "name": "Villarreal",
+      "countryCode": "ES",
+      "lat": 38.75,
+      "lon": -7.216667
+    },
+    {
+      "id": "VILLAR_DEL_REY",
+      "name": "Villar Del Rey",
+      "countryCode": "ES",
+      "lat": 39.2,
+      "lon": -6.866667
+    },
+    {
+      "id": "VILLAVICIOSA",
+      "name": "Villaviciosa",
+      "countryCode": "ES",
+      "lat": 43.516667,
+      "lon": -5.383333
+    },
+    {
+      "id": "YEGUAS",
+      "name": "Yeguas",
+      "countryCode": "ES",
+      "lat": 38.066667,
+      "lon": -4.25
+    },
+    {
+      "id": "YESA",
+      "name": "Yesa",
+      "countryCode": "ES",
+      "lat": 42.6,
+      "lon": -1.133333
+    },
+    {
+      "id": "ZAFRA",
+      "name": "Zafra",
+      "countryCode": "ES",
+      "lat": 38.416667,
+      "lon": -6.466667
+    },
+    {
+      "id": "ZAHARA",
+      "name": "Zahara",
+      "countryCode": "ES",
+      "lat": 36.833333,
+      "lon": -5.366667
+    },
+    {
+      "id": "ZARAGOZA_UME",
+      "name": "Zaragoza - Ume",
+      "countryCode": "ES",
+      "lat": 41.666667,
+      "lon": -1.05
+    },
+    {
+      "id": "ZUFRE",
+      "name": "Zufre",
+      "countryCode": "ES",
+      "lat": 37.8,
+      "lon": -6.3
+    },
+    {
+      "id": "ZUJAR",
+      "name": "Zujar",
+      "countryCode": "ES",
+      "lat": 38.933333,
+      "lon": -5.45
+    },
+    {
+      "id": "AGUEDA",
+      "name": "Agueda",
+      "countryCode": "ES",
+      "lat": 40.516667,
+      "lon": -6.483333
     }
   ]
 }
