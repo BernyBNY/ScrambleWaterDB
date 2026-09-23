@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T13:08:21Z",
+  "updatedAt": "2026-09-23T13:39:59Z",
   "waterPoints": [
     {
       "id": "AIGUEBLETTE",
@@ -6266,6 +6266,678 @@
       "countryCode": "IT",
       "lat": 45.48,
       "lon": 12.47
+    },
+    {
+      "id": "1_CAMINHA",
+      "name": "1 Caminha",
+      "countryCode": "PT",
+      "lat": 41.866667,
+      "lon": -8.85
+    },
+    {
+      "id": "1A_VALENCA",
+      "name": "1A Valenca",
+      "countryCode": "PT",
+      "lat": 42.016667,
+      "lon": -8.65
+    },
+    {
+      "id": "2_LANHELAS",
+      "name": "2 Lanhelas",
+      "countryCode": "PT",
+      "lat": 41.915279,
+      "lon": -8.700272
+    },
+    {
+      "id": "3_CERVEIRA",
+      "name": "3 Cerveira",
+      "countryCode": "PT",
+      "lat": 41.933336,
+      "lon": -8.755562
+    },
+    {
+      "id": "4_5_PORTO_DE_VIANA",
+      "name": "4 5 Porto De Viana",
+      "countryCode": "PT",
+      "lat": 41.683333,
+      "lon": -8.833333
+    },
+    {
+      "id": "4A_VIANA_DO_CASTELO",
+      "name": "4A Viana Do Castelo",
+      "countryCode": "PT",
+      "lat": 41.692778,
+      "lon": -8.798889
+    },
+    {
+      "id": "6_LOMBA",
+      "name": "6 Lomba",
+      "countryCode": "PT",
+      "lat": 41.05,
+      "lon": -8.416667
+    },
+    {
+      "id": "7_7A_PORTO_DA_RAIVA",
+      "name": "7 7A Porto Da Raiva",
+      "countryCode": "PT",
+      "lat": 41.05,
+      "lon": -8.333333
+    },
+    {
+      "id": "8_CARRAPATELO",
+      "name": "8 Carrapatelo",
+      "countryCode": "PT",
+      "lat": 41.1,
+      "lon": -8.1
+    },
+    {
+      "id": "9_CALDAS_DE_AREGOS",
+      "name": "9 Caldas De Aregos",
+      "countryCode": "PT",
+      "lat": 41.1,
+      "lon": -8.0
+    },
+    {
+      "id": "10_REGUA",
+      "name": "10 Regua",
+      "countryCode": "PT",
+      "lat": 41.15,
+      "lon": -7.683333
+    },
+    {
+      "id": "11_MOS",
+      "name": "11 Mos",
+      "countryCode": "PT",
+      "lat": 41.116667,
+      "lon": -7.183333
+    },
+    {
+      "id": "11A_MONCORVO",
+      "name": "11A Moncorvo",
+      "countryCode": "PT",
+      "lat": 41.166667,
+      "lon": -7.116667
+    },
+    {
+      "id": "11B_SRA_DA_RIBEIRA",
+      "name": "11B Sra Da Ribeira",
+      "countryCode": "PT",
+      "lat": 41.142222,
+      "lon": -7.241667
+    },
+    {
+      "id": "12_AVEIRO",
+      "name": "12 Aveiro",
+      "countryCode": "PT",
+      "lat": 40.666667,
+      "lon": -8.716667
+    },
+    {
+      "id": "13_13A_FIGUEIRA_DA_FOZ",
+      "name": "13 13A Figueira Da Foz",
+      "countryCode": "PT",
+      "lat": 40.15,
+      "lon": -8.85
+    },
+    {
+      "id": "14_15_CASCAIS",
+      "name": "14 15 Cascais",
+      "countryCode": "PT",
+      "lat": 38.683333,
+      "lon": -9.333333
+    },
+    {
+      "id": "16_LISBOA",
+      "name": "16 Lisboa",
+      "countryCode": "PT",
+      "lat": 38.716667,
+      "lon": -9.083333
+    },
+    {
+      "id": "17_17A_17B_VILA_FRANCA",
+      "name": "17 17A 17B Vila Franca",
+      "countryCode": "PT",
+      "lat": 38.95,
+      "lon": -9.0
+    },
+    {
+      "id": "17C_SALVATERRA_DE_MAGOS",
+      "name": "17C Salvaterra De Magos",
+      "countryCode": "PT",
+      "lat": 39.098055,
+      "lon": -8.691194
+    },
+    {
+      "id": "18_19_SETUBAL",
+      "name": "18 19 Setubal",
+      "countryCode": "PT",
+      "lat": 38.466667,
+      "lon": -8.766667
+    },
+    {
+      "id": "19A_ALCACER_DO_SAL",
+      "name": "19A Alcacer Do Sal",
+      "countryCode": "PT",
+      "lat": 38.405833,
+      "lon": -8.636667
+    },
+    {
+      "id": "20_LAGOS",
+      "name": "20 Lagos",
+      "countryCode": "PT",
+      "lat": 37.1,
+      "lon": -8.633333
+    },
+    {
+      "id": "21_FARO",
+      "name": "21 Faro",
+      "countryCode": "PT",
+      "lat": 36.966667,
+      "lon": -7.883333
+    },
+    {
+      "id": "22_23_SANTA_CLARA",
+      "name": "22 23 Santa Clara",
+      "countryCode": "PT",
+      "lat": 37.333333,
+      "lon": -7.45
+    },
+    {
+      "id": "24_SANTO_ANTONIO",
+      "name": "24 Santo Antonio",
+      "countryCode": "PT",
+      "lat": 37.2,
+      "lon": -7.416667
+    },
+    {
+      "id": "25_25A_VIEIRA_DO_MINHO",
+      "name": "25 25A Vieira Do Minho",
+      "countryCode": "PT",
+      "lat": 41.666667,
+      "lon": -8.183333
+    },
+    {
+      "id": "26_ARCOS_VALDEVEZ",
+      "name": "26 Arcos Valdevez",
+      "countryCode": "PT",
+      "lat": 41.8875,
+      "lon": -8.15
+    },
+    {
+      "id": "27_TERRAS_DE_BOURO",
+      "name": "27 Terras De Bouro",
+      "countryCode": "PT",
+      "lat": 41.766667,
+      "lon": -8.2
+    },
+    {
+      "id": "28_MONTALEGRE",
+      "name": "28 Montalegre",
+      "countryCode": "PT",
+      "lat": 41.75,
+      "lon": -7.8
+    },
+    {
+      "id": "28A_VENDA_NOVA",
+      "name": "28A Venda Nova",
+      "countryCode": "PT",
+      "lat": 41.676111,
+      "lon": -7.968889
+    },
+    {
+      "id": "29_MACEDO_DE_CAVALEIROS",
+      "name": "29 Macedo De Cavaleiros",
+      "countryCode": "PT",
+      "lat": 41.566667,
+      "lon": -6.91
+    },
+    {
+      "id": "29A_MONCORVO",
+      "name": "29A Moncorvo",
+      "countryCode": "PT",
+      "lat": 41.23967,
+      "lon": -7.007
+    },
+    {
+      "id": "29B_MONCORVO",
+      "name": "29B Moncorvo",
+      "countryCode": "PT",
+      "lat": 41.283,
+      "lon": -6.875
+    },
+    {
+      "id": "30_SERNANCELHE",
+      "name": "30 Sernancelhe",
+      "countryCode": "PT",
+      "lat": 40.95,
+      "lon": -7.533333
+    },
+    {
+      "id": "31_TRANCOSO",
+      "name": "31 Trancoso",
+      "countryCode": "PT",
+      "lat": 40.866667,
+      "lon": -7.35
+    },
+    {
+      "id": "32_PINHEL",
+      "name": "32 Pinhel",
+      "countryCode": "PT",
+      "lat": 40.683333,
+      "lon": -7.25
+    },
+    {
+      "id": "32A_PINHEL",
+      "name": "32A Pinhel",
+      "countryCode": "PT",
+      "lat": 40.721333,
+      "lon": -7.089
+    },
+    {
+      "id": "33_MORTAGUA",
+      "name": "33 Mortagua",
+      "countryCode": "PT",
+      "lat": 40.366667,
+      "lon": -8.166667
+    },
+    {
+      "id": "33A_33B_OLIVEIRA_DE_FRADES",
+      "name": "33A 33B Oliveira De Frades",
+      "countryCode": "PT",
+      "lat": 40.741,
+      "lon": -8.316
+    },
+    {
+      "id": "33C_OLIVEIRA_DE_FRADES",
+      "name": "33C Oliveira De Frades",
+      "countryCode": "PT",
+      "lat": 40.747,
+      "lon": -8.214
+    },
+    {
+      "id": "34_SABUGAL",
+      "name": "34 Sabugal",
+      "countryCode": "PT",
+      "lat": 40.316667,
+      "lon": -7.083333
+    },
+    {
+      "id": "35_ALCAINS",
+      "name": "35 Alcains",
+      "countryCode": "PT",
+      "lat": 39.983333,
+      "lon": -7.483333
+    },
+    {
+      "id": "36_IDANHA_A_NOVA",
+      "name": "36 Idanha A Nova",
+      "countryCode": "PT",
+      "lat": 39.966667,
+      "lon": -7.2
+    },
+    {
+      "id": "37_PEDROGAO",
+      "name": "37 Pedrogao",
+      "countryCode": "PT",
+      "lat": 39.933333,
+      "lon": -8.116667
+    },
+    {
+      "id": "38_SERTA",
+      "name": "38 Serta",
+      "countryCode": "PT",
+      "lat": 39.766667,
+      "lon": -8.233333
+    },
+    {
+      "id": "39_FERREIRA_DO_ZEZERE",
+      "name": "39 Ferreira Do Zezere",
+      "countryCode": "PT",
+      "lat": 39.65,
+      "lon": -8.233333
+    },
+    {
+      "id": "40_TOMAR",
+      "name": "40 Tomar",
+      "countryCode": "PT",
+      "lat": 39.6,
+      "lon": -8.25
+    },
+    {
+      "id": "41_ABRANTES",
+      "name": "41 Abrantes",
+      "countryCode": "PT",
+      "lat": 39.549722,
+      "lon": -8.3
+    },
+    {
+      "id": "41B_GAVIAO",
+      "name": "41B Gaviao",
+      "countryCode": "PT",
+      "lat": 39.487,
+      "lon": -7.981
+    },
+    {
+      "id": "42_43",
+      "name": "42 43",
+      "countryCode": "PT",
+      "lat": 39.616667,
+      "lon": -7.683333
+    },
+    {
+      "id": "44_CASTELO_BRANCO",
+      "name": "44 Castelo Branco",
+      "countryCode": "PT",
+      "lat": 39.65,
+      "lon": -7.375
+    },
+    {
+      "id": "45_MONTARGIL",
+      "name": "45 Montargil",
+      "countryCode": "PT",
+      "lat": 39.1,
+      "lon": -8.133333
+    },
+    {
+      "id": "46_MARNHAO",
+      "name": "46 Marnhao",
+      "countryCode": "PT",
+      "lat": 39.05,
+      "lon": -7.933333
+    },
+    {
+      "id": "47_PEGO_DO_ALTAR",
+      "name": "47 Pego Do Altar",
+      "countryCode": "PT",
+      "lat": 38.416667,
+      "lon": -8.316667
+    },
+    {
+      "id": "48_VALE_DE_GAIO",
+      "name": "48 Vale De Gaio",
+      "countryCode": "PT",
+      "lat": 38.266667,
+      "lon": -8.266667
+    },
+    {
+      "id": "49_CAIA",
+      "name": "49 Caia",
+      "countryCode": "PT",
+      "lat": 39.0,
+      "lon": -7.15
+    },
+    {
+      "id": "49A_ABRILONGO",
+      "name": "49A Abrilongo",
+      "countryCode": "PT",
+      "lat": 39.083333,
+      "lon": -7.116667
+    },
+    {
+      "id": "50_ALVITO",
+      "name": "50 Alvito",
+      "countryCode": "PT",
+      "lat": 38.283333,
+      "lon": -7.9
+    },
+    {
+      "id": "51_ODIVELAS",
+      "name": "51 Odivelas",
+      "countryCode": "PT",
+      "lat": 38.183333,
+      "lon": -8.083333
+    },
+    {
+      "id": "52_53_54_MOURAO",
+      "name": "52 53 54 Mourao",
+      "countryCode": "PT",
+      "lat": 38.333333,
+      "lon": -7.416667
+    },
+    {
+      "id": "55_CAMPILHAS",
+      "name": "55 Campilhas",
+      "countryCode": "PT",
+      "lat": 37.85,
+      "lon": -8.633333
+    },
+    {
+      "id": "56_ROXO",
+      "name": "56 Roxo",
+      "countryCode": "PT",
+      "lat": 37.933333,
+      "lon": -8.066667
+    },
+    {
+      "id": "57_OURIQUE",
+      "name": "57 Ourique",
+      "countryCode": "PT",
+      "lat": 37.716667,
+      "lon": -8.283333
+    },
+    {
+      "id": "58_ODEMIRA",
+      "name": "58 Odemira",
+      "countryCode": "PT",
+      "lat": 37.516667,
+      "lon": -8.433333
+    },
+    {
+      "id": "59_BRAVURA",
+      "name": "59 Bravura",
+      "countryCode": "PT",
+      "lat": 37.2,
+      "lon": -8.7
+    },
+    {
+      "id": "60_ODELEITE",
+      "name": "60 Odeleite",
+      "countryCode": "PT",
+      "lat": 37.333333,
+      "lon": -7.5
+    },
+    {
+      "id": "61_BELICHE",
+      "name": "61 Beliche",
+      "countryCode": "PT",
+      "lat": 37.27,
+      "lon": -7.51
+    },
+    {
+      "id": "62_ESPOSENDE",
+      "name": "62 Esposende",
+      "countryCode": "PT",
+      "lat": 41.53,
+      "lon": -8.78
+    },
+    {
+      "id": "69_SAO_TORPES",
+      "name": "69 Sao Torpes",
+      "countryCode": "PT",
+      "lat": 37.916667,
+      "lon": -8.816667
+    },
+    {
+      "id": "69A_MORGAVEL",
+      "name": "69A Morgavel",
+      "countryCode": "PT",
+      "lat": 37.9,
+      "lon": -8.75
+    },
+    {
+      "id": "71_LAS_CONCHAS",
+      "name": "71 Las Conchas",
+      "countryCode": "PT",
+      "lat": 41.966667,
+      "lon": -7.983333
+    },
+    {
+      "id": "72_SALAS",
+      "name": "72 Salas",
+      "countryCode": "PT",
+      "lat": 41.916667,
+      "lon": -7.933333
+    },
+    {
+      "id": "73_LAS_PORTAS",
+      "name": "73 Las Portas",
+      "countryCode": "PT",
+      "lat": 42.1,
+      "lon": -7.216667
+    },
+    {
+      "id": "74_SANABRIA",
+      "name": "74 Sanabria",
+      "countryCode": "PT",
+      "lat": 42.116667,
+      "lon": -6.716667
+    },
+    {
+      "id": "75_CERNADILLA",
+      "name": "75 Cernadilla",
+      "countryCode": "PT",
+      "lat": 42.0,
+      "lon": -6.466667
+    },
+    {
+      "id": "76_VALPARAISO",
+      "name": "76 Valparaiso",
+      "countryCode": "PT",
+      "lat": 41.983333,
+      "lon": -6.283333
+    },
+    {
+      "id": "77_TERA",
+      "name": "77 Tera",
+      "countryCode": "PT",
+      "lat": 41.966667,
+      "lon": -6.15
+    },
+    {
+      "id": "78_RICOBAYO",
+      "name": "78 Ricobayo",
+      "countryCode": "PT",
+      "lat": 41.616667,
+      "lon": -5.916667
+    },
+    {
+      "id": "79_ALMENDRA",
+      "name": "79 Almendra",
+      "countryCode": "PT",
+      "lat": 41.25,
+      "lon": -6.283056
+    },
+    {
+      "id": "80_SAUCELLE",
+      "name": "80 Saucelle",
+      "countryCode": "PT",
+      "lat": 41.066667,
+      "lon": -6.766667
+    },
+    {
+      "id": "81_BORBOLLON",
+      "name": "81 Borbollon",
+      "countryCode": "PT",
+      "lat": 40.133333,
+      "lon": -6.566667
+    },
+    {
+      "id": "82_ALCANTARA",
+      "name": "82 Alcantara",
+      "countryCode": "PT",
+      "lat": 39.733333,
+      "lon": -6.866667
+    },
+    {
+      "id": "83_ALBUQUERQUE",
+      "name": "83 Albuquerque",
+      "countryCode": "PT",
+      "lat": 39.183333,
+      "lon": -6.866667
+    },
+    {
+      "id": "84_CHANZA",
+      "name": "84 Chanza",
+      "countryCode": "PT",
+      "lat": 37.583333,
+      "lon": -7.5
+    },
+    {
+      "id": "85_86_POCINHO",
+      "name": "85 86 Pocinho",
+      "countryCode": "PT",
+      "lat": 41.05,
+      "lon": -7.05
+    },
+    {
+      "id": "87_ALIJO",
+      "name": "87 Alijo",
+      "countryCode": "PT",
+      "lat": 41.15,
+      "lon": -7.566667
+    },
+    {
+      "id": "88_NISA",
+      "name": "88 Nisa",
+      "countryCode": "PT",
+      "lat": 39.466667,
+      "lon": -7.55
+    },
+    {
+      "id": "89_TABUA",
+      "name": "89 Tabua",
+      "countryCode": "PT",
+      "lat": 40.383333,
+      "lon": -8.0
+    },
+    {
+      "id": "90_CASTELO_BODE",
+      "name": "90 Castelo Bode",
+      "countryCode": "PT",
+      "lat": 39.616667,
+      "lon": -8.166667
+    },
+    {
+      "id": "91_MINUTOS",
+      "name": "91 Minutos",
+      "countryCode": "PT",
+      "lat": 38.65,
+      "lon": -8.083333
+    },
+    {
+      "id": "91A_CORUCHE",
+      "name": "91A Coruche",
+      "countryCode": "PT",
+      "lat": 38.9,
+      "lon": -8.47
+    },
+    {
+      "id": "91B_INFANTADO",
+      "name": "91B Infantado",
+      "countryCode": "PT",
+      "lat": 38.772,
+      "lon": -8.838
+    },
+    {
+      "id": "92_MONTE_NOVO",
+      "name": "92 Monte Novo",
+      "countryCode": "PT",
+      "lat": 38.516667,
+      "lon": -7.716667
+    },
+    {
+      "id": "92A_VIGIA",
+      "name": "92A Vigia",
+      "countryCode": "PT",
+      "lat": 38.55,
+      "lon": -7.583333
+    },
+    {
+      "id": "93_PORTIMAO",
+      "name": "93 Portimao",
+      "countryCode": "PT",
+      "lat": 37.144,
+      "lon": -8.516
     }
   ]
 }
